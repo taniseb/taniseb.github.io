@@ -1,0 +1,100 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About / Sobre",
+    "section": "",
+    "text": "I’m an economist and data scientist with a background in public sector institutions and academic research. My work combines econometric methods, causal inference, and machine learning applied to real policy questions — always with open data and reproducible code.\nI hold a PhD in Economics from PUCRS (2017), a Master’s from UFMG (2014), and an undergraduate degree from UFRGS (2011). My research interests span macroeconomics, labor economics, and quantitative methods for policy evaluation.\nOutside of my institutional work, I build independent data projects exploring Brazilian public data — from labor market dynamics to macroeconomic forecasting. Everything on this site is done independently, with open code on GitHub.\nI’m available for research collaborations and data consulting projects. If you’re working on a project that could benefit from quantitative economic analysis, feel free to reach out.\n\n\n\n\n\n\n\n\n\n\nArea\nTools\n\n\n\n\nCausal Inference\nDiD, Synthetic Control, RDD, IV, Propensity Matching\n\n\nMachine Learning\nXGBoost, Random Forest, LASSO, Neural Networks\n\n\nLanguages\nPython, R, SQL\n\n\nVisualization\nPlotly, Altair, ggplot2, Streamlit\n\n\nData\nRAIS, IBGE, BCB API, PNAD, Kaggle\n\n\n\n\n\n\n\nPhD in Economics · PUCRS · 2017\nMSc in Economics · UFMG · 2014\nBSc in Economics · UFRGS · 2011\n\n\n\n\n\nGitHub: github.com/taniseb\nLinkedIn: linkedin.com/in/YOUR-SLUG"
+  },
+  {
+    "objectID": "about.html#tanise-brandão",
+    "href": "about.html#tanise-brandão",
+    "title": "About / Sobre",
+    "section": "",
+    "text": "I’m an economist and data scientist with a background in public sector institutions and academic research. My work combines econometric methods, causal inference, and machine learning applied to real policy questions — always with open data and reproducible code.\nI hold a PhD in Economics from PUCRS (2017), a Master’s from UFMG (2014), and an undergraduate degree from UFRGS (2011). My research interests span macroeconomics, labor economics, and quantitative methods for policy evaluation.\nOutside of my institutional work, I build independent data projects exploring Brazilian public data — from labor market dynamics to macroeconomic forecasting. Everything on this site is done independently, with open code on GitHub.\nI’m available for research collaborations and data consulting projects. If you’re working on a project that could benefit from quantitative economic analysis, feel free to reach out.\n\n\n\n\n\n\n\n\n\n\nArea\nTools\n\n\n\n\nCausal Inference\nDiD, Synthetic Control, RDD, IV, Propensity Matching\n\n\nMachine Learning\nXGBoost, Random Forest, LASSO, Neural Networks\n\n\nLanguages\nPython, R, SQL\n\n\nVisualization\nPlotly, Altair, ggplot2, Streamlit\n\n\nData\nRAIS, IBGE, BCB API, PNAD, Kaggle\n\n\n\n\n\n\n\nPhD in Economics · PUCRS · 2017\nMSc in Economics · UFMG · 2014\nBSc in Economics · UFRGS · 2011\n\n\n\n\n\nGitHub: github.com/taniseb\nLinkedIn: linkedin.com/in/YOUR-SLUG"
+  },
+  {
+    "objectID": "about.html#sobre-mim-pt",
+    "href": "about.html#sobre-mim-pt",
+    "title": "About / Sobre",
+    "section": "Sobre mim (PT)",
+    "text": "Sobre mim (PT)\nSou economista e cientista de dados com formação em economia quantitativa e experiência no setor público e acadêmico. Tenho doutorado em Economia pela PUCRS, mestrado pela UFMG e graduação pela UFRGS.\nEste portfólio reúne projetos independentes de análise de dados, sempre com código aberto e dados públicos. Tenho interesse em colaborações de pesquisa e projetos de consultoria em análise quantitativa."
+  },
+  {
+    "objectID": "projects/nowcasting.html",
+    "href": "projects/nowcasting.html",
+    "title": "Nowcasting Brazilian Inflation with Machine Learning",
+    "section": "",
+    "text": "Note\n\n\n\nStatus: Work in progress. This page will be updated as the project develops."
+  },
+  {
+    "objectID": "projects/nowcasting.html#the-question",
+    "href": "projects/nowcasting.html#the-question",
+    "title": "Nowcasting Brazilian Inflation with Machine Learning",
+    "section": "The Question",
+    "text": "The Question\nBrazil’s official inflation index (IPCA) is released monthly by IBGE, typically 10–15 days after the reference period ends. During this window, policymakers, investors, and researchers are flying blind.\nCan machine learning models predict the IPCA release before it happens — and beat a simple autoregressive baseline?\nThis is called nowcasting — estimating economic variables in real time using a mix of early-release indicators and alternative data."
+  },
+  {
+    "objectID": "projects/nowcasting.html#why-this-matters",
+    "href": "projects/nowcasting.html#why-this-matters",
+    "title": "Nowcasting Brazilian Inflation with Machine Learning",
+    "section": "Why this matters",
+    "text": "Why this matters\nThe Banco Central do Brasil (BCB) sets the SELIC rate based partly on inflation expectations. If you can nowcast inflation more accurately, you can:\n\nBetter anticipate monetary policy decisions\nPrice fixed income instruments more precisely\nUnderstand which sectors are driving inflationary pressure in real time"
+  },
+  {
+    "objectID": "projects/nowcasting.html#data-sources",
+    "href": "projects/nowcasting.html#data-sources",
+    "title": "Nowcasting Brazilian Inflation with Machine Learning",
+    "section": "Data sources",
+    "text": "Data sources\n\n\n\nSource\nVariables\nFrequency\n\n\n\n\nBCB API (SGS)\nSELIC, exchange rate, M2, credit\nDaily / Monthly\n\n\nIBGE\nIPCA components, IPCA-15 (advance)\nMonthly\n\n\nGoogle Trends\nSearch terms correlated with prices\nWeekly\n\n\nCEPEA\nCommodity prices (agriculture)\nDaily\n\n\nFGV\nIGP-M, IPC-BR (early releases)\nMonthly\n\n\n\n# Pulling data from BCB API with python-bcb\nimport bcb\nfrom bcb import sgs\n\n# IPCA monthly (series 433)\nipca = sgs.get({'ipca': 433}, start='2010-01-01')\n\n# SELIC target (series 432)\nselic = sgs.get({'selic': 432}, start='2010-01-01')\n\nprint(ipca.tail())"
+  },
+  {
+    "objectID": "projects/nowcasting.html#methods",
+    "href": "projects/nowcasting.html#methods",
+    "title": "Nowcasting Brazilian Inflation with Machine Learning",
+    "section": "Methods",
+    "text": "Methods\nThree models are compared against a simple AR(12) baseline:\n1. LASSO regression — penalized linear model that selects the most relevant predictors from a large feature set. Interpretable and fast.\n2. XGBoost — gradient boosted trees. Handles non-linearities and interactions between indicators without feature engineering.\n3. LSTM — long short-term memory neural network. Captures temporal dependencies that tabular models may miss.\nBaseline: AR(12) — autoregressive model using 12 lags of IPCA. The benchmark to beat."
+  },
+  {
+    "objectID": "projects/nowcasting.html#evaluation",
+    "href": "projects/nowcasting.html#evaluation",
+    "title": "Nowcasting Brazilian Inflation with Machine Learning",
+    "section": "Evaluation",
+    "text": "Evaluation\nModels are evaluated with an expanding window cross-validation — mimicking real-time forecasting:\n\nTrain on data up to month t\nPredict month t+1\nRoll forward one month at a time\n\nMetrics: RMSE, MAE, directional accuracy (did the model get the sign of change right?)."
+  },
+  {
+    "objectID": "projects/nowcasting.html#preliminary-findings",
+    "href": "projects/nowcasting.html#preliminary-findings",
+    "title": "Nowcasting Brazilian Inflation with Machine Learning",
+    "section": "Preliminary findings",
+    "text": "Preliminary findings\n(This section will be updated as analysis progresses)"
+  },
+  {
+    "objectID": "projects/nowcasting.html#code",
+    "href": "projects/nowcasting.html#code",
+    "title": "Nowcasting Brazilian Inflation with Machine Learning",
+    "section": "Code",
+    "text": "Code\nFull code available on GitHub: github.com/taniseb/nowcasting-ipca"
+  },
+  {
+    "objectID": "projects/nowcasting.html#references",
+    "href": "projects/nowcasting.html#references",
+    "title": "Nowcasting Brazilian Inflation with Machine Learning",
+    "section": "References",
+    "text": "References\n\nGiannone, D., Reichlin, L., & Small, D. (2008). Nowcasting: The real-time informational content of macroeconomic data. Journal of Monetary Economics.\nBCB Working Paper Series on inflation forecasting models"
+  },
+  {
+    "objectID": "projects/index.html",
+    "href": "projects/index.html",
+    "title": "Projects / Projetos",
+    "section": "",
+    "text": "All projects use open data and reproducible code. Each one ships with a GitHub repository and a written walkthrough explaining the economic intuition, methods, and findings.\nTodos os projetos usam dados públicos e código reproduzível.\nActive\n\n\n\n  \n    \n      Macroeconomics · ML\n      In progress\n    \n    Nowcasting Brazilian Inflation with Machine Learning\n    Predicting IPCA before official release using LASSO, XGBoost, and LSTM models. Data: BCB API, Google Trends, commodity prices.\n    Python\n    XGBoost\n    BCB API\n    Time Series\n  \n\n\n\nIn the pipeline\n\n\n\n  \n    Causal Inference\n    Evaluating a Social Policy with Synthetic Control\n    Causal effect estimation of a federal transfer program using the Synthetic Control Method on Brazilian municipal panel data.\n    Python\n    Synthetic Control\n    IBGE\n  \n\n  \n    Labor Economics\n    Gender Pay Gap in Brazil's Formal Labor Market\n    Decomposing gender wage gaps by sector and occupation using RAIS microdata, 2010–2023. Oaxaca-Blinder and machine learning decompositions.\n    Python\n    RAIS\n    Oaxaca-Blinder\n  \n\n  \n    Data Product\n    Brazil Macro Monitor\n    Live dashboard tracking key macroeconomic indicators via BCB API. Updated daily. Built with Streamlit and Plotly.\n    Python\n    Streamlit\n    BCB API\n  \n\n  \n    ML · Competition\n    Kaggle — Economic Forecasting\n    Top-ranking Kaggle notebook applying econometric intuition to a forecasting competition. Full write-up with methodology.\n    Python\n    Kaggle\n    Forecasting"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "",
+    "section": "",
+    "text": "Code\n\n\n\n\n\n  Turning public datainto economic insight\n  \n    I'm Tanise Brandão, an economist and data scientist based in Brazil.\n    I work at the intersection of causal inference, machine learning, and public policy —\n    using open data to understand how economies and institutions actually work.\n  \n\n  \n    Econometrics\n    Causal Inference\n    Macroeconomics\n    Python · R\n    Public Policy\n  \n\n  View Projects\n  About me\n\n\nFeatured Projects\n\n\n\n  \n    \n      Macroeconomics · ML\n      In progress\n    \n    Nowcasting Brazilian Inflation with Machine Learning\n    Can we predict IPCA before the official release? A comparison of LASSO, XGBoost, and AR benchmarks using BCB and Google Trends data.\n    Python\n    XGBoost\n    BCB API\n    Time Series\n  \n\n  \n    \n      Causal Inference\n      Coming soon\n    \n    Evaluating a Social Policy with Synthetic Control\n    Estimating the causal effect of a federal transfer program on local outcomes using the Synthetic Control Method on Brazilian municipal data.\n    Python\n    Synthetic Control\n    IBGE data\n  \n\n  \n    \n      Labor Economics\n      Coming soon\n    \n    Gender Pay Gap in Brazil's Formal Labor Market\n    Tracking the evolution of gender wage gaps by sector from 2010 to 2023 using RAIS — one of the richest employer-employee datasets in the world.\n    Python\n    RAIS\n    Oaxaca-Blinder\n  \n\n  \n    \n      Data Product\n      Coming soon\n    \n    Brazil Macro Monitor\n    A live dashboard tracking SELIC, inflation, exchange rate, and fiscal data via the Banco Central API. Built with Streamlit and updated daily.\n    Python\n    Streamlit\n    BCB API\n    Plotly\n  \n\n\n\nEm Português\n\n\n  Sou economista com doutorado em Economia pela PUCRS, com passagem por UFMG e UFRGS.\n  Trabalho com métodos quantitativos aplicados a políticas públicas, com foco em\n  econometria, inferência causal e aprendizado de máquina.\n  Este portfólio reúne projetos de dados que desenvolvo de forma independente,\n  sempre com código aberto e dados públicos."
+  }
+]

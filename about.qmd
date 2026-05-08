@@ -1,0 +1,51 @@
+---
+title: "About / Sobre"
+toc: false
+---
+
+## Tanise Brandão
+
+I'm an economist and data scientist with a background in public sector institutions and academic research. My work combines **econometric methods**, **causal inference**, and **machine learning** applied to real policy questions — always with open data and reproducible code.
+
+I hold a **PhD in Economics from PUCRS** (2017), a Master's from UFMG (2014), and an undergraduate degree from UFRGS (2011). My research interests span macroeconomics, labor economics, and quantitative methods for policy evaluation.
+
+Outside of my institutional work, I build independent data projects exploring Brazilian public data — from labor market dynamics to macroeconomic forecasting. Everything on this site is done independently, with open code on GitHub.
+
+**I'm available for research collaborations and data consulting projects.** If you're working on a project that could benefit from quantitative economic analysis, feel free to reach out.
+
+---
+
+### Skills
+
+| Area | Tools |
+|------|-------|
+| Causal Inference | DiD, Synthetic Control, RDD, IV, Propensity Matching |
+| Machine Learning | XGBoost, Random Forest, LASSO, Neural Networks |
+| Languages | Python, R, SQL |
+| Visualization | Plotly, Altair, ggplot2, Streamlit |
+| Data | RAIS, IBGE, BCB API, PNAD, Kaggle |
+
+---
+
+### Education
+
+**PhD in Economics** · PUCRS · 2017
+
+**MSc in Economics** · UFMG · 2014
+
+**BSc in Economics** · UFRGS · 2011
+
+---
+
+### Contact
+
+- GitHub: [github.com/taniseb](https://github.com/taniseb)
+- LinkedIn: [linkedin.com/in/YOUR-SLUG](https://linkedin.com/in/YOUR-SLUG)
+
+---
+
+## Sobre mim (PT)
+
+Sou economista e cientista de dados com formação em economia quantitativa e experiência no setor público e acadêmico. Tenho doutorado em Economia pela PUCRS, mestrado pela UFMG e graduação pela UFRGS.
+
+Este portfólio reúne projetos independentes de análise de dados, sempre com código aberto e dados públicos. Tenho interesse em colaborações de pesquisa e projetos de consultoria em análise quantitativa.

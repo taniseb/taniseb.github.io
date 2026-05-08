@@ -1,0 +1,93 @@
+---
+title: ""
+page-layout: full
+toc: false
+---
+
+```{=html}
+<div class="hero">
+  <h1>Turning public data<br>into economic insight</h1>
+  <p class="subtitle">
+    I'm <strong>Tanise Brandão</strong>, an economist and data scientist based in Brazil.
+    I work at the intersection of <em>causal inference, machine learning, and public policy</em> —
+    using open data to understand how economies and institutions actually work.
+  </p>
+
+  <div style="margin-bottom: 1.5rem;">
+    <span class="tag">Econometrics</span>
+    <span class="tag">Causal Inference</span>
+    <span class="tag">Macroeconomics</span>
+    <span class="tag">Python · R</span>
+    <span class="tag">Public Policy</span>
+  </div>
+
+  <a href="projects/index.html" class="btn-primary-custom">View Projects</a>
+  <a href="about.html" class="btn-outline-custom">About me</a>
+</div>
+
+<p class="section-title">Featured Projects</p>
+
+<div class="project-grid">
+
+  <a href="projects/nowcasting.html" class="project-card">
+    <div style="display:flex; justify-content:space-between; align-items:flex-start;">
+      <div class="card-label">Macroeconomics · ML</div>
+      <span class="card-status status-wip">In progress</span>
+    </div>
+    <h3>Nowcasting Brazilian Inflation with Machine Learning</h3>
+    <p>Can we predict IPCA before the official release? A comparison of LASSO, XGBoost, and AR benchmarks using BCB and Google Trends data.</p>
+    <span class="tech-tag">Python</span>
+    <span class="tech-tag">XGBoost</span>
+    <span class="tech-tag">BCB API</span>
+    <span class="tech-tag">Time Series</span>
+  </a>
+
+  <a href="projects/index.html" class="project-card">
+    <div style="display:flex; justify-content:space-between; align-items:flex-start;">
+      <div class="card-label">Causal Inference</div>
+      <span class="card-status status-wip">Coming soon</span>
+    </div>
+    <h3>Evaluating a Social Policy with Synthetic Control</h3>
+    <p>Estimating the causal effect of a federal transfer program on local outcomes using the Synthetic Control Method on Brazilian municipal data.</p>
+    <span class="tech-tag">Python</span>
+    <span class="tech-tag">Synthetic Control</span>
+    <span class="tech-tag">IBGE data</span>
+  </a>
+
+  <a href="projects/index.html" class="project-card">
+    <div style="display:flex; justify-content:space-between; align-items:flex-start;">
+      <div class="card-label">Labor Economics</div>
+      <span class="card-status status-wip">Coming soon</span>
+    </div>
+    <h3>Gender Pay Gap in Brazil's Formal Labor Market</h3>
+    <p>Tracking the evolution of gender wage gaps by sector from 2010 to 2023 using RAIS — one of the richest employer-employee datasets in the world.</p>
+    <span class="tech-tag">Python</span>
+    <span class="tech-tag">RAIS</span>
+    <span class="tech-tag">Oaxaca-Blinder</span>
+  </a>
+
+  <a href="projects/index.html" class="project-card">
+    <div style="display:flex; justify-content:space-between; align-items:flex-start;">
+      <div class="card-label">Data Product</div>
+      <span class="card-status status-wip">Coming soon</span>
+    </div>
+    <h3>Brazil Macro Monitor</h3>
+    <p>A live dashboard tracking SELIC, inflation, exchange rate, and fiscal data via the Banco Central API. Built with Streamlit and updated daily.</p>
+    <span class="tech-tag">Python</span>
+    <span class="tech-tag">Streamlit</span>
+    <span class="tech-tag">BCB API</span>
+    <span class="tech-tag">Plotly</span>
+  </a>
+
+</div>
+
+<p class="section-title">Em Português</p>
+
+<p style="color: #64748b; font-size: 0.95rem; line-height: 1.7; max-width: 620px;">
+  Sou economista com doutorado em Economia pela PUCRS, com passagem por UFMG e UFRGS.
+  Trabalho com métodos quantitativos aplicados a políticas públicas, com foco em
+  econometria, inferência causal e aprendizado de máquina.
+  Este portfólio reúne projetos de dados que desenvolvo de forma independente,
+  sempre com código aberto e dados públicos.
+</p>
+```

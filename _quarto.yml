@@ -1,0 +1,40 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Tanise Brandão"
+  description: "Economist & Data Scientist | Economista e Cientista de Dados"
+  favicon: assets/favicon.ico
+
+  navbar:
+    pinned: true
+    background: light
+    left:
+      - href: index.qmd
+        text: Home
+      - href: projects/index.qmd
+        text: Projects / Projetos
+      - href: about.qmd
+        text: About / Sobre
+    right:
+      - icon: github
+        href: https://github.com/taniseb
+        aria-label: GitHub
+      - icon: linkedin
+        href: https://www.linkedin.com/in/YOUR-LINKEDIN-SLUG
+        aria-label: LinkedIn
+
+  page-footer:
+    center: "© 2026 Tanise Brandão · [GitHub](https://github.com/taniseb)"
+    background: light
+
+format:
+  html:
+    theme: litera
+    css: styles.css
+    toc: false
+    smooth-scroll: true
+    code-fold: true
+    code-tools: true
+    highlight-style: github

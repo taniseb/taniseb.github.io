@@ -1,0 +1,71 @@
+---
+title: "Projects / Projetos"
+toc: false
+---
+
+All projects use open data and reproducible code. Each one ships with a GitHub repository and a written walkthrough explaining the economic intuition, methods, and findings.
+
+*Todos os projetos usam dados públicos e código reproduzível.*
+
+```{=html}
+<p class="section-title" style="margin-top: 2rem;">Active</p>
+
+<div class="project-grid">
+
+  <a href="nowcasting.html" class="project-card">
+    <div style="display:flex; justify-content:space-between; align-items:flex-start;">
+      <div class="card-label">Macroeconomics · ML</div>
+      <span class="card-status status-wip">In progress</span>
+    </div>
+    <h3>Nowcasting Brazilian Inflation with Machine Learning</h3>
+    <p>Predicting IPCA before official release using LASSO, XGBoost, and LSTM models. Data: BCB API, Google Trends, commodity prices.</p>
+    <span class="tech-tag">Python</span>
+    <span class="tech-tag">XGBoost</span>
+    <span class="tech-tag">BCB API</span>
+    <span class="tech-tag">Time Series</span>
+  </a>
+
+</div>
+
+<p class="section-title">In the pipeline</p>
+
+<div class="project-grid">
+
+  <a href="#" class="project-card" style="opacity:0.7; cursor:default;">
+    <div class="card-label">Causal Inference</div>
+    <h3>Evaluating a Social Policy with Synthetic Control</h3>
+    <p>Causal effect estimation of a federal transfer program using the Synthetic Control Method on Brazilian municipal panel data.</p>
+    <span class="tech-tag">Python</span>
+    <span class="tech-tag">Synthetic Control</span>
+    <span class="tech-tag">IBGE</span>
+  </a>
+
+  <a href="#" class="project-card" style="opacity:0.7; cursor:default;">
+    <div class="card-label">Labor Economics</div>
+    <h3>Gender Pay Gap in Brazil's Formal Labor Market</h3>
+    <p>Decomposing gender wage gaps by sector and occupation using RAIS microdata, 2010–2023. Oaxaca-Blinder and machine learning decompositions.</p>
+    <span class="tech-tag">Python</span>
+    <span class="tech-tag">RAIS</span>
+    <span class="tech-tag">Oaxaca-Blinder</span>
+  </a>
+
+  <a href="#" class="project-card" style="opacity:0.7; cursor:default;">
+    <div class="card-label">Data Product</div>
+    <h3>Brazil Macro Monitor</h3>
+    <p>Live dashboard tracking key macroeconomic indicators via BCB API. Updated daily. Built with Streamlit and Plotly.</p>
+    <span class="tech-tag">Python</span>
+    <span class="tech-tag">Streamlit</span>
+    <span class="tech-tag">BCB API</span>
+  </a>
+
+  <a href="#" class="project-card" style="opacity:0.7; cursor:default;">
+    <div class="card-label">ML · Competition</div>
+    <h3>Kaggle — Economic Forecasting</h3>
+    <p>Top-ranking Kaggle notebook applying econometric intuition to a forecasting competition. Full write-up with methodology.</p>
+    <span class="tech-tag">Python</span>
+    <span class="tech-tag">Kaggle</span>
+    <span class="tech-tag">Forecasting</span>
+  </a>
+
+</div>
+```
