@@ -1,0 +1,20 @@
+---
+title: "Launching #beatlenomics"
+date: 2026-06-17
+categories: [intro]
+image: images/00-lancamento.png
+---
+
+I started a side project this weekend, and it has almost nothing to do with my day job. Almost.
+
+My work is measuring how concentrated markets are. Who holds the power, how unevenly value is spread, what the numbers say when the official story says something else. Last week it hit me that I could point the exact same tools at something I actually love. The Beatles.
+
+So I am starting **#beatlenomics**. Short essays where I take one question about The Beatles or Paul McCartney, pull real data, and answer it with a chart and one economic idea. No nostalgia for its own sake. Just the numbers, and what they quietly reveal about how cultural value works.
+
+The first one looks at Paul's live shows. I compiled his full performance history, 373 different songs, and the distribution turned out more unequal than the income of any country on earth.
+
+I am keeping the whole thing open. The code, the data, and the charts live on [GitHub](https://github.com/taniseb/beatlenomics). If you want to see how it is built, or borrow the approach for your own data, it is all there.
+
+This is the part of data work I enjoy most. Taking a method built for serious questions and letting it loose on something joyful.
+
+What would you want measured about a band you love?

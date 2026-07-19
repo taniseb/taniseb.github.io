@@ -1,0 +1,34 @@
+---
+title: "Pesquisa & Publicações 📊"
+toc: false
+lang: pt
+---
+
+<p class="lang-toggle">🌐 <a href="pesquisa.qmd">Read in English</a></p>
+
+Minha pesquisa está na interseção entre economia da concorrência, econometria e ciência de dados aplicada, em grande parte desenvolvida em paralelo ao meu trabalho no CADE e como professora adjunta na UNIPAMPA.
+
+## Artigos selecionados
+
+- Stanford Computational Antitrust (2026) — sobre Structured Analytics for Bid-rigging Monitoring (SABM) e modelos de linguagem aplicados à detecção de cartéis.
+- Revista do Serviço Público (2026).
+- Revista de Defesa da Concorrência (2022).
+- Revista do IBRAC (2021, 2022).
+
+## Documentos de trabalho
+
+- Documento de Trabalho CADE 2/2023.
+
+## Livros e capítulos
+
+- *Mulheres no Antitruste*, vol. 5 e vol. 6 — capítulos de autoria.
+
+## Projetos de dados
+
+Projetos de dados independentes e de código aberto, publicados no GitHub:
+
+- [beatlenomics](https://github.com/taniseb/beatlenomics) — economia e inferência causal aplicadas aos Beatles e à carreira ao vivo de Paul McCartney. Veja a seção [#beatlenomics](beatlenomics/index.qmd) neste site.
+- [mapasicms](https://github.com/taniseb/mapasicms)
+- [megasena](https://github.com/taniseb/megasena)
+
+Para a lista completa e atualizada de publicações, veja meu [currículo Lattes](http://lattes.cnpq.br/8929030311500731) ou meu perfil no [Google Scholar](https://scholar.google.com/citations?user=YTuig-gAAAAJ).

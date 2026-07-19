@@ -5,89 +5,59 @@ toc: false
 ---
 
 ```{=html}
-<div class="hero">
-  <h1>Turning public data<br>into economic insight</h1>
-  <p class="subtitle">
-    I'm <strong>Tanise Brandão</strong>, an economist and data scientist based in Brazil.
-    I work at the intersection of <em>causal inference, machine learning, and public policy</em> —
-    using open data to understand how economies and institutions actually work.
-  </p>
-
-  <div style="margin-bottom: 1.5rem;">
-    <span class="tag">Econometrics</span>
-    <span class="tag">Causal Inference</span>
-    <span class="tag">Macroeconomics</span>
-    <span class="tag">Python · R</span>
-    <span class="tag">Public Policy</span>
+<div class="hero-band">
+  <div class="hero-inner">
+    <p class="eyebrow">Economist · CADE · UNIPAMPA</p>
+    <h1><span class="light">Tanise</span> <span class="bold">Brandão<br>Bussmann</span></h1>
+    <p class="lede">I apply economic reasoning and quantitative methods to detect and investigate cartels and anticompetitive conduct — from screening algorithms for bid-rigging to building the evidence base for antitrust cases. On the side, I run the same toolkit on The Beatles.</p>
+    <div class="hero-btns">
+      <a class="btn btn-solid" href="pesquisa.qmd">See research 📊</a>
+      <a class="btn btn-outline" href="beatlenomics/index.qmd">#beatlenomics 🎸</a>
+    </div>
   </div>
-
-  <a href="projects/index.html" class="btn-primary-custom">View Projects</a>
-  <a href="about.html" class="btn-outline-custom">About me</a>
 </div>
+```
 
-<p class="section-title">Featured Projects</p>
+<p class="lang-toggle">🌐 <a href="index.pt.qmd">Ler em português</a></p>
 
-<div class="project-grid">
+<p class="section-emoji-head">Sobre mim 👋</p>
 
-  <a href="projects/nowcasting.html" class="project-card">
-    <div style="display:flex; justify-content:space-between; align-items:flex-start;">
-      <div class="card-label">Macroeconomics · ML</div>
-      <span class="card-status status-wip">In progress</span>
-    </div>
-    <h3>Nowcasting Brazilian Inflation with Machine Learning</h3>
-    <p>Can we predict IPCA before the official release? A comparison of LASSO, XGBoost, and AR benchmarks using BCB and Google Trends data.</p>
-    <span class="tech-tag">Python</span>
-    <span class="tech-tag">XGBoost</span>
-    <span class="tech-tag">BCB API</span>
-    <span class="tech-tag">Time Series</span>
-  </a>
-
-  <a href="projects/index.html" class="project-card">
-    <div style="display:flex; justify-content:space-between; align-items:flex-start;">
-      <div class="card-label">Causal Inference</div>
-      <span class="card-status status-wip">Coming soon</span>
-    </div>
-    <h3>Evaluating a Social Policy with Synthetic Control</h3>
-    <p>Estimating the causal effect of a federal transfer program on local outcomes using the Synthetic Control Method on Brazilian municipal data.</p>
-    <span class="tech-tag">Python</span>
-    <span class="tech-tag">Synthetic Control</span>
-    <span class="tech-tag">IBGE data</span>
-  </a>
-
-  <a href="projects/index.html" class="project-card">
-    <div style="display:flex; justify-content:space-between; align-items:flex-start;">
-      <div class="card-label">Labor Economics</div>
-      <span class="card-status status-wip">Coming soon</span>
-    </div>
-    <h3>Gender Pay Gap in Brazil's Formal Labor Market</h3>
-    <p>Tracking the evolution of gender wage gaps by sector from 2010 to 2023 using RAIS — one of the richest employer-employee datasets in the world.</p>
-    <span class="tech-tag">Python</span>
-    <span class="tech-tag">RAIS</span>
-    <span class="tech-tag">Oaxaca-Blinder</span>
-  </a>
-
-  <a href="projects/index.html" class="project-card">
-    <div style="display:flex; justify-content:space-between; align-items:flex-start;">
-      <div class="card-label">Data Product</div>
-      <span class="card-status status-wip">Coming soon</span>
-    </div>
-    <h3>Brazil Macro Monitor</h3>
-    <p>A live dashboard tracking SELIC, inflation, exchange rate, and fiscal data via the Banco Central API. Built with Streamlit and updated daily.</p>
-    <span class="tech-tag">Python</span>
-    <span class="tech-tag">Streamlit</span>
-    <span class="tech-tag">BCB API</span>
-    <span class="tech-tag">Plotly</span>
-  </a>
-
+```{=html}
+<div class="about-card">
+  <img class="about-photo round" src="assets/foto-tanise.jpg" alt="Tanise Brandão Bussmann">
+  <div>
+    <p>I am a <b>civil servant at CADE</b>, Brazil's antitrust authority, in the General Superintendence's conduct unit (CGAA9), where I work on <b>Projeto Cérebro</b> — CADE's initiative to use data science and algorithmic methods to detect cartels and collusion. I am also <b>Adjunct Professor</b> at UNIPAMPA (currently on leave), where I taught macroeconomics, labor economics, and quantitative methods.</p>
+    <p>PhD in Economics (PUCRS, 2017) · MSc in Economics (UFMG, 2014) · BSc in Economics (UFRGS, 2011) · Degree in Law (UTP, 2025) · specializations in Competition Defense (FGV) and Public Management.</p>
+    <p>Outside of my institutional work, I write <a href="beatlenomics/index.qmd"><b>#beatlenomics</b></a> — a data-essay series that applies the same toolkit (concentration measures, causal inference, market analysis) to The Beatles and Paul McCartney's live career.</p>
+  </div>
 </div>
+```
 
-<p class="section-title">Em Português</p>
+```{=html}
+<div class="focus-band">
+  <div class="focus-inner">
+    <p class="section-emoji-head">Focus areas 🔎</p>
+    <div class="accordion-grid">
+      <div class="acc-item"><span class="plus">+</span><span><b>Cartel detection</b> &amp; screening algorithms</span></div>
+      <div class="acc-item"><span class="plus">+</span><span><b>Algorithmic competition</b> &amp; collusion</span></div>
+      <div class="acc-item"><span class="plus">+</span><span><b>Causal inference</b> for policy evaluation</span></div>
+      <div class="acc-item"><span class="plus">+</span><span><b>AI</b> &amp; machine learning for investigations</span></div>
+      <div class="acc-item"><span class="plus">+</span><span><b>Labor economics</b></span></div>
+      <div class="acc-item"><span class="plus">+</span><span><b>#beatlenomics</b> — data essays on The Beatles</span></div>
+    </div>
+  </div>
+</div>
+```
 
-<p style="color: #64748b; font-size: 0.95rem; line-height: 1.7; max-width: 620px;">
-  Sou economista com doutorado em Economia pela PUCRS, com passagem por UFMG e UFRGS.
-  Trabalho com métodos quantitativos aplicados a políticas públicas, com foco em
-  econometria, inferência causal e aprendizado de máquina.
-  Este portfólio reúne projetos de dados que desenvolvo de forma independente,
-  sempre com código aberto e dados públicos.
-</p>
+<p class="section-title">Links</p>
+
+```{=html}
+<div class="link-boxes">
+  <a href="http://lattes.cnpq.br/8929030311500731">Lattes CV</a>
+  <a href="https://orcid.org/0000-0003-0658-3422">ORCID</a>
+  <a href="https://www.linkedin.com/in/tanisebussmann/">LinkedIn</a>
+  <a href="https://scholar.google.com/citations?user=YTuig-gAAAAJ">Google Scholar</a>
+  <a href="https://github.com/taniseb">GitHub</a>
+  <a href="mailto:tanisebrandao@gmail.com">Email</a>
+</div>
 ```

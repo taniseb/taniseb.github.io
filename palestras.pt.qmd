@@ -1,0 +1,15 @@
+---
+title: "Palestras & Prêmios 🎤"
+toc: false
+lang: pt
+---
+
+<p class="lang-toggle">🌐 <a href="palestras.qmd">Read in English</a></p>
+
+## Prêmios
+
+- **3º lugar, Prêmio IBRAC de Monografias (2021)** — Instituto Brasileiro de Estudos de Concorrência, Consumo e Comércio Internacional (IBRAC).
+
+## Palestras & eventos
+
+Apresentações selecionadas em congressos de direito e economia da concorrência, incluindo eventos organizados pelo IBRAC. A lista completa está disponível no meu [currículo Lattes](http://lattes.cnpq.br/8929030311500731).

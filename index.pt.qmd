@@ -1,0 +1,64 @@
+---
+title: ""
+page-layout: full
+toc: false
+lang: pt
+---
+
+```{=html}
+<div class="hero-band">
+  <div class="hero-inner">
+    <p class="eyebrow">Economista · CADE · UNIPAMPA</p>
+    <h1><span class="light">Tanise</span> <span class="bold">Brandão<br>Bussmann</span></h1>
+    <p class="lede">Aplico raciocínio econômico e métodos quantitativos para detectar e investigar cartéis e condutas anticoncorrenciais — de algoritmos de triagem para direcionamento de licitações à construção de provas em processos antitruste. Nas horas vagas, aplico o mesmo ferramental aos Beatles.</p>
+    <div class="hero-btns">
+      <a class="btn btn-solid" href="pesquisa.pt.qmd">Ver pesquisa 📊</a>
+      <a class="btn btn-outline" href="beatlenomics/index.pt.qmd">#beatlenomics 🎸</a>
+    </div>
+  </div>
+</div>
+```
+
+<p class="lang-toggle">🌐 <a href="index.qmd">Read in English</a></p>
+
+<p class="section-emoji-head">Sobre mim 👋</p>
+
+```{=html}
+<div class="about-card">
+  <img class="about-photo round" src="assets/foto-tanise.jpg" alt="Tanise Brandão Bussmann">
+  <div>
+    <p>Sou <b>servidora do CADE</b> (Conselho Administrativo de Defesa Econômica), na Superintendência-Geral, unidade de condutas (CGAA9), onde trabalho no <b>Projeto Cérebro</b> — iniciativa do CADE para usar ciência de dados e métodos algorítmicos na detecção de cartéis e colusão. Também sou <b>Professora Adjunta</b> na UNIPAMPA (atualmente afastada), onde lecionei macroeconomia, economia do trabalho e métodos quantitativos.</p>
+    <p>Doutora em Economia (PUCRS, 2017) · mestre em Economia (UFMG, 2014) · bacharel em Economia (UFRGS, 2011) · bacharel em Direito (UTP, 2025) · especializações em Defesa da Concorrência (FGV) e Gestão Pública.</p>
+    <p>Fora do trabalho institucional, escrevo o <a href="beatlenomics/index.pt.qmd"><b>#beatlenomics</b></a> — uma série de ensaios de dados que aplica o mesmo ferramental (medidas de concentração, inferência causal, análise de mercado) aos Beatles e à carreira ao vivo de Paul McCartney.</p>
+  </div>
+</div>
+```
+
+```{=html}
+<div class="focus-band">
+  <div class="focus-inner">
+    <p class="section-emoji-head">Áreas de atuação 🔎</p>
+    <div class="accordion-grid">
+      <div class="acc-item"><span class="plus">+</span><span><b>Detecção de cartéis</b> e algoritmos de triagem</span></div>
+      <div class="acc-item"><span class="plus">+</span><span><b>Concorrência algorítmica</b> e colusão</span></div>
+      <div class="acc-item"><span class="plus">+</span><span><b>Inferência causal</b> para avaliação de políticas</span></div>
+      <div class="acc-item"><span class="plus">+</span><span><b>IA</b> e aprendizado de máquina para investigações</span></div>
+      <div class="acc-item"><span class="plus">+</span><span><b>Economia do trabalho</b></span></div>
+      <div class="acc-item"><span class="plus">+</span><span><b>#beatlenomics</b> — ensaios de dados sobre os Beatles</span></div>
+    </div>
+  </div>
+</div>
+```
+
+<p class="section-title">Links</p>
+
+```{=html}
+<div class="link-boxes">
+  <a href="http://lattes.cnpq.br/8929030311500731">Currículo Lattes</a>
+  <a href="https://orcid.org/0000-0003-0658-3422">ORCID</a>
+  <a href="https://www.linkedin.com/in/tanisebussmann/">LinkedIn</a>
+  <a href="https://scholar.google.com/citations?user=YTuig-gAAAAJ">Google Scholar</a>
+  <a href="https://github.com/taniseb">GitHub</a>
+  <a href="mailto:tanisebrandao@gmail.com">E-mail</a>
+</div>
+```

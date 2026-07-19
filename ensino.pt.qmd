@@ -1,0 +1,16 @@
+---
+title: "Ensino 🎓"
+toc: false
+lang: pt
+---
+
+<p class="lang-toggle">🌐 <a href="ensino.qmd">Read in English</a></p>
+
+Sou **Professora Adjunta** na Universidade Federal do Pampa (UNIPAMPA), atualmente afastada em razão do trabalho no CADE. Minha atuação em ensino abrangeu macroeconomia, economia do trabalho, teoria dos jogos e finanças públicas para estudantes de graduação em Economia.
+
+## Disciplinas lecionadas
+
+- Macroeconomia I, II e III
+- Economia do Trabalho
+- Teoria dos Jogos
+- Finanças Públicas

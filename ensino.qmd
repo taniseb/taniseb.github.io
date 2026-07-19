@@ -1,0 +1,15 @@
+---
+title: "Teaching 🎓"
+toc: false
+---
+
+<p class="lang-toggle">🌐 <a href="ensino.pt.qmd">Ler em português</a></p>
+
+I am an **Adjunct Professor** at the Federal University of Pampa (UNIPAMPA), currently on leave (*afastada*) while working at CADE. My teaching has covered macroeconomics, labor economics, game theory, and public finance for undergraduate Economics students.
+
+## Courses taught
+
+- Macroeconomics I, II, and III
+- Labor Economics (*Economia do Trabalho*)
+- Game Theory (*Teoria dos Jogos*)
+- Public Finance (*Finanças Públicas*)

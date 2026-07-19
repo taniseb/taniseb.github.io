@@ -1,0 +1,14 @@
+---
+title: "Contato ✉️"
+toc: false
+lang: pt
+---
+
+<p class="lang-toggle">🌐 <a href="contato.qmd">Read in English</a></p>
+
+- **E-mail:** [tanisebrandao@gmail.com](mailto:tanisebrandao@gmail.com)
+- **Currículo Lattes:** [lattes.cnpq.br/8929030311500731](http://lattes.cnpq.br/8929030311500731)
+- **ORCID:** [0000-0003-0658-3422](https://orcid.org/0000-0003-0658-3422)
+- **GitHub:** [github.com/taniseb](https://github.com/taniseb)
+- **Google Scholar:** [scholar.google.com](https://scholar.google.com/citations?user=YTuig-gAAAAJ)
+- **LinkedIn:** [linkedin.com/in/tanisebussmann](https://www.linkedin.com/in/tanisebussmann/)

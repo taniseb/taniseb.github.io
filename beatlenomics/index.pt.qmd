@@ -1,0 +1,29 @@
+---
+title: "#beatlenomics 🎸"
+listing:
+  contents:
+    - 00-lancamento.qmd
+    - 04-musicas-mais-tocadas.qmd
+    - 05-lennon-mccartney.qmd
+    - 07-quem-e-dono.qmd
+    - 11-never-gets-old.qmd
+    - c3-get-back-did.qmd
+    - c6-placebo.qmd
+  sort: "date desc"
+  type: grid
+  fields: [image, date, title, description]
+  categories: false
+page-layout: full
+toc: false
+lang: pt
+---
+
+<p class="lang-toggle">🌐 <a href="index.qmd">Read in English</a></p>
+
+Um projeto paralelo em que aponto as ferramentas da economia e da análise de dados para os Beatles e Paul McCartney.
+
+Cada texto parte de uma pergunta — com que frequência Paul toca cada música ao vivo, o quão concentrado é seu repertório, quanto do tempo de palco ainda pertence aos Beatles — e responde com dados reais, um gráfico claro e uma ideia econômica. A série roda no meu LinkedIn como **#beatlenomics**; esta seção espelha cada post publicado como seu lar canônico e citável.
+
+**Os textos abaixo estão em inglês**, o idioma original da série. Todo gráfico é reprodutível: código, dados e visuais estão no [repositório beatlenomics no GitHub](https://github.com/taniseb/beatlenomics).
+
+<p class="section-emoji-head">Posts 📝</p>

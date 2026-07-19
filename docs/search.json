@@ -1,100 +1,233 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About / Sobre",
+    "objectID": "pesquisa.pt.html",
+    "href": "pesquisa.pt.html",
+    "title": "Pesquisa & Publicações 📊",
     "section": "",
-    "text": "I’m an economist and data scientist with a background in public sector institutions and academic research. My work combines econometric methods, causal inference, and machine learning applied to real policy questions — always with open data and reproducible code.\nI hold a PhD in Economics from PUCRS (2017), a Master’s from UFMG (2014), and an undergraduate degree from UFRGS (2011). My research interests span macroeconomics, labor economics, and quantitative methods for policy evaluation.\nOutside of my institutional work, I build independent data projects exploring Brazilian public data — from labor market dynamics to macroeconomic forecasting. Everything on this site is done independently, with open code on GitHub.\nI’m available for research collaborations and data consulting projects. If you’re working on a project that could benefit from quantitative economic analysis, feel free to reach out.\n\n\n\n\n\n\n\n\n\n\nArea\nTools\n\n\n\n\nCausal Inference\nDiD, Synthetic Control, RDD, IV, Propensity Matching\n\n\nMachine Learning\nXGBoost, Random Forest, LASSO, Neural Networks\n\n\nLanguages\nPython, R, SQL\n\n\nVisualization\nPlotly, Altair, ggplot2, Streamlit\n\n\nData\nRAIS, IBGE, BCB API, PNAD, Kaggle\n\n\n\n\n\n\n\nPhD in Economics · PUCRS · 2017\nMSc in Economics · UFMG · 2014\nBSc in Economics · UFRGS · 2011\n\n\n\n\n\nGitHub: github.com/taniseb\nLinkedIn: linkedin.com/in/YOUR-SLUG"
+    "text": "🌐 Read in English\nMinha pesquisa está na interseção entre economia da concorrência, econometria e ciência de dados aplicada, em grande parte desenvolvida em paralelo ao meu trabalho no CADE e como professora adjunta na UNIPAMPA."
   },
   {
-    "objectID": "about.html#tanise-brandão",
-    "href": "about.html#tanise-brandão",
-    "title": "About / Sobre",
+    "objectID": "pesquisa.pt.html#artigos-selecionados",
+    "href": "pesquisa.pt.html#artigos-selecionados",
+    "title": "Pesquisa & Publicações 📊",
+    "section": "Artigos selecionados",
+    "text": "Artigos selecionados\n\nStanford Computational Antitrust (2026) — sobre Structured Analytics for Bid-rigging Monitoring (SABM) e modelos de linguagem aplicados à detecção de cartéis.\nRevista do Serviço Público (2026).\nRevista de Defesa da Concorrência (2022).\nRevista do IBRAC (2021, 2022)."
+  },
+  {
+    "objectID": "pesquisa.pt.html#documentos-de-trabalho",
+    "href": "pesquisa.pt.html#documentos-de-trabalho",
+    "title": "Pesquisa & Publicações 📊",
+    "section": "Documentos de trabalho",
+    "text": "Documentos de trabalho\n\nDocumento de Trabalho CADE 2/2023."
+  },
+  {
+    "objectID": "pesquisa.pt.html#livros-e-capítulos",
+    "href": "pesquisa.pt.html#livros-e-capítulos",
+    "title": "Pesquisa & Publicações 📊",
+    "section": "Livros e capítulos",
+    "text": "Livros e capítulos\n\nMulheres no Antitruste, vol. 5 e vol. 6 — capítulos de autoria."
+  },
+  {
+    "objectID": "pesquisa.pt.html#projetos-de-dados",
+    "href": "pesquisa.pt.html#projetos-de-dados",
+    "title": "Pesquisa & Publicações 📊",
+    "section": "Projetos de dados",
+    "text": "Projetos de dados\nProjetos de dados independentes e de código aberto, publicados no GitHub:\n\nbeatlenomics — economia e inferência causal aplicadas aos Beatles e à carreira ao vivo de Paul McCartney. Veja a seção #beatlenomics neste site.\nmapasicms\nmegasena\n\nPara a lista completa e atualizada de publicações, veja meu currículo Lattes ou meu perfil no Google Scholar."
+  },
+  {
+    "objectID": "ensino.html",
+    "href": "ensino.html",
+    "title": "Teaching 🎓",
     "section": "",
-    "text": "I’m an economist and data scientist with a background in public sector institutions and academic research. My work combines econometric methods, causal inference, and machine learning applied to real policy questions — always with open data and reproducible code.\nI hold a PhD in Economics from PUCRS (2017), a Master’s from UFMG (2014), and an undergraduate degree from UFRGS (2011). My research interests span macroeconomics, labor economics, and quantitative methods for policy evaluation.\nOutside of my institutional work, I build independent data projects exploring Brazilian public data — from labor market dynamics to macroeconomic forecasting. Everything on this site is done independently, with open code on GitHub.\nI’m available for research collaborations and data consulting projects. If you’re working on a project that could benefit from quantitative economic analysis, feel free to reach out.\n\n\n\n\n\n\n\n\n\n\nArea\nTools\n\n\n\n\nCausal Inference\nDiD, Synthetic Control, RDD, IV, Propensity Matching\n\n\nMachine Learning\nXGBoost, Random Forest, LASSO, Neural Networks\n\n\nLanguages\nPython, R, SQL\n\n\nVisualization\nPlotly, Altair, ggplot2, Streamlit\n\n\nData\nRAIS, IBGE, BCB API, PNAD, Kaggle\n\n\n\n\n\n\n\nPhD in Economics · PUCRS · 2017\nMSc in Economics · UFMG · 2014\nBSc in Economics · UFRGS · 2011\n\n\n\n\n\nGitHub: github.com/taniseb\nLinkedIn: linkedin.com/in/YOUR-SLUG"
+    "text": "🌐 Ler em português\nI am an Adjunct Professor at the Federal University of Pampa (UNIPAMPA), currently on leave (afastada) while working at CADE. My teaching has covered macroeconomics, labor economics, game theory, and public finance for undergraduate Economics students."
   },
   {
-    "objectID": "about.html#sobre-mim-pt",
-    "href": "about.html#sobre-mim-pt",
-    "title": "About / Sobre",
-    "section": "Sobre mim (PT)",
-    "text": "Sobre mim (PT)\nSou economista e cientista de dados com formação em economia quantitativa e experiência no setor público e acadêmico. Tenho doutorado em Economia pela PUCRS, mestrado pela UFMG e graduação pela UFRGS.\nEste portfólio reúne projetos independentes de análise de dados, sempre com código aberto e dados públicos. Tenho interesse em colaborações de pesquisa e projetos de consultoria em análise quantitativa."
-  },
-  {
-    "objectID": "projects/nowcasting.html",
-    "href": "projects/nowcasting.html",
-    "title": "Nowcasting Brazilian Inflation with Machine Learning",
-    "section": "",
-    "text": "Note\n\n\n\nStatus: Work in progress. This page will be updated as the project develops."
-  },
-  {
-    "objectID": "projects/nowcasting.html#the-question",
-    "href": "projects/nowcasting.html#the-question",
-    "title": "Nowcasting Brazilian Inflation with Machine Learning",
-    "section": "The Question",
-    "text": "The Question\nBrazil’s official inflation index (IPCA) is released monthly by IBGE, typically 10–15 days after the reference period ends. During this window, policymakers, investors, and researchers are flying blind.\nCan machine learning models predict the IPCA release before it happens — and beat a simple autoregressive baseline?\nThis is called nowcasting — estimating economic variables in real time using a mix of early-release indicators and alternative data."
-  },
-  {
-    "objectID": "projects/nowcasting.html#why-this-matters",
-    "href": "projects/nowcasting.html#why-this-matters",
-    "title": "Nowcasting Brazilian Inflation with Machine Learning",
-    "section": "Why this matters",
-    "text": "Why this matters\nThe Banco Central do Brasil (BCB) sets the SELIC rate based partly on inflation expectations. If you can nowcast inflation more accurately, you can:\n\nBetter anticipate monetary policy decisions\nPrice fixed income instruments more precisely\nUnderstand which sectors are driving inflationary pressure in real time"
-  },
-  {
-    "objectID": "projects/nowcasting.html#data-sources",
-    "href": "projects/nowcasting.html#data-sources",
-    "title": "Nowcasting Brazilian Inflation with Machine Learning",
-    "section": "Data sources",
-    "text": "Data sources\n\n\n\nSource\nVariables\nFrequency\n\n\n\n\nBCB API (SGS)\nSELIC, exchange rate, M2, credit\nDaily / Monthly\n\n\nIBGE\nIPCA components, IPCA-15 (advance)\nMonthly\n\n\nGoogle Trends\nSearch terms correlated with prices\nWeekly\n\n\nCEPEA\nCommodity prices (agriculture)\nDaily\n\n\nFGV\nIGP-M, IPC-BR (early releases)\nMonthly\n\n\n\n# Pulling data from BCB API with python-bcb\nimport bcb\nfrom bcb import sgs\n\n# IPCA monthly (series 433)\nipca = sgs.get({'ipca': 433}, start='2010-01-01')\n\n# SELIC target (series 432)\nselic = sgs.get({'selic': 432}, start='2010-01-01')\n\nprint(ipca.tail())"
-  },
-  {
-    "objectID": "projects/nowcasting.html#methods",
-    "href": "projects/nowcasting.html#methods",
-    "title": "Nowcasting Brazilian Inflation with Machine Learning",
-    "section": "Methods",
-    "text": "Methods\nThree models are compared against a simple AR(12) baseline:\n1. LASSO regression — penalized linear model that selects the most relevant predictors from a large feature set. Interpretable and fast.\n2. XGBoost — gradient boosted trees. Handles non-linearities and interactions between indicators without feature engineering.\n3. LSTM — long short-term memory neural network. Captures temporal dependencies that tabular models may miss.\nBaseline: AR(12) — autoregressive model using 12 lags of IPCA. The benchmark to beat."
-  },
-  {
-    "objectID": "projects/nowcasting.html#evaluation",
-    "href": "projects/nowcasting.html#evaluation",
-    "title": "Nowcasting Brazilian Inflation with Machine Learning",
-    "section": "Evaluation",
-    "text": "Evaluation\nModels are evaluated with an expanding window cross-validation — mimicking real-time forecasting:\n\nTrain on data up to month t\nPredict month t+1\nRoll forward one month at a time\n\nMetrics: RMSE, MAE, directional accuracy (did the model get the sign of change right?)."
-  },
-  {
-    "objectID": "projects/nowcasting.html#preliminary-findings",
-    "href": "projects/nowcasting.html#preliminary-findings",
-    "title": "Nowcasting Brazilian Inflation with Machine Learning",
-    "section": "Preliminary findings",
-    "text": "Preliminary findings\n(This section will be updated as analysis progresses)"
-  },
-  {
-    "objectID": "projects/nowcasting.html#code",
-    "href": "projects/nowcasting.html#code",
-    "title": "Nowcasting Brazilian Inflation with Machine Learning",
-    "section": "Code",
-    "text": "Code\nFull code available on GitHub: github.com/taniseb/nowcasting-ipca"
-  },
-  {
-    "objectID": "projects/nowcasting.html#references",
-    "href": "projects/nowcasting.html#references",
-    "title": "Nowcasting Brazilian Inflation with Machine Learning",
-    "section": "References",
-    "text": "References\n\nGiannone, D., Reichlin, L., & Small, D. (2008). Nowcasting: The real-time informational content of macroeconomic data. Journal of Monetary Economics.\nBCB Working Paper Series on inflation forecasting models"
-  },
-  {
-    "objectID": "projects/index.html",
-    "href": "projects/index.html",
-    "title": "Projects / Projetos",
-    "section": "",
-    "text": "All projects use open data and reproducible code. Each one ships with a GitHub repository and a written walkthrough explaining the economic intuition, methods, and findings.\nTodos os projetos usam dados públicos e código reproduzível.\nActive\n\n\n\n  \n    \n      Macroeconomics · ML\n      In progress\n    \n    Nowcasting Brazilian Inflation with Machine Learning\n    Predicting IPCA before official release using LASSO, XGBoost, and LSTM models. Data: BCB API, Google Trends, commodity prices.\n    Python\n    XGBoost\n    BCB API\n    Time Series\n  \n\n\n\nIn the pipeline\n\n\n\n  \n    Causal Inference\n    Evaluating a Social Policy with Synthetic Control\n    Causal effect estimation of a federal transfer program using the Synthetic Control Method on Brazilian municipal panel data.\n    Python\n    Synthetic Control\n    IBGE\n  \n\n  \n    Labor Economics\n    Gender Pay Gap in Brazil's Formal Labor Market\n    Decomposing gender wage gaps by sector and occupation using RAIS microdata, 2010–2023. Oaxaca-Blinder and machine learning decompositions.\n    Python\n    RAIS\n    Oaxaca-Blinder\n  \n\n  \n    Data Product\n    Brazil Macro Monitor\n    Live dashboard tracking key macroeconomic indicators via BCB API. Updated daily. Built with Streamlit and Plotly.\n    Python\n    Streamlit\n    BCB API\n  \n\n  \n    ML · Competition\n    Kaggle — Economic Forecasting\n    Top-ranking Kaggle notebook applying econometric intuition to a forecasting competition. Full write-up with methodology.\n    Python\n    Kaggle\n    Forecasting"
+    "objectID": "ensino.html#courses-taught",
+    "href": "ensino.html#courses-taught",
+    "title": "Teaching 🎓",
+    "section": "Courses taught",
+    "text": "Courses taught\n\nMacroeconomics I, II, and III\nLabor Economics (Economia do Trabalho)\nGame Theory (Teoria dos Jogos)\nPublic Finance (Finanças Públicas)"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "",
+    "title": "Tanise BrandãoBussmann",
     "section": "",
-    "text": "Code\n\n\n\n\n\n  Turning public datainto economic insight\n  \n    I'm Tanise Brandão, an economist and data scientist based in Brazil.\n    I work at the intersection of causal inference, machine learning, and public policy —\n    using open data to understand how economies and institutions actually work.\n  \n\n  \n    Econometrics\n    Causal Inference\n    Macroeconomics\n    Python · R\n    Public Policy\n  \n\n  View Projects\n  About me\n\n\nFeatured Projects\n\n\n\n  \n    \n      Macroeconomics · ML\n      In progress\n    \n    Nowcasting Brazilian Inflation with Machine Learning\n    Can we predict IPCA before the official release? A comparison of LASSO, XGBoost, and AR benchmarks using BCB and Google Trends data.\n    Python\n    XGBoost\n    BCB API\n    Time Series\n  \n\n  \n    \n      Causal Inference\n      Coming soon\n    \n    Evaluating a Social Policy with Synthetic Control\n    Estimating the causal effect of a federal transfer program on local outcomes using the Synthetic Control Method on Brazilian municipal data.\n    Python\n    Synthetic Control\n    IBGE data\n  \n\n  \n    \n      Labor Economics\n      Coming soon\n    \n    Gender Pay Gap in Brazil's Formal Labor Market\n    Tracking the evolution of gender wage gaps by sector from 2010 to 2023 using RAIS — one of the richest employer-employee datasets in the world.\n    Python\n    RAIS\n    Oaxaca-Blinder\n  \n\n  \n    \n      Data Product\n      Coming soon\n    \n    Brazil Macro Monitor\n    A live dashboard tracking SELIC, inflation, exchange rate, and fiscal data via the Banco Central API. Built with Streamlit and updated daily.\n    Python\n    Streamlit\n    BCB API\n    Plotly\n  \n\n\n\nEm Português\n\n\n  Sou economista com doutorado em Economia pela PUCRS, com passagem por UFMG e UFRGS.\n  Trabalho com métodos quantitativos aplicados a políticas públicas, com foco em\n  econometria, inferência causal e aprendizado de máquina.\n  Este portfólio reúne projetos de dados que desenvolvo de forma independente,\n  sempre com código aberto e dados públicos."
+    "text": "Economist · CADE · UNIPAMPA\n    Tanise BrandãoBussmann\n    I apply economic reasoning and quantitative methods to detect and investigate cartels and anticompetitive conduct — from screening algorithms for bid-rigging to building the evidence base for antitrust cases. On the side, I run the same toolkit on The Beatles.\n    \n      See research 📊\n      #beatlenomics 🎸\n    \n  \n\n\n🌐 Ler em português\n\n\nSobre mim 👋\n\n\n  \n  \n    I am a civil servant at CADE, Brazil's antitrust authority, in the General Superintendence's conduct unit (CGAA9), where I work on Projeto Cérebro — CADE's initiative to use data science and algorithmic methods to detect cartels and collusion. I am also Adjunct Professor at UNIPAMPA (currently on leave), where I taught macroeconomics, labor economics, and quantitative methods.\n    PhD in Economics (PUCRS, 2017) · MSc in Economics (UFMG, 2014) · BSc in Economics (UFRGS, 2011) · Degree in Law (UTP, 2025) · specializations in Competition Defense (FGV) and Public Management.\n    Outside of my institutional work, I write #beatlenomics — a data-essay series that applies the same toolkit (concentration measures, causal inference, market analysis) to The Beatles and Paul McCartney's live career.\n  \n\n\n  \n    Focus areas 🔎\n    \n      +Cartel detection & screening algorithms\n      +Algorithmic competition & collusion\n      +Causal inference for policy evaluation\n      +AI & machine learning for investigations\n      +Labor economics\n      +#beatlenomics — data essays on The Beatles\n    \n  \n\n\nLinks\n\n\n  Lattes CV\n  ORCID\n  LinkedIn\n  Google Scholar\n  GitHub\n  Email"
+  },
+  {
+    "objectID": "beatlenomics/05-lennon-mccartney.html",
+    "href": "beatlenomics/05-lennon-mccartney.html",
+    "title": "Lennon-McCartney and the concentration of songwriting",
+    "section": "",
+    "text": "There were four Beatles. Two of them wrote 88% of the songs.\nI went through the catalogue and counted the credits. Lennon and McCartney are on roughly 180 songs. George Harrison wrote about 22. Ringo Starr wrote 2. So of every original the band recorded, almost nine in ten carry the Lennon-McCartney name.\n\nHere is why that goes beyond trivia. A songwriting credit is its own income stream. When the band plays a show, the performance fees get split. But the writer’s share of a song’s royalties goes to the people credited as writers, not to everyone who played on it. For Lennon-McCartney songs, that meant John and Paul, not George and Ringo.\nThat gap shaped the band. Harrison spent years frustrated that his songs had to fight for room on each album. When he finally got the space, he turned in “Something” and “Here Comes the Sun,” two of the most covered songs the Beatles ever released. The talent was never the constraint. Access to the catalogue was.\nAnd here is the twist that makes the point sharper. Writing a song and owning it are two different rights. Lennon and McCartney wrote the catalogue, then lost control of who owned it. The publishing company was sold, changed hands, and in 1985 Michael Jackson bought it for 47.5 million dollars, outbidding McCartney for his own songs. So even the writers did not end up holding their work — that saga gets its own post.\nThis is the part people miss about creative businesses. Value does not accrue to whoever is in the room. It accrues along the rights, and the rights were never split evenly.\nI look at concentration for a living. In any market, two of four players holding 88% of the output would catch my eye. The Beatles just made that concentration sound like the best decade of music ever recorded.\nSo what is your read. Was the Lennon-McCartney lock fair to Harrison, or simply the deal he agreed to?\nCode and data: github.com/taniseb/beatlenomics"
+  },
+  {
+    "objectID": "beatlenomics/00-lancamento.html",
+    "href": "beatlenomics/00-lancamento.html",
+    "title": "Launching #beatlenomics",
+    "section": "",
+    "text": "I started a side project this weekend, and it has almost nothing to do with my day job. Almost.\nMy work is measuring how concentrated markets are. Who holds the power, how unevenly value is spread, what the numbers say when the official story says something else. Last week it hit me that I could point the exact same tools at something I actually love. The Beatles.\nSo I am starting #beatlenomics. Short essays where I take one question about The Beatles or Paul McCartney, pull real data, and answer it with a chart and one economic idea. No nostalgia for its own sake. Just the numbers, and what they quietly reveal about how cultural value works.\nThe first one looks at Paul’s live shows. I compiled his full performance history, 373 different songs, and the distribution turned out more unequal than the income of any country on earth.\nI am keeping the whole thing open. The code, the data, and the charts live on GitHub. If you want to see how it is built, or borrow the approach for your own data, it is all there.\nThis is the part of data work I enjoy most. Taking a method built for serious questions and letting it loose on something joyful.\nWhat would you want measured about a band you love?"
+  },
+  {
+    "objectID": "beatlenomics/11-never-gets-old.html",
+    "href": "beatlenomics/11-never-gets-old.html",
+    "title": "It never gets old. But does it never get old?",
+    "section": "",
+    "text": "The Beatles sold 600 million records. The best-selling act in music history, by a wide margin.\nOn Spotify, they have about 26 billion total streams and roughly 10 million monthly listeners. Taylor Swift has over 100 billion streams and 103 million monthly listeners. The Beatles are not in the top 50 most-streamed artists on the platform. They are not even the most-streamed classic rock band. That title goes to Queen, with 29 billion streams and 50 million monthly listeners.\nSo when we say the Beatles never get old, what exactly are we measuring? I ran the numbers three different ways.\nFirst, sales per year of active career. The Beatles were together for seven years, 1963 to 1970. In that window, they sold 600 million records — 86 million per year. Elvis, over a 23-year career, averaged 22 million per year. Taylor Swift, across 18 years, averages about 11 million per year. By annual output rate, the Beatles are not just the biggest. They operated at 4x the pace of Elvis and 8x the pace of Taylor Swift.\nSecond, streams per original song. The Beatles recorded roughly 213 original compositions. Their 26 billion Spotify streams spread across those tracks give an average of about 122 million streams per song. Queen, with approximately 180 songs and 29 billion streams, averages 162 million per song — a higher per-song streaming density. Part of the explanation is “Bohemian Rhapsody,” which got a second life from the 2018 film and sits at over 2 billion streams alone.\n\nThird, the time disadvantage. The Beatles catalogue was not available on any streaming platform until December 24, 2015. That means their 26 billion streams were accumulated in roughly 10 years, not the 18 years Spotify has existed — about 2.5 billion plays per year. Taylor Swift’s is about 6.7 billion per year, a 2.7 to 1 ratio. Significant, but smaller than the 10 to 1 gap in monthly listeners would suggest.\nAnd then there is “Here Comes the Sun.” Written by George Harrison in 1969. It has 1.8 billion Spotify streams — the first song from the 1960s to cross one billion plays on any streaming platform. It averages roughly 472,000 plays per day, every day, 57 years after it was recorded. No algorithmic playlist strategy, no TikTok campaign, no coordinated release. Just a track that people keep pressing play on.\nHere is what the data actually says. The Beatles dominated an era when success meant selling a physical object. Streaming measures something different: not the decision to buy, but the decision to listen again. Sales are a stock metric — they accumulate and never go down. Streams are a flow metric — they measure ongoing, current demand.\nBy the stock metric, no one will ever catch the Beatles. 600 million records in seven years is a number that belongs to a format that no longer exists. By the flow metric, they are a mid-tier legacy act on Spotify, outperformed by Queen, by Coldplay, by artists who are still releasing music and feeding the algorithm.\nBut 472,000 daily plays of a 1969 track is not nostalgia. That is a song that still solves a problem for listeners, 57 years later. The catalogue ages. The best songs do not.\nGreatest ever? Almost certainly. Most listened to right now? Not even close. That gap is the most honest thing data can tell you about how culture ages.\nCode and data: github.com/taniseb/beatlenomics"
+  },
+  {
+    "objectID": "beatlenomics/index.html",
+    "href": "beatlenomics/index.html",
+    "title": "#beatlenomics 🎸",
+    "section": "",
+    "text": "A side project where I point the tools of economics and data analysis at The Beatles and Paul McCartney.\nEach entry takes one question — how often does Paul play each song, how concentrated is his setlist, how much of his stage time still belongs to The Beatles — and answers it with real data, a clear chart, and one economic idea. The series runs on my LinkedIn as #beatlenomics; this section mirrors every published post as its canonical, citable home.\nEvery figure is reproducible. Code, data, and charts live in the beatlenomics GitHub repo.\n\nPosts 📝\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe placebo test\n\n\n\n\n\n\nJul 9, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nDid Get Back move the catalogue?\n\n\n\n\n\n\nJul 6, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nIt never gets old. But does it never get old?\n\n\n\n\n\n\nJul 1, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nWho owns the Beatles?\n\n\n\n\n\n\nJun 28, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nLennon-McCartney and the concentration of songwriting\n\n\n\n\n\n\nJun 25, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nConcentration in Paul McCartney’s setlists\n\n\n\n\n\n\nJun 22, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nLaunching #beatlenomics\n\n\n\n\n\n\nJun 17, 2026\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "beatlenomics/04-musicas-mais-tocadas.html",
+    "href": "beatlenomics/04-musicas-mais-tocadas.html",
+    "title": "Concentration in Paul McCartney’s setlists",
+    "section": "",
+    "text": "Paul McCartney has played 373 different songs live. Half of them account for 1% of his stage time.\nI pulled his full live history, every documented show, 30,369 performances in total, and looked at how it distributes. It is one of the most lopsided catalogues I have ever measured.\nThe numbers are blunt. 117 songs got played exactly once. Almost half the catalogue shows up five times or fewer. The median song has been played six times in his entire career. And the top 50 songs carry 68% of every performance.\n\nPut it on a Lorenz curve and the Gini comes out at 0.77. I measure market concentration for a living, and that number is higher than the income inequality of any country on earth.\nThere is an era story underneath it. The Beatles years lasted about eight. His solo and Wings career runs past fifty. Yet Beatles songs still take 65% of his stage time. Eight years of output drive two thirds of what he plays. Supply and demand point in opposite directions.\nThis is demand concentration, the same shape that runs through streaming, publishing, and box office. A few legacy assets carry the whole catalogue, and anything new has to compete with a back catalogue that never depreciates. People do not pay for the newest song. They pay for the one that became canon.\nThe uncomfortable part, if you build anything creative, is that your catalogue’s value does not spread evenly across what you make. It clusters, hard. The real question is not how much you produce. It is whether you ever make another thing that climbs into the head of the curve.\nMy favourite Beatles song, Ob-La-Di Ob-La-Da, sits in the top 6%. Good company, as it turns out.\nA note on the data. This comes from publicly documented setlists on setlist.fm. The counts are fan logged, so read them as floors, not exact totals. The Gini is computed across all 373 songs.\nSo what is your read. Is McCartney leaving money on the table by underplaying fifty years of solo work, or is giving people the hits simply the rational move?\nCode and data: github.com/taniseb/beatlenomics"
+  },
+  {
+    "objectID": "ensino.pt.html",
+    "href": "ensino.pt.html",
+    "title": "Ensino 🎓",
+    "section": "",
+    "text": "🌐 Read in English\nSou Professora Adjunta na Universidade Federal do Pampa (UNIPAMPA), atualmente afastada em razão do trabalho no CADE. Minha atuação em ensino abrangeu macroeconomia, economia do trabalho, teoria dos jogos e finanças públicas para estudantes de graduação em Economia."
+  },
+  {
+    "objectID": "ensino.pt.html#disciplinas-lecionadas",
+    "href": "ensino.pt.html#disciplinas-lecionadas",
+    "title": "Ensino 🎓",
+    "section": "Disciplinas lecionadas",
+    "text": "Disciplinas lecionadas\n\nMacroeconomia I, II e III\nEconomia do Trabalho\nTeoria dos Jogos\nFinanças Públicas"
+  },
+  {
+    "objectID": "contato.html",
+    "href": "contato.html",
+    "title": "Contact ✉️",
+    "section": "",
+    "text": "🌐 Ler em português\n\n\nEmail: tanisebrandao@gmail.com\nLattes CV: lattes.cnpq.br/8929030311500731\nORCID: 0000-0003-0658-3422\nGitHub: github.com/taniseb\nGoogle Scholar: scholar.google.com\nLinkedIn: linkedin.com/in/tanisebussmann"
+  },
+  {
+    "objectID": "pesquisa.html",
+    "href": "pesquisa.html",
+    "title": "Research & Publications 📊",
+    "section": "",
+    "text": "🌐 Ler em português\nMy research sits at the intersection of competition economics, econometrics, and applied data science, largely developed alongside my work at CADE (Brazil’s antitrust authority) and as adjunct professor at UNIPAMPA."
+  },
+  {
+    "objectID": "pesquisa.html#selected-articles",
+    "href": "pesquisa.html#selected-articles",
+    "title": "Research & Publications 📊",
+    "section": "Selected articles",
+    "text": "Selected articles\n\nStanford Computational Antitrust (2026) — on Structured Analytics for Bid-rigging Monitoring (SABM) and large language models applied to cartel detection.\nRevista do Serviço Público (2026).\nRevista de Defesa da Concorrência (2022).\nRevista do IBRAC (2021, 2022)."
+  },
+  {
+    "objectID": "pesquisa.html#working-papers",
+    "href": "pesquisa.html#working-papers",
+    "title": "Research & Publications 📊",
+    "section": "Working papers",
+    "text": "Working papers\n\nCADE Working Paper 2/2023 (Documento de Trabalho CADE 2/2023)."
+  },
+  {
+    "objectID": "pesquisa.html#books-book-chapters",
+    "href": "pesquisa.html#books-book-chapters",
+    "title": "Research & Publications 📊",
+    "section": "Books & book chapters",
+    "text": "Books & book chapters\n\nMulheres no Antitruste, vol. 5 and vol. 6 — contributing chapters."
+  },
+  {
+    "objectID": "pesquisa.html#data-projects",
+    "href": "pesquisa.html#data-projects",
+    "title": "Research & Publications 📊",
+    "section": "Data projects",
+    "text": "Data projects\nIndependent, open-source data projects, published on GitHub:\n\nbeatlenomics — economics and causal inference applied to The Beatles and Paul McCartney’s live career. See the #beatlenomics section on this site.\nmapasicms\nmegasena\n\nFor the complete and up-to-date list of publications, see my Lattes CV or Google Scholar profile."
+  },
+  {
+    "objectID": "contato.pt.html",
+    "href": "contato.pt.html",
+    "title": "Contato ✉️",
+    "section": "",
+    "text": "🌐 Read in English\n\n\nE-mail: tanisebrandao@gmail.com\nCurrículo Lattes: lattes.cnpq.br/8929030311500731\nORCID: 0000-0003-0658-3422\nGitHub: github.com/taniseb\nGoogle Scholar: scholar.google.com\nLinkedIn: linkedin.com/in/tanisebussmann"
+  },
+  {
+    "objectID": "beatlenomics/07-quem-e-dono.html",
+    "href": "beatlenomics/07-quem-e-dono.html",
+    "title": "Who owns the Beatles?",
+    "section": "",
+    "text": "In 1963, Lennon and McCartney signed their songs to a company called Northern Songs. They were 22 and 21. By 1969, they had lost control of the catalogue entirely. By 1985, someone who never wrote a single Beatles song owned it.\nI tracked every transaction. Here is what the ownership of the most valuable songbook in popular music looks like as a financial asset.\n1963. Northern Songs is created. Lennon and McCartney are minority shareholders in their own work. Publisher Dick James and manager Brian Epstein hold the majority.\n1969. After Epstein’s death, Dick James sells his shares to Lew Grade’s ATV for 1.5 million pounds, without telling Lennon or McCartney. The Beatles try to buy back control. They fail. They sell their remaining shares for 3.5 million pounds. ATV ends up with 92%. Total implied valuation of Northern Songs at the time of ATV’s bid: roughly 9.5 million pounds.\n1985. Michael Jackson buys ATV Music for 47.5 million dollars. The catalogue contains about 4,000 songs. 251 of them are Lennon-McCartney compositions. That works out to roughly 11,900 dollars per song across the whole catalogue, or 189,000 dollars per Beatles song if you allocate the entire price to just the 251. McCartney wanted to buy it. He was outbid on his own songs.\n1995. Facing financial pressure, Jackson merges the catalogue with Sony’s publishing arm. Sony/ATV is born. Jackson keeps 50%.\n2016. Seven years after Jackson’s death, his estate sells the remaining 50% to Sony for 750 million dollars. The implied valuation of the full catalogue: 1.5 billion.\n\nNow here is where it gets interesting for anyone who thinks about returns.\n47.5 million in 1985 became 1.5 billion in 2016. That is a 31x increase in 31 years, which works out to 11.8% compound annual growth in nominal terms. Adjusted for inflation, the real return is about 8.9% per year.\nHow does that compare? The S&P 500 returned roughly 11.1% nominal over the same period. Gold returned 4.5%. US housing appreciated at about 3.5% annually in real terms.\nSo the Beatles catalogue performed roughly in line with the US stock market, beat gold by a wide margin, and crushed real estate. As an asset class, a songbook written by four men from Liverpool in the 1960s tracked the performance of the 500 largest American companies for three decades.\nThe price per song tells the story even more clearly. In 1985, each song in the ATV catalogue was worth about 11,900 dollars. By 2016, that same song was worth roughly 375,000 dollars. A 32x appreciation per composition.\nBut here is the part that still surprises me. In 2018, McCartney began using a provision in US copyright law that lets writers of pre-1978 songs reclaim their publishing rights after 56 years. He filed for 267 songs and reached a confidential settlement with Sony in 2017. More than fifty years after losing control, the law gave him a path back in.\nThe writers created the value. An investor captured the return. And eventually, a clause in copyright law did what no business negotiation could. That is the economics of intellectual property in one catalogue.\nCode and data: github.com/taniseb/beatlenomics"
+  },
+  {
+    "objectID": "beatlenomics/c6-placebo.html",
+    "href": "beatlenomics/c6-placebo.html",
+    "title": "The placebo test",
+    "section": "",
+    "text": "On Monday I showed that a documentary made a band that broke up in 1970 nearly triple its Google searches. Today I tried to prove that finding was fake. Here is what happened.\nA number is not trustworthy because you found it. It is trustworthy because you tried to break it and could not. That second step is the one most people skip, and it is the one that separates a serious analysis from a pretty chart.\nSo I ran the placebo test. My diff-in-diff said Get Back lifted Beatles searches by 23 index points. Fine. But what if my method just manufactures effects? What if it would find a lift anywhere I pointed it? There is a clean way to check. Point it at a moment when nothing happened.\nI took the exact same model and moved the treatment date to 63 other weeks. Weeks with no documentary, no reunion, no news. If the method is honest, those fake dates should come back near zero. If it invents effects, they should light up like the real one did.\n\nThey came back near zero. All 63 of them clustered around no effect, while the real Get Back estimate sat more than nine standard deviations away, alone out in the tail. Not one fake date came close. Then I ran it the other way, pretending a control band was the treated one on the real release date. Near zero again. The effect refused to be faked, from every angle I tried.\nHere is the lesson hiding inside the lesson. The only fake dates that showed anything at all were the ones parked right after the real spike, and those were not clean nulls — they were catching the tail of the true effect. A placebo is only as good as the window you give it. Run it carelessly and it will lie to you too.\nNow take this out of music. It is the question to ask anyone who shows you a lift, from an ad campaign, a feature launch, a price cut. Not “how big was it.” Ask “did you run it where nothing happened, and did it come back empty.” If they never tried to break their own result, they do not have a result. They have a hope with a chart attached.\nThe job was never finding the effect. It was failing to destroy it.\nSo what is the last number you trusted that nobody stress-tested?\nCode and data: github.com/taniseb/beatlenomics"
+  },
+  {
+    "objectID": "beatlenomics/index.pt.html",
+    "href": "beatlenomics/index.pt.html",
+    "title": "#beatlenomics 🎸",
+    "section": "",
+    "text": "🌐 Read in English\n\nUm projeto paralelo em que aponto as ferramentas da economia e da análise de dados para os Beatles e Paul McCartney.\nCada texto parte de uma pergunta — com que frequência Paul toca cada música ao vivo, o quão concentrado é seu repertório, quanto do tempo de palco ainda pertence aos Beatles — e responde com dados reais, um gráfico claro e uma ideia econômica. A série roda no meu LinkedIn como #beatlenomics; esta seção espelha cada post publicado como seu lar canônico e citável.\nOs textos abaixo estão em inglês, o idioma original da série. Todo gráfico é reprodutível: código, dados e visuais estão no repositório beatlenomics no GitHub.\n\nPosts 📝\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe placebo test\n\n\n\n\n\n\n9 de jul. de 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nDid Get Back move the catalogue?\n\n\n\n\n\n\n6 de jul. de 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nIt never gets old. But does it never get old?\n\n\n\n\n\n\n1 de jul. de 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nWho owns the Beatles?\n\n\n\n\n\n\n28 de jun. de 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nLennon-McCartney and the concentration of songwriting\n\n\n\n\n\n\n25 de jun. de 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nConcentration in Paul McCartney’s setlists\n\n\n\n\n\n\n22 de jun. de 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nLaunching #beatlenomics\n\n\n\n\n\n\n17 de jun. de 2026\n\n\n\n\n\n\nNenhum item correspondente"
+  },
+  {
+    "objectID": "beatlenomics/c3-get-back-did.html",
+    "href": "beatlenomics/c3-get-back-did.html",
+    "title": "Did Get Back move the catalogue?",
+    "section": "",
+    "text": "In November 2021, searches for a band that broke up in 1970 nearly tripled in a single week. I wanted to know one thing. Was that the documentary, or just Christmas?\nThe band is the Beatles. The documentary is Get Back, eight hours of restored 1969 footage that Peter Jackson dropped on Disney+ over three days, the 25th to the 27th of November. Google searches for the Beatles jumped to 2.7 times their normal level the same week.\nHere is the trap. December always lifts music searches. Gifts, playlists, nostalgia, family. A simple before-and-after would hand the documentary a spike that partly belongs to the calendar. That is correlation wearing the costume of an effect, and it is the most common mistake in measurement.\nSo I ran a diff-in-diff. The idea is simple. Find things that ride the same seasonal wave but had no documentary, and let them tell you what the Beatles would have done anyway. My control group was three legacy bands with no shock in the window: the Rolling Stones, Led Zeppelin, Pink Floyd. If Christmas alone drove the spike, they should spike too.\n\nThey did not. Before Get Back, the four bands moved together closely enough to trust the comparison — that co-movement is the parallel trends assumption, and you can watch it hold in the chart. After the release, the Beatles shot up while the controls stayed flat. The distance between what happened and what the controls say would have happened is the causal effect: roughly 23 index points over the following eight weeks, a 63% lift the control bands never got.\nThen the honest part. It faded. By January the Beatles were back near baseline. A documentary is a pulse, not a plateau. It buys a spike of attention, not a permanent shift in demand, and pretending otherwise is how people oversell a launch.\nNow swap the documentary for an ad campaign. This is the single most common question I get asked to answer. Not “did the numbers go up after we spent the money,” but “did they go up because of it.” The gap between those two questions is worth a lot of budget, and diff-in-diff is one of the cleanest ways to close it. All it needs is a control group that shares your seasonality and skipped your treatment.\nA note on the data. Google Trends is a search proxy, normalized 0 to 100, not stream counts. Three controls beat one because no single band’s noise can carry the result — I tested that: the Stones had their own shock in 2021, the death of Charlie Watts. Drop them entirely and the estimate moves from 23.5 to 22.2 points. The result survives losing a third of the control group. The design is the point, not the decimal.\nSo what would you have used as the control group?\nCode and data: github.com/taniseb/beatlenomics"
+  },
+  {
+    "objectID": "palestras.html",
+    "href": "palestras.html",
+    "title": "Talks & Awards 🎤",
+    "section": "",
+    "text": "🌐 Ler em português"
+  },
+  {
+    "objectID": "palestras.html#awards",
+    "href": "palestras.html#awards",
+    "title": "Talks & Awards 🎤",
+    "section": "Awards",
+    "text": "Awards\n\n3rd place, IBRAC Monograph Award (2021) — Brazilian Institute for Competition, Consumer and International Trade Studies (IBRAC)."
+  },
+  {
+    "objectID": "palestras.html#talks-events",
+    "href": "palestras.html#talks-events",
+    "title": "Talks & Awards 🎤",
+    "section": "Talks & events",
+    "text": "Talks & events\nSelected presentations at antitrust and economics conferences, including events organized by IBRAC. A full list is available on my Lattes CV."
+  },
+  {
+    "objectID": "palestras.pt.html",
+    "href": "palestras.pt.html",
+    "title": "Palestras & Prêmios 🎤",
+    "section": "",
+    "text": "🌐 Read in English"
+  },
+  {
+    "objectID": "palestras.pt.html#prêmios",
+    "href": "palestras.pt.html#prêmios",
+    "title": "Palestras & Prêmios 🎤",
+    "section": "Prêmios",
+    "text": "Prêmios\n\n3º lugar, Prêmio IBRAC de Monografias (2021) — Instituto Brasileiro de Estudos de Concorrência, Consumo e Comércio Internacional (IBRAC)."
+  },
+  {
+    "objectID": "palestras.pt.html#palestras-eventos",
+    "href": "palestras.pt.html#palestras-eventos",
+    "title": "Palestras & Prêmios 🎤",
+    "section": "Palestras & eventos",
+    "text": "Palestras & eventos\nApresentações selecionadas em congressos de direito e economia da concorrência, incluindo eventos organizados pelo IBRAC. A lista completa está disponível no meu currículo Lattes."
+  },
+  {
+    "objectID": "index.pt.html",
+    "href": "index.pt.html",
+    "title": "Tanise BrandãoBussmann",
+    "section": "",
+    "text": "Economista · CADE · UNIPAMPA\n    Tanise BrandãoBussmann\n    Aplico raciocínio econômico e métodos quantitativos para detectar e investigar cartéis e condutas anticoncorrenciais — de algoritmos de triagem para direcionamento de licitações à construção de provas em processos antitruste. Nas horas vagas, aplico o mesmo ferramental aos Beatles.\n    \n      Ver pesquisa 📊\n      #beatlenomics 🎸\n    \n  \n\n\n🌐 Read in English\n\n\nSobre mim 👋\n\n\n  \n  \n    Sou servidora do CADE (Conselho Administrativo de Defesa Econômica), na Superintendência-Geral, unidade de condutas (CGAA9), onde trabalho no Projeto Cérebro — iniciativa do CADE para usar ciência de dados e métodos algorítmicos na detecção de cartéis e colusão. Também sou Professora Adjunta na UNIPAMPA (atualmente afastada), onde lecionei macroeconomia, economia do trabalho e métodos quantitativos.\n    Doutora em Economia (PUCRS, 2017) · mestre em Economia (UFMG, 2014) · bacharel em Economia (UFRGS, 2011) · bacharel em Direito (UTP, 2025) · especializações em Defesa da Concorrência (FGV) e Gestão Pública.\n    Fora do trabalho institucional, escrevo o #beatlenomics — uma série de ensaios de dados que aplica o mesmo ferramental (medidas de concentração, inferência causal, análise de mercado) aos Beatles e à carreira ao vivo de Paul McCartney.\n  \n\n\n  \n    Áreas de atuação 🔎\n    \n      +Detecção de cartéis e algoritmos de triagem\n      +Concorrência algorítmica e colusão\n      +Inferência causal para avaliação de políticas\n      +IA e aprendizado de máquina para investigações\n      +Economia do trabalho\n      +#beatlenomics — ensaios de dados sobre os Beatles\n    \n  \n\n\nLinks\n\n\n  Currículo Lattes\n  ORCID\n  LinkedIn\n  Google Scholar\n  GitHub\n  E-mail"
   }
 ]

@@ -1,0 +1,26 @@
+---
+title: "#beatlenomics 🎸"
+listing:
+  contents:
+    - 00-lancamento.qmd
+    - 04-musicas-mais-tocadas.qmd
+    - 05-lennon-mccartney.qmd
+    - 07-quem-e-dono.qmd
+    - 11-never-gets-old.qmd
+    - c3-get-back-did.qmd
+    - c6-placebo.qmd
+  sort: "date desc"
+  type: grid
+  fields: [image, date, title, description]
+  categories: false
+page-layout: full
+toc: false
+---
+
+A side project where I point the tools of economics and data analysis at The Beatles and Paul McCartney.
+
+Each entry takes one question — how often does Paul play each song, how concentrated is his setlist, how much of his stage time still belongs to The Beatles — and answers it with real data, a clear chart, and one economic idea. The series runs on my LinkedIn as **#beatlenomics**; this section mirrors every published post as its canonical, citable home.
+
+Every figure is reproducible. Code, data, and charts live in the [beatlenomics GitHub repo](https://github.com/taniseb/beatlenomics).
+
+<p class="section-emoji-head">Posts 📝</p>

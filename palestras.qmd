@@ -1,0 +1,14 @@
+---
+title: "Talks & Awards 🎤"
+toc: false
+---
+
+<p class="lang-toggle">🌐 <a href="palestras.pt.qmd">Ler em português</a></p>
+
+## Awards
+
+- **3rd place, IBRAC Monograph Award (2021)** — Brazilian Institute for Competition, Consumer and International Trade Studies (IBRAC).
+
+## Talks & events
+
+Selected presentations at antitrust and economics conferences, including events organized by IBRAC. A full list is available on my [Lattes CV](http://lattes.cnpq.br/8929030311500731).

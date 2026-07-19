@@ -3,9 +3,9 @@ project:
   output-dir: docs
 
 website:
-  title: "Tanise Brandão"
-  description: "Economist & Data Scientist | Economista e Cientista de Dados"
-  favicon: assets/favicon.ico
+  title: "Tanise Brandão Bussmann"
+  description: "Economist, cartel investigator, and data scientist"
+  site-url: https://taniseb.github.io
 
   navbar:
     pinned: true
@@ -13,28 +13,36 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: projects/index.qmd
-        text: Projects / Projetos
-      - href: about.qmd
-        text: About / Sobre
+      - href: pesquisa.qmd
+        text: "Research 📊"
+      - href: ensino.qmd
+        text: "Teaching 🎓"
+      - href: palestras.qmd
+        text: "Talks 🎤"
+      - href: beatlenomics/index.qmd
+        text: "#beatlenomics 🎸"
+    right:
+      - href: contato.qmd
+        text: "Contact ✉️"
+
+  page-footer:
+    left: "© 2026 Tanise Brandão Bussmann"
     right:
       - icon: github
         href: https://github.com/taniseb
         aria-label: GitHub
       - icon: linkedin
-        href: https://www.linkedin.com/in/YOUR-LINKEDIN-SLUG
+        href: https://www.linkedin.com/in/tanisebussmann/
         aria-label: LinkedIn
-
-  page-footer:
-    center: "© 2026 Tanise Brandão · [GitHub](https://github.com/taniseb)"
-    background: light
+      - icon: envelope
+        href: mailto:tanisebrandao@gmail.com
+        aria-label: Email
 
 format:
   html:
-    theme: litera
+    theme: cosmo
     css: styles.css
     toc: false
     smooth-scroll: true
-    code-fold: true
-    code-tools: true
     highlight-style: github
+    lang: en
