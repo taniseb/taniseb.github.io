@@ -459,6 +459,7 @@ main img:not(.hero-photo):not(.about-photo) {
   font-family: 'JetBrains Mono', monospace;
 }
 .tb-footer-icons a:hover { background: #fff; color: var(--brand-dark) !important; }
+.tb-footer-icons a svg { display: block; }
 
 /* ── beatlenomics landing: mono section labels + featured card ── */
 .bn-label {
