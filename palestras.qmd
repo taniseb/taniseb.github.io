@@ -19,3 +19,13 @@ toc: false
 ## Talks & events
 
 Selected presentations at antitrust and economics conferences, including events organized by IBRAC. A full list is available on my [Lattes CV](http://lattes.cnpq.br/8929030311500731).
+
+```{=html}
+<a class="talk-card" href="https://youtu.be/bDrN6Q-YryE?si=uBBI5wfU7WgS7sIK">
+<span class="talk-play">▶️</span>
+<span>
+<span class="talk-kicker">Talk</span>
+<span class="talk-title">Episode 40: Colluding Without Colluding — How AI Agents Learn to Fix Prices on Their Own</span>
+</span>
+</a>
+```

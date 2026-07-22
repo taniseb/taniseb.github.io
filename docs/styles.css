@@ -538,6 +538,49 @@ main img:not(.hero-photo):not(.about-photo) {
   color: var(--brand);
 }
 
+/* ── Talk card (video link) ── */
+.talk-card {
+  display: flex;
+  gap: 1.4rem;
+  align-items: center;
+  border: 1px solid var(--border);
+  border-radius: 14px;
+  padding: 1.4rem 1.8rem;
+  background: var(--paper-soft);
+  text-decoration: none !important;
+  color: inherit;
+  transition: border-color 0.18s ease, transform 0.18s ease;
+  margin: 1.5rem 0;
+}
+.talk-card:hover { border-color: var(--brand); transform: translateY(-2px); }
+.talk-card .talk-play {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 46px;
+  height: 46px;
+  border-radius: 50%;
+  background: var(--brand-lt);
+  font-size: 1.1rem;
+  flex-shrink: 0;
+}
+.talk-card .talk-kicker {
+  display: block;
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 0.74rem;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--brand);
+  margin-bottom: 0.35rem;
+}
+.talk-card .talk-title {
+  display: block;
+  font-weight: 700;
+  font-size: 1.05rem;
+  color: var(--ink);
+}
+
 /* ── Responsive ── */
 @media (max-width: 720px) {
   .bn-featured { grid-template-columns: 1fr; }
