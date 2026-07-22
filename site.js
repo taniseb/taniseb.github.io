@@ -20,8 +20,8 @@
   }
 
   function injectToggle() {
-    var nav = document.querySelector("#quarto-navbar-collapse .navbar-nav.ms-auto") ||
-      document.querySelector("#quarto-navbar-collapse .navbar-nav");
+    var nav = document.querySelector("#navbarCollapse .navbar-nav.ms-auto") ||
+      document.querySelector("#navbarCollapse .navbar-nav");
     if (!nav || document.getElementById("tb-theme-toggle")) return;
     var li = document.createElement("li");
     li.className = "nav-item";

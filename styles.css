@@ -432,7 +432,6 @@ main img:not(.hero-photo):not(.about-photo) {
   background: var(--brand-dark);
   color: #cdd0ec;
   padding: 2.2rem 2.5rem;
-  margin-top: 3rem;
 }
 .tb-footer-inner {
   max-width: 850px;
