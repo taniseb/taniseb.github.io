@@ -1,7 +1,14 @@
 ---
-title: "Research & Publications 📊"
+title: ""
 toc: false
 ---
+
+```{=html}
+<div class="page-header">
+  <p class="page-eyebrow">Research</p>
+  <h1>Research &amp; Publications 📊</h1>
+</div>
+```
 
 <p class="lang-toggle">🌐 <a href="pesquisa.pt.qmd">Ler em português</a></p>
 

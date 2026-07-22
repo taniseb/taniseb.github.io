@@ -1,8 +1,15 @@
 ---
-title: "Palestras & Prêmios 🎤"
+title: ""
 toc: false
 lang: pt
 ---
+
+```{=html}
+<div class="page-header">
+  <p class="page-eyebrow">Palestras</p>
+  <h1>Palestras &amp; Prêmios 🎤</h1>
+</div>
+```
 
 <p class="lang-toggle">🌐 <a href="palestras.qmd">Read in English</a></p>
 

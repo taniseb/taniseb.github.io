@@ -1,8 +1,15 @@
 ---
-title: "Pesquisa & Publicações 📊"
+title: ""
 toc: false
 lang: pt
 ---
+
+```{=html}
+<div class="page-header">
+  <p class="page-eyebrow">Pesquisa</p>
+  <h1>Pesquisa &amp; Publicações 📊</h1>
+</div>
+```
 
 <p class="lang-toggle">🌐 <a href="pesquisa.qmd">Read in English</a></p>
 

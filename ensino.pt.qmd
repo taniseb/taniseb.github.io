@@ -1,8 +1,15 @@
 ---
-title: "Ensino 🎓"
+title: ""
 toc: false
 lang: pt
 ---
+
+```{=html}
+<div class="page-header">
+  <p class="page-eyebrow">Ensino</p>
+  <h1>Ensino 🎓</h1>
+</div>
+```
 
 <p class="lang-toggle">🌐 <a href="ensino.qmd">Read in English</a></p>
 

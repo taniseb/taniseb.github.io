@@ -14,12 +14,56 @@
   --border:     #e4e4ea;
 }
 
+html[data-theme="dark"] {
+  --brand:      #4e5bc9;
+  --brand-dark: #171d5c;
+  --brand-lt:   rgba(78, 91, 201, 0.18);
+  --ink:        #f2f3f6;
+  --ink-soft:   #c7c9d4;
+  --muted:      #9698a6;
+  --paper:      #14161c;
+  --paper-soft: #1b1e27;
+  --border:     #2c2f3a;
+}
+
+html { transition: background 0.2s ease; }
+
 body {
   font-family: 'Inter', sans-serif;
   color: var(--ink);
   background: var(--paper);
   font-size: 16.5px;
   -webkit-font-smoothing: antialiased;
+  transition: background 0.2s ease, color 0.2s ease;
+}
+
+/* ── Scroll progress bar ── */
+#tb-scroll-progress {
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 3px;
+  width: 0%;
+  background: var(--brand);
+  z-index: 1050;
+  transition: width 0.1s linear;
+}
+
+/* ── Dark mode toggle ── */
+#tb-theme-toggle {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 34px;
+  height: 34px;
+  border-radius: 50%;
+  border: 1px solid var(--border);
+  background: var(--paper-soft);
+  color: var(--ink);
+  cursor: pointer;
+  font-size: 0.95rem;
+  padding: 0;
+  margin-left: 0.5rem;
 }
 
 h1, h2, h3, h4 {
@@ -35,6 +79,20 @@ a:hover { color: var(--brand-dark); }
 /* ── Navbar ── */
 .navbar {
   border-bottom: 1px solid var(--border);
+  background: rgba(255,255,255,0.72) !important;
+  backdrop-filter: blur(14px) saturate(160%);
+  -webkit-backdrop-filter: blur(14px) saturate(160%);
+}
+html[data-theme="dark"] .navbar {
+  background: rgba(20,22,28,0.72) !important;
+}
+html[data-theme="dark"] .navbar-nav .nav-link { color: var(--ink) !important; }
+html[data-theme="dark"] body { background: var(--paper); color: var(--ink); }
+html[data-theme="dark"] main,
+html[data-theme="dark"] #quarto-content,
+html[data-theme="dark"] .quarto-container {
+  background: var(--paper);
+  color: var(--ink);
 }
 .navbar-brand {
   font-weight: 700;
@@ -48,7 +106,7 @@ a:hover { color: var(--brand-dark); }
   content: "TB";
   width: 34px;
   height: 34px;
-  border-radius: 50%;
+  border-radius: 10px;
   background: var(--brand);
   color: #fff;
   font-weight: 800;
@@ -63,8 +121,15 @@ a:hover { color: var(--brand-dark); }
   font-size: 0.9rem;
   font-weight: 500;
   color: var(--ink) !important;
+  background-image: linear-gradient(currentColor, currentColor);
+  background-size: 0% 2px;
+  background-repeat: no-repeat;
+  background-position: left bottom;
+  transition: background-size 0.25s ease, color 0.15s ease;
+  padding-bottom: 2px;
 }
-.navbar-nav .nav-link:hover { color: var(--brand) !important; }
+.navbar-nav .nav-link:hover { color: var(--brand) !important; background-size: 100% 2px; }
+.navbar-nav .nav-link.active { color: var(--brand) !important; background-size: 100% 2px; }
 
 /* right-side "Contact" link styled as a pill CTA */
 #quarto-navbar-collapse .navbar-nav.navbar-nav-scroll.ms-auto .nav-link,
@@ -83,7 +148,10 @@ a:hover { color: var(--brand-dark); }
 
 /* ── Hero band (flat brand color, full-bleed) ── */
 .hero-band {
-  background: var(--brand);
+  background-image:
+    radial-gradient(circle at 1px 1px, rgba(255,255,255,0.18) 1.4px, transparent 0),
+    linear-gradient(160deg, var(--brand-dark) 0%, var(--brand) 100%);
+  background-size: 22px 22px, 100% 100%;
   color: #fff;
   padding: 4rem 0 3.5rem;
   width: 100vw;
@@ -99,8 +167,11 @@ a:hover { color: var(--brand-dark); }
   padding: 0 1.5rem;
 }
 .hero-band .eyebrow {
-  font-size: 0.85rem;
-  opacity: 0.78;
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 0.82rem;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  opacity: 0.75;
   margin: 0 0 0.8rem;
 }
 .hero-band h1 {
@@ -320,6 +391,41 @@ main img:not(.hero-photo):not(.about-photo) {
   font-weight: 800;
   letter-spacing: -0.01em;
   margin: 0 0 1rem;
+}
+.num-label {
+  font-size: 0.78rem;
+  font-weight: 700;
+  font-family: 'JetBrains Mono', monospace;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--brand);
+  margin: 2.25rem 0 1rem;
+}
+
+/* ── Page header (Research / Talks / Teaching / Contact) ── */
+.page-header {
+  padding: 1rem 0 0.5rem;
+}
+.page-header .page-eyebrow {
+  font-size: 0.78rem;
+  font-weight: 700;
+  font-family: 'JetBrains Mono', monospace;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--brand);
+  margin: 0 0 1rem;
+}
+.page-header h1 {
+  font-size: 2.1rem;
+  font-weight: 800;
+  letter-spacing: -0.02em;
+  margin: 0 0 1.2rem;
+}
+.page-header .page-lede {
+  color: var(--ink-soft);
+  line-height: 1.7;
+  max-width: 42rem;
+  margin: 0;
 }
 
 /* ── Footer ── */
