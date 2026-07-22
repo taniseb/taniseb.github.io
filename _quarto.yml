@@ -25,19 +25,6 @@ website:
       - href: contato.qmd
         text: "Contact ✉️"
 
-  page-footer:
-    left: "© 2026 Tanise Brandão Bussmann"
-    right:
-      - icon: github
-        href: https://github.com/taniseb
-        aria-label: GitHub
-      - icon: linkedin
-        href: https://www.linkedin.com/in/tanisebussmann/
-        aria-label: LinkedIn
-      - icon: envelope
-        href: mailto:tanisebrandao@gmail.com
-        aria-label: Email
-
 format:
   html:
     theme: cosmo
@@ -49,3 +36,18 @@ format:
     include-in-header:
       text: |
         <script src="/site.js"></script>
+    include-after-body:
+      text: |
+        <footer class="tb-footer">
+          <div class="tb-footer-inner">
+            <p>© 2026 Tanise Brandão Bussmann</p>
+            <div class="tb-footer-icons">
+              <a href="http://lattes.cnpq.br/8929030311500731" aria-label="Lattes CV" title="Lattes CV">CV</a>
+              <a href="https://orcid.org/0000-0003-0658-3422" aria-label="ORCID" title="ORCID">id</a>
+              <a href="https://scholar.google.com/citations?user=YTuig-gAAAAJ" aria-label="Google Scholar" title="Google Scholar">GS</a>
+              <a href="https://github.com/taniseb" aria-label="GitHub" title="GitHub">gh</a>
+              <a href="https://www.linkedin.com/in/tanisebussmann/" aria-label="LinkedIn" title="LinkedIn">in</a>
+              <a href="mailto:tanisebrandao@gmail.com" aria-label="Email" title="Email">✉</a>
+            </div>
+          </div>
+        </footer>

@@ -181,8 +181,7 @@ html[data-theme="dark"] .quarto-container {
   font-size: clamp(2.2rem, 5.5vw, 3.6rem);
   color: #fff;
 }
-.hero-band h1 .light { font-weight: 300; }
-.hero-band h1 .bold { font-weight: 800; }
+.hero-band h1 { font-weight: 700; }
 .hero-band p.lede {
   font-size: 1.08rem;
   max-width: 38rem;
@@ -429,26 +428,38 @@ main img:not(.hero-photo):not(.about-photo) {
 }
 
 /* ── Footer ── */
-.footer {
-  background: var(--brand-dark) !important;
-  color: #cdd0ec !important;
-  border-top: none !important;
+.tb-footer {
+  background: var(--brand-dark);
+  color: #cdd0ec;
+  padding: 2.2rem 2.5rem;
+  margin-top: 3rem;
 }
-.footer a, .footer p { color: #cdd0ec !important; }
-.footer .nav-footer-right .nav-link {
-  display: inline-flex;
+.tb-footer-inner {
+  max-width: 850px;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+.tb-footer-inner p { margin: 0; font-size: 0.88rem; color: #cdd0ec; }
+.tb-footer-icons { display: flex; gap: 0.6rem; }
+.tb-footer-icons a {
+  display: flex;
   width: 34px;
   height: 34px;
   border-radius: 50%;
   background: rgba(255,255,255,0.12);
   align-items: center;
   justify-content: center;
-  padding: 0 !important;
+  color: #fff !important;
+  text-decoration: none !important;
+  font-size: 0.78rem;
+  font-weight: 700;
+  font-family: 'JetBrains Mono', monospace;
 }
-.footer .nav-footer-right .nav-link:hover { background: #fff; }
-.footer .nav-footer-right .nav-link:hover .bi { color: var(--brand-dark) !important; }
-.footer .bi { color: #fff !important; }
-.footer .footer-items { display: flex; gap: 0.6rem; }
+.tb-footer-icons a:hover { background: #fff; color: var(--brand-dark) !important; }
 
 /* ── beatlenomics landing: mono section labels + featured card ── */
 .bn-label {

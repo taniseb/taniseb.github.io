@@ -8,7 +8,7 @@ toc: false
 <div class="hero-band">
   <div class="hero-inner">
     <p class="eyebrow">// Economist · CADE · UNIPAMPA</p>
-    <h1><span class="light">Tanise</span> <span class="bold">Brandão<br>Bussmann</span></h1>
+    <h1>Tanise Brandão<br>Bussmann</h1>
     <p class="lede">I apply economic reasoning and quantitative methods to detect and investigate cartels and anticompetitive conduct — from screening algorithms for bid-rigging to building the evidence base for antitrust cases. On the side, I run the same toolkit on The Beatles.</p>
     <div class="hero-btns">
       <a class="btn btn-solid" href="pesquisa.qmd">See research 📊</a>
