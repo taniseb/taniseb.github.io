@@ -8,7 +8,6 @@ listing:
     - 07-quem-e-dono.qmd
     - 11-never-gets-old.qmd
     - c3-get-back-did.qmd
-    - c6-placebo.qmd
   sort: "date desc"
   type: grid
   fields: [image, date, title, description]
@@ -23,4 +22,16 @@ Each entry takes one question — how often does Paul play each song, how concen
 
 Every figure is reproducible. Code, data, and charts live in the [beatlenomics GitHub repo](https://github.com/taniseb/beatlenomics).
 
-<p class="section-emoji-head">Posts 📝</p>
+<p class="bn-label">Featured</p>
+
+<a class="bn-featured" href="c6-placebo.html">
+  <div class="bn-feat-img" style="background-image:url('images/c6-placebo.png');"></div>
+  <div class="bn-feat-body">
+    <span class="bn-date-pill">Jul 9, 2026</span>
+    <h3>The placebo test</h3>
+    <p>On Monday I showed that a documentary made a band that broke up in 1970 nearly triple its Google searches. Today I tried to prove that finding was fake. Here is what happened.</p>
+    <span class="bn-read">Read post →</span>
+  </div>
+</a>
+
+<p class="bn-label top-rule">All posts</p>
