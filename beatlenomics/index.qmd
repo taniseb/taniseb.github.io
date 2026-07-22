@@ -1,5 +1,5 @@
 ---
-title: "#beatlenomics 🎸"
+title: ""
 listing:
   contents:
     - 00-lancamento.qmd
@@ -15,6 +15,13 @@ listing:
 page-layout: full
 toc: false
 ---
+
+```{=html}
+<div class="page-header">
+  <p class="page-eyebrow">#beatlenomics</p>
+  <h1>#beatlenomics 🎸</h1>
+</div>
+```
 
 A side project where I point the tools of economics and data analysis at The Beatles and Paul McCartney.
 

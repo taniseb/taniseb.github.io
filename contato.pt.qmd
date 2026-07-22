@@ -1,8 +1,15 @@
 ---
-title: "Contato ✉️"
+title: ""
 toc: false
 lang: pt
 ---
+
+```{=html}
+<div class="page-header">
+  <p class="page-eyebrow">Contato</p>
+  <h1>Fale comigo ✉️</h1>
+</div>
+```
 
 <p class="lang-toggle">🌐 <a href="contato.qmd">Read in English</a></p>
 

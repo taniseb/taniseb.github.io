@@ -1,7 +1,14 @@
 ---
-title: "Contact ✉️"
+title: ""
 toc: false
 ---
+
+```{=html}
+<div class="page-header">
+  <p class="page-eyebrow">Contact</p>
+  <h1>Get in touch ✉️</h1>
+</div>
+```
 
 <p class="lang-toggle">🌐 <a href="contato.pt.qmd">Ler em português</a></p>
 

@@ -4,7 +4,7 @@
     "href": "pesquisa.pt.html",
     "title": "Pesquisa & Publicações 📊",
     "section": "",
-    "text": "🌐 Read in English\nMinha pesquisa está na interseção entre economia da concorrência, econometria e ciência de dados aplicada, em grande parte desenvolvida em paralelo ao meu trabalho no CADE e como professora adjunta na UNIPAMPA."
+    "text": "Pesquisa\n🌐 Read in English\nMinha pesquisa está na interseção entre economia da concorrência, econometria e ciência de dados aplicada, em grande parte desenvolvida em paralelo ao meu trabalho no CADE e como professora adjunta na UNIPAMPA."
   },
   {
     "objectID": "pesquisa.pt.html#artigos-selecionados",
@@ -39,7 +39,7 @@
     "href": "ensino.html",
     "title": "Teaching 🎓",
     "section": "",
-    "text": "🌐 Ler em português\nI am an Adjunct Professor at the Federal University of Pampa (UNIPAMPA), currently on leave (afastada) while working at CADE. My teaching has covered macroeconomics, labor economics, game theory, and public finance for undergraduate Economics students."
+    "text": "Teaching\n🌐 Ler em português\nI am an Adjunct Professor at the Federal University of Pampa (UNIPAMPA), currently on leave (afastada) while working at CADE. My teaching has covered macroeconomics, labor economics, game theory, and public finance for undergraduate Economics students."
   },
   {
     "objectID": "ensino.html#courses-taught",
@@ -53,7 +53,7 @@
     "href": "index.html",
     "title": "Tanise BrandãoBussmann",
     "section": "",
-    "text": "Economist · CADE · UNIPAMPA\n    Tanise BrandãoBussmann\n    I apply economic reasoning and quantitative methods to detect and investigate cartels and anticompetitive conduct — from screening algorithms for bid-rigging to building the evidence base for antitrust cases. On the side, I run the same toolkit on The Beatles.\n    \n      See research 📊\n      #beatlenomics 🎸\n    \n  \n\n\n🌐 Ler em português\n\n\nSobre mim 👋\n\n\n  \n  \n    I am a civil servant at CADE, Brazil's antitrust authority, in the General Superintendence's conduct unit (CGAA9), where I work on Projeto Cérebro — CADE's initiative to use data science and algorithmic methods to detect cartels and collusion. I am also Adjunct Professor at UNIPAMPA (currently on leave), where I taught macroeconomics, labor economics, and quantitative methods.\n    PhD in Economics (PUCRS, 2017) · MSc in Economics (UFMG, 2014) · BSc in Economics (UFRGS, 2011) · Degree in Law (UTP, 2025) · specializations in Competition Defense (FGV) and Public Management.\n    Outside of my institutional work, I write #beatlenomics — a data-essay series that applies the same toolkit (concentration measures, causal inference, market analysis) to The Beatles and Paul McCartney's live career.\n  \n\n\n  \n    Focus areas 🔎\n    \n      +Cartel detection & screening algorithms\n      +Algorithmic competition & collusion\n      +Causal inference for policy evaluation\n      +AI & machine learning for investigations\n      +Labor economics\n      +#beatlenomics — data essays on The Beatles\n    \n  \n\n\nLinks\n\n\n  Lattes CV\n  ORCID\n  LinkedIn\n  Google Scholar\n  GitHub\n  Email"
+    "text": "// Economist · CADE · UNIPAMPA\n    Tanise BrandãoBussmann\n    I apply economic reasoning and quantitative methods to detect and investigate cartels and anticompetitive conduct — from screening algorithms for bid-rigging to building the evidence base for antitrust cases. On the side, I run the same toolkit on The Beatles.\n    \n      See research 📊\n      #beatlenomics 🎸\n    \n  \n\n\n🌐 Ler em português\n\n\n01 / About\n\n\nSobre mim 👋\n\n\n  \n  \n    I am a civil servant at CADE, Brazil's antitrust authority, in the General Superintendence's conduct unit (CGAA9), where I work on Projeto Cérebro — CADE's initiative to use data science and algorithmic methods to detect cartels and collusion. I am also Adjunct Professor at UNIPAMPA (currently on leave), where I taught macroeconomics, labor economics, and quantitative methods.\n    PhD in Economics (PUCRS, 2017) · MSc in Economics (UFMG, 2014) · BSc in Economics (UFRGS, 2011) · Degree in Law (UTP, 2025) · specializations in Competition Defense (FGV) and Public Management.\n    Outside of my institutional work, I write #beatlenomics — a data-essay series that applies the same toolkit (concentration measures, causal inference, market analysis) to The Beatles and Paul McCartney's live career.\n  \n\n\n  \n    02 / Focus\n    Focus areas 🔎\n    \n      +Cartel detection & screening algorithms\n      +Algorithmic competition & collusion\n      +Causal inference for policy evaluation\n      +AI & machine learning for investigations\n      +Labor economics\n      +#beatlenomics — data essays on The Beatles\n    \n  \n\n\nLinks\n\n\n  Lattes CV\n  ORCID\n  LinkedIn\n  Google Scholar\n  GitHub\n  Email"
   },
   {
     "objectID": "beatlenomics/05-lennon-mccartney.html",
@@ -81,7 +81,7 @@
     "href": "beatlenomics/index.html",
     "title": "#beatlenomics 🎸",
     "section": "",
-    "text": "A side project where I point the tools of economics and data analysis at The Beatles and Paul McCartney.\nEach entry takes one question — how often does Paul play each song, how concentrated is his setlist, how much of his stage time still belongs to The Beatles — and answers it with real data, a clear chart, and one economic idea. The series runs on my LinkedIn as #beatlenomics; this section mirrors every published post as its canonical, citable home.\nEvery figure is reproducible. Code, data, and charts live in the beatlenomics GitHub repo.\n\nPosts 📝\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe placebo test\n\n\n\n\n\n\nJul 9, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nDid Get Back move the catalogue?\n\n\n\n\n\n\nJul 6, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nIt never gets old. But does it never get old?\n\n\n\n\n\n\nJul 1, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nWho owns the Beatles?\n\n\n\n\n\n\nJun 28, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nLennon-McCartney and the concentration of songwriting\n\n\n\n\n\n\nJun 25, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nConcentration in Paul McCartney’s setlists\n\n\n\n\n\n\nJun 22, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nLaunching #beatlenomics\n\n\n\n\n\n\nJun 17, 2026\n\n\n\n\n\n\nNo matching items"
+    "text": "#beatlenomics\n  #beatlenomics 🎸\n\nA side project where I point the tools of economics and data analysis at The Beatles and Paul McCartney.\nEach entry takes one question — how often does Paul play each song, how concentrated is his setlist, how much of his stage time still belongs to The Beatles — and answers it with real data, a clear chart, and one economic idea. The series runs on my LinkedIn as #beatlenomics; this section mirrors every published post as its canonical, citable home.\nEvery figure is reproducible. Code, data, and charts live in the beatlenomics GitHub repo.\n\nFeatured\n\n\n\n\n\n\n&lt;span class=\"bn-date-pill\"&gt;Jul 9, 2026&lt;/span&gt;\n&lt;h3&gt;The placebo test&lt;/h3&gt;\n&lt;p&gt;On Monday I showed that a documentary made a band that broke up in 1970 nearly triple its Google searches. Today I tried to prove that finding was fake. Here is what happened.&lt;/p&gt;\n&lt;span class=\"bn-read\"&gt;Read post →&lt;/span&gt;\n\n\n\nAll posts\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDid Get Back move the catalogue?\n\n\n\n\n\n\nJul 6, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nIt never gets old. But does it never get old?\n\n\n\n\n\n\nJul 1, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nWho owns the Beatles?\n\n\n\n\n\n\nJun 28, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nLennon-McCartney and the concentration of songwriting\n\n\n\n\n\n\nJun 25, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nConcentration in Paul McCartney’s setlists\n\n\n\n\n\n\nJun 22, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nLaunching #beatlenomics\n\n\n\n\n\n\nJun 17, 2026\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "beatlenomics/04-musicas-mais-tocadas.html",
@@ -95,7 +95,7 @@
     "href": "ensino.pt.html",
     "title": "Ensino 🎓",
     "section": "",
-    "text": "🌐 Read in English\nSou Professora Adjunta na Universidade Federal do Pampa (UNIPAMPA), atualmente afastada em razão do trabalho no CADE. Minha atuação em ensino abrangeu macroeconomia, economia do trabalho, teoria dos jogos e finanças públicas para estudantes de graduação em Economia."
+    "text": "Ensino\n🌐 Read in English\nSou Professora Adjunta na Universidade Federal do Pampa (UNIPAMPA), atualmente afastada em razão do trabalho no CADE. Minha atuação em ensino abrangeu macroeconomia, economia do trabalho, teoria dos jogos e finanças públicas para estudantes de graduação em Economia."
   },
   {
     "objectID": "ensino.pt.html#disciplinas-lecionadas",
@@ -107,16 +107,16 @@
   {
     "objectID": "contato.html",
     "href": "contato.html",
-    "title": "Contact ✉️",
+    "title": "Get in touch ✉️",
     "section": "",
-    "text": "🌐 Ler em português\n\n\nEmail: tanisebrandao@gmail.com\nLattes CV: lattes.cnpq.br/8929030311500731\nORCID: 0000-0003-0658-3422\nGitHub: github.com/taniseb\nGoogle Scholar: scholar.google.com\nLinkedIn: linkedin.com/in/tanisebussmann"
+    "text": "Contact\n  Get in touch ✉️\n\n\n🌐 Ler em português\n\n\nEmail: tanisebrandao@gmail.com\nLattes CV: lattes.cnpq.br/8929030311500731\nORCID: 0000-0003-0658-3422\nGitHub: github.com/taniseb\nGoogle Scholar: scholar.google.com\nLinkedIn: linkedin.com/in/tanisebussmann"
   },
   {
     "objectID": "pesquisa.html",
     "href": "pesquisa.html",
     "title": "Research & Publications 📊",
     "section": "",
-    "text": "🌐 Ler em português\nMy research sits at the intersection of competition economics, econometrics, and applied data science, largely developed alongside my work at CADE (Brazil’s antitrust authority) and as adjunct professor at UNIPAMPA."
+    "text": "Research\n🌐 Ler em português\nMy research sits at the intersection of competition economics, econometrics, and applied data science, largely developed alongside my work at CADE (Brazil’s antitrust authority) and as adjunct professor at UNIPAMPA."
   },
   {
     "objectID": "pesquisa.html#selected-articles",
@@ -149,9 +149,9 @@
   {
     "objectID": "contato.pt.html",
     "href": "contato.pt.html",
-    "title": "Contato ✉️",
+    "title": "Fale comigo ✉️",
     "section": "",
-    "text": "🌐 Read in English\n\n\nE-mail: tanisebrandao@gmail.com\nCurrículo Lattes: lattes.cnpq.br/8929030311500731\nORCID: 0000-0003-0658-3422\nGitHub: github.com/taniseb\nGoogle Scholar: scholar.google.com\nLinkedIn: linkedin.com/in/tanisebussmann"
+    "text": "Contato\n  Fale comigo ✉️\n\n\n🌐 Read in English\n\n\nE-mail: tanisebrandao@gmail.com\nCurrículo Lattes: lattes.cnpq.br/8929030311500731\nORCID: 0000-0003-0658-3422\nGitHub: github.com/taniseb\nGoogle Scholar: scholar.google.com\nLinkedIn: linkedin.com/in/tanisebussmann"
   },
   {
     "objectID": "beatlenomics/07-quem-e-dono.html",
@@ -172,7 +172,7 @@
     "href": "beatlenomics/index.pt.html",
     "title": "#beatlenomics 🎸",
     "section": "",
-    "text": "🌐 Read in English\n\nUm projeto paralelo em que aponto as ferramentas da economia e da análise de dados para os Beatles e Paul McCartney.\nCada texto parte de uma pergunta — com que frequência Paul toca cada música ao vivo, o quão concentrado é seu repertório, quanto do tempo de palco ainda pertence aos Beatles — e responde com dados reais, um gráfico claro e uma ideia econômica. A série roda no meu LinkedIn como #beatlenomics; esta seção espelha cada post publicado como seu lar canônico e citável.\nOs textos abaixo estão em inglês, o idioma original da série. Todo gráfico é reprodutível: código, dados e visuais estão no repositório beatlenomics no GitHub.\n\nPosts 📝\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe placebo test\n\n\n\n\n\n\n9 de jul. de 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nDid Get Back move the catalogue?\n\n\n\n\n\n\n6 de jul. de 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nIt never gets old. But does it never get old?\n\n\n\n\n\n\n1 de jul. de 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nWho owns the Beatles?\n\n\n\n\n\n\n28 de jun. de 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nLennon-McCartney and the concentration of songwriting\n\n\n\n\n\n\n25 de jun. de 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nConcentration in Paul McCartney’s setlists\n\n\n\n\n\n\n22 de jun. de 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nLaunching #beatlenomics\n\n\n\n\n\n\n17 de jun. de 2026\n\n\n\n\n\n\nNenhum item correspondente"
+    "text": "#beatlenomics\n  #beatlenomics 🎸\n\n\n🌐 Read in English\n\nUm projeto paralelo em que aponto as ferramentas da economia e da análise de dados para os Beatles e Paul McCartney.\nCada texto parte de uma pergunta — com que frequência Paul toca cada música ao vivo, o quão concentrado é seu repertório, quanto do tempo de palco ainda pertence aos Beatles — e responde com dados reais, um gráfico claro e uma ideia econômica. A série roda no meu LinkedIn como #beatlenomics; esta seção espelha cada post publicado como seu lar canônico e citável.\nOs textos abaixo estão em inglês, o idioma original da série. Todo gráfico é reprodutível: código, dados e visuais estão no repositório beatlenomics no GitHub.\n\nDestaque\n\n\n\n\n\n\n&lt;span class=\"bn-date-pill\"&gt;9 de jul. de 2026&lt;/span&gt;\n&lt;h3&gt;The placebo test&lt;/h3&gt;\n&lt;p&gt;On Monday I showed that a documentary made a band that broke up in 1970 nearly triple its Google searches. Today I tried to prove that finding was fake. Here is what happened.&lt;/p&gt;\n&lt;span class=\"bn-read\"&gt;Ler post →&lt;/span&gt;\n\n\n\nTodos os posts\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDid Get Back move the catalogue?\n\n\n\n\n\n\n6 de jul. de 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nIt never gets old. But does it never get old?\n\n\n\n\n\n\n1 de jul. de 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nWho owns the Beatles?\n\n\n\n\n\n\n28 de jun. de 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nLennon-McCartney and the concentration of songwriting\n\n\n\n\n\n\n25 de jun. de 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nConcentration in Paul McCartney’s setlists\n\n\n\n\n\n\n22 de jun. de 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nLaunching #beatlenomics\n\n\n\n\n\n\n17 de jun. de 2026\n\n\n\n\n\n\nNenhum item correspondente"
   },
   {
     "objectID": "beatlenomics/c3-get-back-did.html",
@@ -186,7 +186,7 @@
     "href": "palestras.html",
     "title": "Talks & Awards 🎤",
     "section": "",
-    "text": "🌐 Ler em português"
+    "text": "Talks\n🌐 Ler em português"
   },
   {
     "objectID": "palestras.html#awards",
@@ -207,7 +207,7 @@
     "href": "palestras.pt.html",
     "title": "Palestras & Prêmios 🎤",
     "section": "",
-    "text": "🌐 Read in English"
+    "text": "Palestras\n🌐 Read in English"
   },
   {
     "objectID": "palestras.pt.html#prêmios",
@@ -228,6 +228,6 @@
     "href": "index.pt.html",
     "title": "Tanise BrandãoBussmann",
     "section": "",
-    "text": "Economista · CADE · UNIPAMPA\n    Tanise BrandãoBussmann\n    Aplico raciocínio econômico e métodos quantitativos para detectar e investigar cartéis e condutas anticoncorrenciais — de algoritmos de triagem para direcionamento de licitações à construção de provas em processos antitruste. Nas horas vagas, aplico o mesmo ferramental aos Beatles.\n    \n      Ver pesquisa 📊\n      #beatlenomics 🎸\n    \n  \n\n\n🌐 Read in English\n\n\nSobre mim 👋\n\n\n  \n  \n    Sou servidora do CADE (Conselho Administrativo de Defesa Econômica), na Superintendência-Geral, unidade de condutas (CGAA9), onde trabalho no Projeto Cérebro — iniciativa do CADE para usar ciência de dados e métodos algorítmicos na detecção de cartéis e colusão. Também sou Professora Adjunta na UNIPAMPA (atualmente afastada), onde lecionei macroeconomia, economia do trabalho e métodos quantitativos.\n    Doutora em Economia (PUCRS, 2017) · mestre em Economia (UFMG, 2014) · bacharel em Economia (UFRGS, 2011) · bacharel em Direito (UTP, 2025) · especializações em Defesa da Concorrência (FGV) e Gestão Pública.\n    Fora do trabalho institucional, escrevo o #beatlenomics — uma série de ensaios de dados que aplica o mesmo ferramental (medidas de concentração, inferência causal, análise de mercado) aos Beatles e à carreira ao vivo de Paul McCartney.\n  \n\n\n  \n    Áreas de atuação 🔎\n    \n      +Detecção de cartéis e algoritmos de triagem\n      +Concorrência algorítmica e colusão\n      +Inferência causal para avaliação de políticas\n      +IA e aprendizado de máquina para investigações\n      +Economia do trabalho\n      +#beatlenomics — ensaios de dados sobre os Beatles\n    \n  \n\n\nLinks\n\n\n  Currículo Lattes\n  ORCID\n  LinkedIn\n  Google Scholar\n  GitHub\n  E-mail"
+    "text": "// Economista · CADE · UNIPAMPA\n    Tanise BrandãoBussmann\n    Aplico raciocínio econômico e métodos quantitativos para detectar e investigar cartéis e condutas anticoncorrenciais — de algoritmos de triagem para direcionamento de licitações à construção de provas em processos antitruste. Nas horas vagas, aplico o mesmo ferramental aos Beatles.\n    \n      Ver pesquisa 📊\n      #beatlenomics 🎸\n    \n  \n\n\n🌐 Read in English\n\n\n01 / Sobre\n\n\nSobre mim 👋\n\n\n  \n  \n    Sou servidora do CADE (Conselho Administrativo de Defesa Econômica), na Superintendência-Geral, unidade de condutas (CGAA9), onde trabalho no Projeto Cérebro — iniciativa do CADE para usar ciência de dados e métodos algorítmicos na detecção de cartéis e colusão. Também sou Professora Adjunta na UNIPAMPA (atualmente afastada), onde lecionei macroeconomia, economia do trabalho e métodos quantitativos.\n    Doutora em Economia (PUCRS, 2017) · mestre em Economia (UFMG, 2014) · bacharel em Economia (UFRGS, 2011) · bacharel em Direito (UTP, 2025) · especializações em Defesa da Concorrência (FGV) e Gestão Pública.\n    Fora do trabalho institucional, escrevo o #beatlenomics — uma série de ensaios de dados que aplica o mesmo ferramental (medidas de concentração, inferência causal, análise de mercado) aos Beatles e à carreira ao vivo de Paul McCartney.\n  \n\n\n  \n    02 / Foco\n    Áreas de atuação 🔎\n    \n      +Detecção de cartéis e algoritmos de triagem\n      +Concorrência algorítmica e colusão\n      +Inferência causal para avaliação de políticas\n      +IA e aprendizado de máquina para investigações\n      +Economia do trabalho\n      +#beatlenomics — ensaios de dados sobre os Beatles\n    \n  \n\n\nLinks\n\n\n  Currículo Lattes\n  ORCID\n  LinkedIn\n  Google Scholar\n  GitHub\n  E-mail"
   }
 ]

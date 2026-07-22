@@ -46,3 +46,6 @@ format:
     smooth-scroll: true
     highlight-style: github
     lang: en
+    include-in-header:
+      text: |
+        <script src="/site.js"></script>

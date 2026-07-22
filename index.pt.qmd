@@ -8,7 +8,7 @@ lang: pt
 ```{=html}
 <div class="hero-band">
   <div class="hero-inner">
-    <p class="eyebrow">Economista · CADE · UNIPAMPA</p>
+    <p class="eyebrow">// Economista · CADE · UNIPAMPA</p>
     <h1><span class="light">Tanise</span> <span class="bold">Brandão<br>Bussmann</span></h1>
     <p class="lede">Aplico raciocínio econômico e métodos quantitativos para detectar e investigar cartéis e condutas anticoncorrenciais — de algoritmos de triagem para direcionamento de licitações à construção de provas em processos antitruste. Nas horas vagas, aplico o mesmo ferramental aos Beatles.</p>
     <div class="hero-btns">
@@ -21,6 +21,7 @@ lang: pt
 
 <p class="lang-toggle">🌐 <a href="index.qmd">Read in English</a></p>
 
+<p class="num-label">01 / Sobre</p>
 <p class="section-emoji-head">Sobre mim 👋</p>
 
 ```{=html}
@@ -37,6 +38,7 @@ lang: pt
 ```{=html}
 <div class="focus-band">
   <div class="focus-inner">
+    <p class="num-label">02 / Foco</p>
     <p class="section-emoji-head">Áreas de atuação 🔎</p>
     <div class="accordion-grid">
       <div class="acc-item"><span class="plus">+</span><span><b>Detecção de cartéis</b> e algoritmos de triagem</span></div>
