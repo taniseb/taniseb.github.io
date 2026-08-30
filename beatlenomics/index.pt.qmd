@@ -8,6 +8,11 @@ listing:
     - 07-quem-e-dono.qmd
     - 11-never-gets-old.qmd
     - c3-get-back-did.qmd
+    - 12-sobrevivencia-setlist.qmd
+    - 13-paul80.qmd
+    - 14-setlist-blocos.qmd
+    - 15-mccartney-brasil-tempo.qmd
+    - 16-setlist-hhi.qmd
   sort: "date desc"
   type: grid
   fields: [image, date, title, description]
@@ -35,12 +40,12 @@ Cada texto parte de uma pergunta — com que frequência Paul toca cada música 
 <p class="bn-label">Destaque</p>
 
 ```{=html}
-<a class="bn-featured" href="c6-placebo.html">
-<div class="bn-feat-img" style="background-image:url('images/c6-placebo.png');"></div>
+<a class="bn-featured" href="16-setlist-hhi.html">
+<div class="bn-feat-img" style="background-image:url('images/16-setlist-hhi.png');"></div>
 <div class="bn-feat-body">
-<span class="bn-date-pill">9 de jul. de 2026</span>
-<h3>The placebo test</h3>
-<p>On Monday I showed that a documentary made a band that broke up in 1970 nearly triple its Google searches. Today I tried to prove that finding was fake. Here is what happened.</p>
+<span class="bn-date-pill">27 de ago. de 2026</span>
+<h3>If Paul's setlist were a market</h3>
+<p>By day I compute HHIs for merger review. I pointed the same formula at Paul McCartney's live setlist — and every tour era since 1976 comes back highly concentrated.</p>
 <span class="bn-read">Ler post →</span>
 </div>
 </a>

@@ -1,0 +1,19 @@
+---
+title: "The setlist is made of blocks"
+subtitle: "Hierarchical cluster"
+date: 2026-08-20
+categories: [structure]
+image: images/14-setlist-blocos.png
+---
+
+A Paul McCartney show feels spontaneous, three hours, decades of catalogue, no visible script. I ran a cluster analysis on the 13 setlists I've seen him play and found the opposite: a stable structure of blocks.
+
+Distance between two songs is how far apart, on average, they sit in the set. Cluster them and three clean, contiguous blocks fall out: an opening run of upbeat hits, a long acoustic and deep-cut middle, and a fixed emotional closing block, Let It Be through the Abbey Road medley.
+
+The closing block is the rigid one. Golden Slumbers, Carry That Weight and The End moved less than 5.3% of the set's length across 13 shows spanning 14 years. Three other songs (A Day in the Life, Paperback Writer, I've Got a Feeling) never found a stable slot at all, swinging from the opener to the encore depending on the night, and that inconsistency is exactly what proves the other blocks are real.
+
+He isn't swapping songs. He's swapping modules, and one module never moves.
+
+Any product built from swappable modules works the same way: some pieces are up for reshuffling, and one or two are load bearing.
+
+Which part of your own routine never moves, no matter what else changes around it?

@@ -1,0 +1,16 @@
+---
+title: "The McCartney Index, Brazil over time"
+date: 2026-08-24
+categories: [pricing]
+image: images/15-mccartney-brasil-tempo.png
+---
+
+Same idea as the Big Mac Index, but pointed at one country over time instead of many countries at once. I priced the same kind of seat, the upper tier, for five Paul McCartney shows in Brazil across 13 years: 2011, 2012, 2017, 2023, 2024. What happened to that price, against minimum wage and against The Economist's own Big Mac price for Brazil?
+
+Indexed to 2011, by 2024: the ticket is up 150%. Minimum wage, up 159%. The Big Mac, up 152%. Paul's ticket basically tracked a burger for thirteen years. No special McCartney inflation.
+
+Except one year. In 2017, the ticket jumped to nearly double its 2011 price while wages and burgers were still under double. That's the one year the show got relatively less affordable, and it corrected back in line by the next tour.
+
+The lesson is not "concert prices are fine, don't worry." It is that a single snapshot (like the country comparison in the first McCartney Index post) can hide a story that only shows up over time: this market wasn't drifting away from affordability, it had one bad year, priced in, and moved on.
+
+What's a price you assumed only goes up, that actually just tracks everything else?

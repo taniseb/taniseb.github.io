@@ -1,0 +1,18 @@
+---
+title: "Which songs never retire?"
+date: 2026-08-13
+categories: [catalogue]
+image: images/12-sobrevivencia-setlist.png
+---
+
+Some songs never leave a setlist. Others get played once and vanish forever. I wanted to know if there is a pattern, so I ran a survival analysis, the technique epidemiologists use to ask "how long until this patient relapses," on Paul McCartney's live rotation instead.
+
+I sampled a full setlist from each of 12 tour eras, 1976 to 2024, one show per era, except the current one, where I pooled the six Got Back shows I have on record. Then I tracked every song: which era it first appeared in, and how many eras later it was still being played (or if it dropped out for good).
+
+Split by origin, the pattern is clean. Twelve tour-eras after entering rotation, 41% of Beatles songs are still being played live. Of Wings and solo songs, 19%. A Beatles song that makes the setlist once is roughly twice as likely to still be there decades later.
+
+This is not really about nostalgia. It is about catalogue depth: a much larger audience has a personal stake in a Beatles song than in almost any Wings or solo track, and that stake doesn't decay the way an artist's own new material does.
+
+Every content library faces this. Some assets earn a permanent slot in rotation. Most don't, no matter how good they are on release day.
+
+What's the "Beatles song" in your own portfolio, the thing that just doesn't get retired?

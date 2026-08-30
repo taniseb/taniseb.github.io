@@ -1,7 +1,12 @@
 [
   {
-    "listing": "/beatlenomics/index.html",
+    "listing": "/beatlenomics/index.pt.html",
     "items": [
+      "/beatlenomics/16-setlist-hhi.html",
+      "/beatlenomics/15-mccartney-brasil-tempo.html",
+      "/beatlenomics/14-setlist-blocos.html",
+      "/beatlenomics/13-paul80.html",
+      "/beatlenomics/12-sobrevivencia-setlist.html",
       "/beatlenomics/c3-get-back-did.html",
       "/beatlenomics/11-never-gets-old.html",
       "/beatlenomics/07-quem-e-dono.html",
@@ -11,8 +16,13 @@
     ]
   },
   {
-    "listing": "/beatlenomics/index.pt.html",
+    "listing": "/beatlenomics/index.html",
     "items": [
+      "/beatlenomics/16-setlist-hhi.html",
+      "/beatlenomics/15-mccartney-brasil-tempo.html",
+      "/beatlenomics/14-setlist-blocos.html",
+      "/beatlenomics/13-paul80.html",
+      "/beatlenomics/12-sobrevivencia-setlist.html",
       "/beatlenomics/c3-get-back-did.html",
       "/beatlenomics/11-never-gets-old.html",
       "/beatlenomics/07-quem-e-dono.html",

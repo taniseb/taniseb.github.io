@@ -1,0 +1,17 @@
+---
+title: "If Paul's setlist were a market"
+subtitle: "HHI and antitrust"
+date: 2026-08-27
+categories: [concentration]
+image: images/16-setlist-hhi.png
+---
+
+By day I compute HHIs for merger review. I pointed the same formula at Paul McCartney's live setlist.
+
+Treat each songwriting era as a firm competing for setlist slots: Beatles, Wings, solo and covers. Share of slots squared and summed gives the HHI, the standard concentration measure regulators use, on a 0 to 10,000 scale.
+
+Every single tour era on record, 1976 to 2024, sits above 2,500, the threshold authorities call highly concentrated. Not trending up. Already there in 1976, when Wings held 76% of the set. What changes is who holds the dominant position. By 1989, Wings had collapsed to 7% and the Beatles catalogue took over at 57%. In 2024, Beatles hold 61%, HHI at 4,519, well past the line where a real market gets a hard look.
+
+No regulator would approve this. The dominant firm dissolved in 1970 and has released essentially no new product in fifty years, one 2023 single aside, and it still gained share for three decades.
+
+What market in your own life would fail a concentration test if you ran the numbers?
