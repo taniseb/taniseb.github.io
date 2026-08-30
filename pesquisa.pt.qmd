@@ -1,5 +1,7 @@
 ---
 title: ""
+pagetitle: "Pesquisa & Publicações"
+description: "Pesquisa e publicações de Tanise Brandão Bussmann sobre economia da concorrência, econometria e ciência de dados aplicada ao antitruste."
 toc: false
 lang: pt
 ---

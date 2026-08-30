@@ -1,5 +1,7 @@
 ---
 title: ""
+pagetitle: "Teaching"
+description: "Tanise Brandão Bussmann's teaching at UNIPAMPA, covering macroeconomics, labor economics, game theory, and public finance."
 toc: false
 ---
 

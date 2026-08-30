@@ -1,5 +1,7 @@
 ---
 title: ""
+pagetitle: "Research & Publications"
+description: "Research and publications by Tanise Brandão Bussmann on competition economics, econometrics, and applied data science for antitrust enforcement."
 toc: false
 ---
 

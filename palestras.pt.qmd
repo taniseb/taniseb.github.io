@@ -1,5 +1,7 @@
 ---
 title: ""
+pagetitle: "Palestras & Prêmios"
+description: "Palestras, apresentações e prêmios de Tanise Brandão Bussmann em congressos de direito e economia da concorrência, incluindo eventos do IBRAC."
 toc: false
 lang: pt
 ---

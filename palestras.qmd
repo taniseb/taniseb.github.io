@@ -1,5 +1,7 @@
 ---
 title: ""
+pagetitle: "Talks & Awards"
+description: "Talks, presentations, and awards by Tanise Brandão Bussmann at antitrust and economics conferences, including IBRAC events."
 toc: false
 ---
 

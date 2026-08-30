@@ -1,5 +1,7 @@
 ---
 title: ""
+pagetitle: "Contato"
+description: "Fale com Tanise Brandão Bussmann — email, LinkedIn, GitHub, ORCID e Google Scholar."
 toc: false
 lang: pt
 ---

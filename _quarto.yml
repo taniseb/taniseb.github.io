@@ -1,11 +1,16 @@
 project:
   type: website
   output-dir: docs
+  post-render: scripts/add-canonical.py
 
 website:
   title: "Tanise Brandão Bussmann"
   description: "Economist, cartel investigator, and data scientist"
   site-url: https://taniseb.github.io
+  favicon: assets/social/favicon.png
+  image: assets/social/og-image.png
+  open-graph: true
+  twitter-card: true
 
   navbar:
     pinned: true
@@ -36,6 +41,7 @@ format:
     include-in-header:
       text: |
         <script src="/site.js"></script>
+        <link rel="apple-touch-icon" href="/assets/social/apple-touch-icon.png">
     include-after-body:
       text: |
         <footer class="tb-footer">

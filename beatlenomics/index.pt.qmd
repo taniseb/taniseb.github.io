@@ -1,5 +1,8 @@
 ---
 title: ""
+pagetitle: "#beatlenomics"
+image: ../assets/social/og-image.png
+description: "#beatlenomics — série de textos que aplica ferramentas de antitruste e economia (HHI, inferência causal, análise de sobrevivência) aos Beatles e à carreira ao vivo de Paul McCartney."
 listing:
   contents:
     - 00-lancamento.qmd

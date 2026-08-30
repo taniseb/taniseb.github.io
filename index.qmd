@@ -1,5 +1,8 @@
 ---
 title: ""
+pagetitle: "Economist & Antitrust Data Scientist"
+description: "Tanise Brandão Bussmann is an economist at Brazil's antitrust authority (CADE), using causal inference and data science to detect cartels and bid-rigging."
+image: assets/social/og-image.png
 page-layout: full
 toc: false
 ---
