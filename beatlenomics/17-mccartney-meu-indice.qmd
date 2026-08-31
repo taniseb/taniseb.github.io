@@ -1,0 +1,18 @@
+---
+title: "My own McCartney Index"
+date: 2026-08-31
+categories: [pricing]
+image: images/17-mccartney-meu-indice.png
+image-alt: "Chart comparing days of local minimum wage spent on Paul McCartney tickets across four countries the author actually attended"
+description: "Four Paul McCartney shows, four countries, four tours, priced at whatever ticket tier the author actually bought."
+---
+
+I built the McCartney Index once already, comparing seven countries on the same tour. Then I realized I have my own version: four Paul McCartney shows, four different countries, four different tours, at whatever tier I actually bought.
+
+Uruguay, 2014, standing floor: 3.5 days of local minimum wage. Mexico, 2023, standing floor: 5.7 days. Argentina, 2019, premium standing: 12.6 days. Brazil, 2024, premium standing: 21 days. Twenty one days of minimum wage for one night, in my own country.
+
+This is not a clean experiment like the first index. Different tours, different years, different currencies moving at different speeds. Mexico's ticket here is regular standing, not premium, because that's what I actually bought that year. And I no longer have the receipts, so each number is the official box office price of my tier at the time, not a crumpled ticket stub. I am not pretending otherwise.
+
+But that is also the point. The clean version tells you what the product costs. This one tells you what my own choices cost, premium standing almost every time, across a decade of chasing the same band around a continent, and there is a real gap in the middle: my personal ticket cost is a story of income too, not just of prices.
+
+What's your version of this, the thing you keep paying for at wildly different relative costs?
