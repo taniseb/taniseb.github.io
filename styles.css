@@ -43,10 +43,12 @@ body {
   top: 0;
   left: 0;
   height: 3px;
-  width: 0%;
+  width: 100%;
   background: var(--brand);
   z-index: 1050;
-  transition: width 0.1s linear;
+  transform: scaleX(0);
+  transform-origin: left;
+  transition: transform 0.1s linear;
 }
 
 /* ── Dark mode toggle ── */
@@ -343,7 +345,6 @@ html[data-theme="dark"] .quarto-container {
 }
 .quarto-grid-item:hover {
   border-color: var(--brand) !important;
-  box-shadow: 0 14px 28px -16px rgba(38, 48, 143, 0.32);
   transform: translateY(-2px);
 }
 .quarto-grid-item img.thumbnail-image {
@@ -369,8 +370,12 @@ html[data-theme="dark"] .quarto-container {
 main img:not(.hero-photo):not(.about-photo) {
   border-radius: 10px;
   border: 1px solid var(--border);
-  box-shadow: 0 10px 24px -16px rgba(22, 33, 58, 0.22);
   margin: 1.75rem 0;
+}
+
+/* ── Quarto category badges (post pages) ── */
+.quarto-category {
+  font-size: 0.75rem !important;
 }
 
 /* ── Separators ── */
@@ -483,7 +488,6 @@ main img:not(.hero-photo):not(.about-photo) {
   gap: 0;
   text-decoration: none !important;
   color: inherit;
-  border: 1px solid var(--border);
   border-radius: 18px;
   overflow: hidden;
   background: var(--paper-soft);
@@ -520,7 +524,7 @@ main img:not(.hero-photo):not(.about-photo) {
   margin: 0 0 1rem;
   width: fit-content;
 }
-.bn-feat-body h3 {
+.bn-feat-body h2 {
   font-size: 1.5rem;
   font-weight: 800;
   letter-spacing: -0.01em;

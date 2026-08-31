@@ -45,7 +45,7 @@
     var onScroll = function () {
       var h = document.documentElement.scrollHeight - window.innerHeight;
       var p = h > 0 ? (window.scrollY / h) * 100 : 0;
-      bar.style.width = Math.min(100, Math.max(0, p)) + "%";
+      bar.style.transform = "scaleX(" + Math.min(100, Math.max(0, p)) / 100 + ")";
     };
     window.addEventListener("scroll", onScroll, { passive: true });
     onScroll();

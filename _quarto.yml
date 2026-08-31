@@ -4,6 +4,7 @@ project:
   post-render:
     - scripts/add-canonical.py
     - scripts/defer-scripts.py
+    - scripts/fix-listing-headings.py
 
 website:
   title: "Tanise Brandão Bussmann"

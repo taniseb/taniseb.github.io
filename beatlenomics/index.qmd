@@ -44,7 +44,7 @@ Every figure is reproducible. Code, data, and charts live in the [beatlenomics G
 <div class="bn-feat-img" style="background-image:url('images/16-setlist-hhi.png');"></div>
 <div class="bn-feat-body">
 <span class="bn-date-pill">Aug 27, 2026</span>
-<h3>If Paul's setlist were a market</h3>
+<h2>If Paul's setlist were a market</h2>
 <p>By day I compute HHIs for merger review. I pointed the same formula at Paul McCartney's live setlist — and every tour era since 1976 comes back highly concentrated.</p>
 <span class="bn-read">Read post →</span>
 </div>

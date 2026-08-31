@@ -47,7 +47,7 @@ Cada texto parte de uma pergunta — com que frequência Paul toca cada música 
 <div class="bn-feat-img" style="background-image:url('images/16-setlist-hhi.png');"></div>
 <div class="bn-feat-body">
 <span class="bn-date-pill">27 de ago. de 2026</span>
-<h3>If Paul's setlist were a market</h3>
+<h2>If Paul's setlist were a market</h2>
 <p>By day I compute HHIs for merger review. I pointed the same formula at Paul McCartney's live setlist — and every tour era since 1976 comes back highly concentrated.</p>
 <span class="bn-read">Ler post →</span>
 </div>
