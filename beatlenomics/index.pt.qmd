@@ -11,7 +11,13 @@ listing:
     - 07-quem-e-dono.qmd
     - 11-never-gets-old.qmd
     - c3-get-back-did.qmd
+    - bohemian-rhapsody-synthetic.qmd
+    - 13-shows-paul.qmd
+    - nowandthen-halo.qmd
     - c6-placebo.qmd
+    - geolift-brazil.qmd
+    - streaming-holdout.qmd
+    - mccartney-index.qmd
     - 12-sobrevivencia-setlist.qmd
     - 13-paul80.qmd
     - 14-setlist-blocos.qmd

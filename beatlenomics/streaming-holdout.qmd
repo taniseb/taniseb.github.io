@@ -1,0 +1,18 @@
+---
+title: "The question streaming data can't honestly answer"
+date: 2026-08-06
+categories: [methodology]
+image: images/streaming-holdout.png
+image-alt: "Notes-style chart on the Beatles' late 2015 arrival on streaming platforms and the missing historical stream data"
+description: "Why the cost of the Beatles' streaming holdout can't actually be calculated from any public data."
+---
+
+The Beatles held out against streaming for years after Spotify launched. On 24 December 2015, at 12:01am local time, "here, there and everywhere," the entire catalogue went live at once.
+
+The obvious next question: what did the wait cost them in streams? I went looking for the data to answer that properly. Spotify does not publish a historical stream count by artist, not for the Beatles, not for anyone. There is no trajectory to fit a counterfactual against, only scattered numbers the press happened to capture: 6.5 million monthly listeners at the 100 day mark in 2016, "Here Comes the Sun" crossing 1 billion streams in May 2023, seven and a half years after entry.
+
+I also wanted "early joiners" as a comparison. Led Zeppelin and Pink Floyd beat the Beatles to streaming, but by about two years. AC/DC, by six months. That is not a spectrum of early versus late. That is one cluster of legacy holdouts arriving within three years of each other.
+
+So the honest post is not a number. It is this: the data to calculate "the cost of the holdout" simply does not exist in public form, for the Beatles or anyone else who waited. Every projection you have ever seen claiming to know that cost was built on an assumption nobody can verify.
+
+What's a number you've seen presented with total confidence that actually rests on data nobody has?

@@ -1,0 +1,21 @@
+---
+title: "Bohemian Rhapsody & synthetic control"
+subtitle: "Causal series: synthetic control"
+date: 2026-07-16
+categories: [causal inference]
+image: images/bohemian-rhapsody-synthetic.png
+image-alt: "Chart comparing real Queen streams to a synthetic-control counterfactual around the Bohemian Rhapsody film release"
+description: "Building a synthetic-control counterfactual to size how much the Bohemian Rhapsody film actually lifted Queen's streams."
+---
+
+In November 2018, Queen's streams exploded. Everyone knows why. Almost nobody can say by how much.
+
+"By how much" needs a baseline, and "before the movie" is the wrong one. The right baseline is a Queen that never had a movie at all.
+
+So I built one. A synthetic Queen, a weighted mix of legacy bands with no shock that year, mostly Pink Floyd, some Rolling Stones, picked because that mix matched real Queen best before the premiere. Real Queen ran about 1.4x above synthetic Queen for sixteen weeks after release.
+
+Then I ran the placebo check from my last post on every control. Three came back clean. One did not: Pink Floyd rose too in that window, and Pink Floyd is 65% of my synthetic Queen. But notice which way that cuts. If my control rose on its own, my baseline is too high, and 1.4x is a floor, not a ceiling. Rebuild the synthetic without Pink Floyd and the lift climbs to 1.79x, on a worse pre-movie fit. I will take the conservative number.
+
+Swap the movie for an ad campaign and this is the exact question incrementality testing answers, placebo included.
+
+Which control would you have trusted least?

@@ -1,0 +1,21 @@
+---
+title: "Now and Then: the halo effect on the catalogue"
+subtitle: "Causal series: diff-in-diff"
+date: 2026-07-23
+categories: [causal inference]
+image: images/nowandthen-halo.png
+image-alt: "Diff-in-diff chart of Google search interest in The Beatles around the Now and Then release, compared to control bands"
+description: "A diff-in-diff test of how the 2023 Now and Then release lifted search interest in the Beatles' entire catalogue, not just the new song."
+---
+
+In 2023 the Beatles released a new song. The interesting question is not how it charted. It is what it did to searches for everything else they ever recorded.
+
+"Now and Then" came out on 2 November 2023, billed as the last new Beatles track, built from a decades-old Lennon demo. I pulled Google Trends for "The Beatles" against three legacy bands with no shock in the window (Stones, Zeppelin, Pink Floyd) and ran the same diff-in-diff from my Get Back post.
+
+First surprise: attention started moving a full week before there was anything to hear. The teaser and the announcement, with not a note of music released yet, lifted searches about 30% off baseline. The peak week bundles the short film and the release itself, so the cleanest evidence that promotion moves people is that pre-release jump, before the product existed publicly.
+
+Second surprise: the effect after release was roughly half of Get Back's. But it did not fully fade. Three months out, Beatles search interest was still above where the pre-launch trend put it, while the control bands sat flat. A new song, even one built from an old cassette, left a longer afterglow on the whole catalogue than an 8-hour documentary did.
+
+Product launches work the same way. An iPhone announcement starts moving people well before launch day, and the halo on the rest of the product line often outlasts both.
+
+What lifts your back catalogue more, the trailer or the thing itself?

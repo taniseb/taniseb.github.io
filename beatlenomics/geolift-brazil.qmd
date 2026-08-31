@@ -1,0 +1,21 @@
+---
+title: "The geo-lift that broke on contact with the data"
+subtitle: "Causal series: geo-experiment"
+date: 2026-07-30
+categories: [causal inference]
+image: images/geolift-brazil.png
+image-alt: "Chart comparing Google Trends search interest for Paul McCartney in Brazilian cities with and without a 2023 tour show"
+description: "A geo-lift test using Paul McCartney's 2023 Brazil tour finds the control cities weren't actually isolated from the treatment."
+---
+
+Paul McCartney played 5 cities on the 2023 Brazil leg of his Got Back tour. For a causal inference person, that looks like a natural experiment: treated markets with a show, untreated markets without one.
+
+So I built the geo-lift test. Google Trends for "Paul McCartney," weekly, at state level as a proxy for each host city: Brasília, Belo Horizonte, São Paulo, Curitiba, Rio de Janeiro as treated, Salvador, Recife, Fortaleza, Porto Alegre, Manaus as control, no show in any of them.
+
+The design broke on the first look at the chart. Search interest in host cities peaked at 8.8x their own baseline during the tour. Cities with NO show surged right alongside them, and matched that peak exactly, 8.8x their own baseline too, one week later as the tour closed.
+
+The control group moved almost in lockstep with the treatment. A 5-city tour through a country this size is national news. It leads entertainment segments, trends on social media, gets talked about in cities Paul never visited. The "control" markets were never isolated from the treatment. They caught the same national wave, just a beat later.
+
+This is the failure mode every geo-lift practitioner has to check before trusting a lift number: is your control market actually insulated from the campaign, or does it just look untouched because nobody measured the spillover? Big enough events break the geography the test depends on.
+
+What would you have used as an untouched control here?

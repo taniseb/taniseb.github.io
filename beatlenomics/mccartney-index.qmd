@@ -1,0 +1,20 @@
+---
+title: "The McCartney Index"
+date: 2026-08-10
+categories: [pricing]
+image: images/mccartney-index.png
+image-alt: "Chart comparing days of local minimum wage for the cheapest Paul McCartney Got Back tour ticket across seven countries"
+description: "Applying the Big Mac Index method to Paul McCartney's Got Back tour ticket prices across seven countries."
+---
+
+The Economist has measured currencies with a hamburger since 1986. I measured with a beatle.
+
+Same idea as the Big Mac Index: find one identical product sold in many countries, compare what it really costs in each. My product is the cheapest full price, unrestricted view ticket to Paul McCartney's Got Back tour, same show, same stage, same setlist, in seven countries.
+
+The headline is not the price tag. It is how many days of local minimum wage that ticket costs. In the US, 0.6 of a day. In Australia, Spain, France and the UK, under two days. In Mexico, 3.3 days. In Brazil, 9.6 days, about 15 times the US burden, for the same three hours of Hey Jude.
+
+There is a PPP angle for the econ crowd too: the implied exchange rate from ticket prices says most currencies are undervalued against the dollar. But take that as directional only. Sales opened in different years (the US price is from 2022), so the price comparison mixes vintages, the classic measurement trap in any cross-country index. The days-of-wage number dodges it: each ticket is divided by the minimum wage in force on its own sale date.
+
+Every global brand pricing the same product across borders is running this exact test, just with worse merch.
+
+How many days of your own minimum wage would your favorite artist's cheapest ticket cost?
