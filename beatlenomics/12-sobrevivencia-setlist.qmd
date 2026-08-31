@@ -3,6 +3,7 @@ title: "Which songs never retire?"
 date: 2026-08-13
 categories: [catalogue]
 image: images/12-sobrevivencia-setlist.png
+description: "A survival analysis of which Beatles vs Wings/solo songs stay in Paul McCartney's live rotation for decades."
 image-alt: "Survival curve chart of Beatles vs Wings/solo songs staying in Paul McCartney's live rotation"
 ---
 

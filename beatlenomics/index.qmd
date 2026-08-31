@@ -2,7 +2,7 @@
 title: ""
 pagetitle: "#beatlenomics"
 image: ../assets/social/og-image.png
-description: "#beatlenomics — a data-essay series applying antitrust and economics tools (HHI, causal inference, survival analysis) to The Beatles and Paul McCartney's live career."
+description: "A data-essay series applying antitrust and economics tools to The Beatles and Paul McCartney's live career."
 listing:
   contents:
     - 00-lancamento.qmd

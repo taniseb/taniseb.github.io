@@ -4,6 +4,7 @@ subtitle: "HHI and antitrust"
 date: 2026-08-27
 categories: [concentration]
 image: images/16-setlist-hhi.png
+description: "Applying the HHI, the standard antitrust concentration measure, to Paul McCartney's live setlist since 1976."
 image-alt: "Chart of HHI concentration scores for Paul McCartney's setlist by tour era"
 ---
 

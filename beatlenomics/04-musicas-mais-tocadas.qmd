@@ -3,6 +3,7 @@ title: "Concentration in Paul McCartney's setlists"
 date: 2026-06-22
 categories: [concentration]
 image: images/04-musicas-mais-tocadas.png
+description: "How concentrated is Paul McCartney's setlist? 373 songs played live, and half account for just 1% of stage time."
 image-alt: "Chart showing concentration of Paul McCartney's live setlist across 373 songs"
 ---
 
@@ -12,7 +13,7 @@ I pulled his full live history, every documented show, 30,369 performances in to
 
 The numbers are blunt. 117 songs got played exactly once. Almost half the catalogue shows up five times or fewer. The median song has been played six times in his entire career. And the top 50 songs carry 68% of every performance.
 
-![](images/04-musicas-mais-tocadas.png)
+![Chart showing concentration of Paul McCartney's live setlist across 373 songs](images/04-musicas-mais-tocadas.png){fig-alt="Chart showing concentration of Paul McCartney's live setlist across 373 songs"}
 
 Put it on a Lorenz curve and the Gini comes out at 0.77. I measure market concentration for a living, and that number is higher than the income inequality of any country on earth.
 

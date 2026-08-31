@@ -3,6 +3,7 @@ title: "Paul at 80+, still touring"
 date: 2026-08-17
 categories: [performance]
 image: images/13-paul80.png
+description: "Paul McCartney turned 80 and kept touring. Does his setlist length show any sign of slowing down?"
 image-alt: "Chart of Paul McCartney's setlist length by age across 13 shows"
 ---
 

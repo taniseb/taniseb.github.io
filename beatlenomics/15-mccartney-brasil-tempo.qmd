@@ -3,6 +3,7 @@ title: "The McCartney Index, Brazil over time"
 date: 2026-08-24
 categories: [pricing]
 image: images/15-mccartney-brasil-tempo.png
+description: "Pricing five Paul McCartney shows in Brazil across 13 years against minimum wage and the Big Mac Index."
 image-alt: "Chart comparing Paul McCartney ticket prices in Brazil to minimum wage and the Big Mac Index over time"
 ---
 

@@ -25,7 +25,7 @@ def main() -> None:
         if 'rel="canonical"' in text:
             continue
         url = canonical_url(html_path)
-        tag = f'<link rel="canonical" href="{url}">\n'
+        tag = f'<link rel="canonical" href="{url}">\n<meta property="og:url" content="{url}">\n'
         new_text, count = re.subn(r"(<head>)", r"\1\n" + tag, text, count=1)
         if count:
             html_path.write_text(new_text, encoding="utf-8")

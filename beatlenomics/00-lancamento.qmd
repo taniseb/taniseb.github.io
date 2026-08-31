@@ -3,6 +3,7 @@ title: "Launching #beatlenomics"
 date: 2026-06-17
 categories: [intro]
 image: images/00-lancamento.png
+description: "Launching #beatlenomics: applying antitrust and economics tools to The Beatles and Paul McCartney's live career."
 image-alt: "Chart introducing the #beatlenomics series"
 ---
 

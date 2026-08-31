@@ -3,6 +3,7 @@ title: "It never gets old. But does it never get old?"
 date: 2026-07-01
 categories: [stock vs flow]
 image: images/11-never-gets-old.png
+description: "Comparing Beatles streaming numbers to other classic rock acts: does a 600-million-record legacy hold up on Spotify?"
 image-alt: "Chart comparing Beatles streaming numbers to other classic rock acts"
 ---
 
@@ -16,7 +17,7 @@ So when we say the Beatles never get old, what exactly are we measuring? I ran t
 
 **Second, streams per original song.** The Beatles recorded roughly 213 original compositions. Their 26 billion Spotify streams spread across those tracks give an average of about 122 million streams per song. Queen, with approximately 180 songs and 29 billion streams, averages 162 million per song — a higher per-song streaming density. Part of the explanation is "Bohemian Rhapsody," which got a second life from the 2018 film and sits at over 2 billion streams alone.
 
-![](images/11-never-gets-old.png)
+![Chart comparing Beatles streaming numbers to other classic rock acts](images/11-never-gets-old.png){fig-alt="Chart comparing Beatles streaming numbers to other classic rock acts"}
 
 **Third, the time disadvantage.** The Beatles catalogue was not available on any streaming platform until December 24, 2015. That means their 26 billion streams were accumulated in roughly 10 years, not the 18 years Spotify has existed — about 2.5 billion plays per year. Taylor Swift's is about 6.7 billion per year, a 2.7 to 1 ratio. Significant, but smaller than the 10 to 1 gap in monthly listeners would suggest.
 

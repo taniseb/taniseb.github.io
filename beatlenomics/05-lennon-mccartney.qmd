@@ -3,6 +3,7 @@ title: "Lennon-McCartney and the concentration of songwriting"
 date: 2026-06-25
 categories: [concentration]
 image: images/05-lennon-mccartney.png
+description: "Lennon and McCartney wrote 88% of the Beatles' original songs. A look at songwriting credit concentration."
 image-alt: "Chart of songwriting credit shares among Beatles members"
 ---
 
@@ -10,7 +11,7 @@ There were four Beatles. Two of them wrote 88% of the songs.
 
 I went through the catalogue and counted the credits. Lennon and McCartney are on roughly 180 songs. George Harrison wrote about 22. Ringo Starr wrote 2. So of every original the band recorded, almost nine in ten carry the Lennon-McCartney name.
 
-![](images/05-lennon-mccartney.png)
+![Chart of songwriting credit shares among Beatles members](images/05-lennon-mccartney.png){fig-alt="Chart of songwriting credit shares among Beatles members"}
 
 Here is why that goes beyond trivia. A songwriting credit is its own income stream. When the band plays a show, the performance fees get split. But the writer's share of a song's royalties goes to the people credited as writers, not to everyone who played on it. For Lennon-McCartney songs, that meant John and Paul, not George and Ringo.
 

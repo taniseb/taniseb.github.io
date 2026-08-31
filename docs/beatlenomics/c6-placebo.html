@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 <link rel="canonical" href="https://taniseb.github.io/beatlenomics/c6-placebo.html">
+<meta property="og:url" content="https://taniseb.github.io/beatlenomics/c6-placebo.html">
 
 
 <meta charset="utf-8">
@@ -9,6 +10,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 <meta name="dcterms.date" content="2026-07-09">
+<meta name="description" content="A placebo test to check whether the Get Back documentary’s effect on search trends was actually real.">
 
 <title>The placebo test – Tanise Brandão Bussmann</title>
 <style>
@@ -118,13 +120,13 @@ ul.task-list li input[type="checkbox"] {
 
 <link rel="stylesheet" href="../styles.css">
 <meta property="og:title" content="The placebo test – Tanise Brandão Bussmann">
-<meta property="og:description" content="Causal series: robustness">
+<meta property="og:description" content="A placebo test to check whether the Get Back documentary’s effect on search trends was actually real.">
 <meta property="og:image" content="https://taniseb.github.io/beatlenomics/images/c6-placebo.png">
 <meta property="og:site_name" content="Tanise Brandão Bussmann">
 <meta property="og:image:height" content="1600">
 <meta property="og:image:width" content="2200">
 <meta name="twitter:title" content="The placebo test – Tanise Brandão Bussmann">
-<meta name="twitter:description" content="Causal series: robustness">
+<meta name="twitter:description" content="A placebo test to check whether the Get Back documentary’s effect on search trends was actually real.">
 <meta name="twitter:image" content="https://taniseb.github.io/beatlenomics/images/c6-placebo.png">
 <meta name="twitter:image-height" content="1600">
 <meta name="twitter:image-width" content="2200">
@@ -198,6 +200,11 @@ ul.task-list li input[type="checkbox"] {
   </div>
   </div>
 
+<div>
+  <div class="description">
+    A placebo test to check whether the Get Back documentary’s effect on search trends was actually real.
+  </div>
+</div>
 
 
 <div class="quarto-title-meta">
@@ -222,7 +229,12 @@ ul.task-list li input[type="checkbox"] {
 <p>A number is not trustworthy because you found it. It is trustworthy because you tried to break it and could not. That second step is the one most people skip, and it is the one that separates a serious analysis from a pretty chart.</p>
 <p>So I ran the <strong>placebo test</strong>. My <a href="../beatlenomics/c3-get-back-did.html">diff-in-diff</a> said <em>Get Back</em> lifted Beatles searches by 23 index points. Fine. But what if my method just manufactures effects? What if it would find a lift anywhere I pointed it? There is a clean way to check. Point it at a moment when nothing happened.</p>
 <p>I took the exact same model and moved the treatment date to 63 other weeks. Weeks with no documentary, no reunion, no news. If the method is honest, those fake dates should come back near zero. If it invents effects, they should light up like the real one did.</p>
-<p><img src="images/c6-placebo.png" class="img-fluid"></p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/c6-placebo.png" class="img-fluid figure-img" alt="Placebo test chart comparing Beatles search trends to a control band"></p>
+<figcaption>Placebo test chart comparing Beatles search trends to a control band</figcaption>
+</figure>
+</div>
 <p>They came back near zero. All 63 of them clustered around no effect, while the real <em>Get Back</em> estimate sat more than nine standard deviations away, alone out in the tail. Not one fake date came close. Then I ran it the other way, pretending a control band was the treated one on the real release date. Near zero again. The effect refused to be faked, from every angle I tried.</p>
 <p>Here is the lesson hiding inside the lesson. The only fake dates that showed anything at all were the ones parked right after the real spike, and those were not clean nulls — they were catching the tail of the true effect. A placebo is only as good as the window you give it. Run it carelessly and it will lie to you too.</p>
 <p>Now take this out of music. It is the question to ask anyone who shows you a lift, from an ad campaign, a feature launch, a price cut. Not “how big was it.” Ask “did you run it where nothing happened, and did it come back empty.” If they never tried to break their own result, they do not have a result. They have a hope with a chart attached.</p>

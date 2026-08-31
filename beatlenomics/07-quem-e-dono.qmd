@@ -3,6 +3,7 @@ title: "Who owns the Beatles?"
 date: 2026-06-28
 categories: [intellectual property]
 image: images/07-quem-e-dono.png
+description: "Tracking every transaction behind who owns the Beatles' song catalogue, from Northern Songs to today."
 image-alt: "Timeline chart of Beatles song catalogue ownership changes"
 ---
 
@@ -20,7 +21,7 @@ I tracked every transaction. Here is what the ownership of the most valuable son
 
 **2016.** Seven years after Jackson's death, his estate sells the remaining 50% to Sony for 750 million dollars. The implied valuation of the full catalogue: 1.5 billion.
 
-![](images/07-quem-e-dono.png)
+![Timeline chart of Beatles song catalogue ownership changes](images/07-quem-e-dono.png){fig-alt="Timeline chart of Beatles song catalogue ownership changes"}
 
 Now here is where it gets interesting for anyone who thinks about returns.
 

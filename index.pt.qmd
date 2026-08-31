@@ -1,7 +1,7 @@
 ---
 title: ""
 pagetitle: "Economista e Cientista de Dados Antitruste"
-description: "Tanise Brandão Bussmann é economista no CADE (autoridade antitruste do Brasil), usando inferência causal e ciência de dados para detectar cartéis e direcionamento de licitações."
+description: "Economista no CADE, usando inferência causal e ciência de dados para detectar cartéis e direcionamento de licitações."
 image: assets/social/og-image.png
 page-layout: full
 toc: false

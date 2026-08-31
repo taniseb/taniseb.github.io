@@ -1,7 +1,7 @@
 ---
 title: ""
 pagetitle: "Ensino"
-description: "Atuação de Tanise Brandão Bussmann no ensino na UNIPAMPA, em macroeconomia, economia do trabalho, teoria dos jogos e finanças públicas."
+description: "Atuação no ensino na UNIPAMPA: macroeconomia, economia do trabalho, teoria dos jogos e finanças públicas."
 toc: false
 lang: pt
 ---

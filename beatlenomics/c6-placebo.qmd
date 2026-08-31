@@ -4,6 +4,7 @@ subtitle: "Causal series: robustness"
 date: 2026-07-09
 categories: [causal inference]
 image: images/c6-placebo.png
+description: "A placebo test to check whether the Get Back documentary's effect on search trends was actually real."
 ---
 
 On Monday I showed that a documentary made a band that broke up in 1970 nearly triple its Google searches. Today I tried to prove that finding was fake. Here is what happened.
@@ -14,7 +15,7 @@ So I ran the **placebo test**. My [diff-in-diff](c3-get-back-did.qmd) said *Get 
 
 I took the exact same model and moved the treatment date to 63 other weeks. Weeks with no documentary, no reunion, no news. If the method is honest, those fake dates should come back near zero. If it invents effects, they should light up like the real one did.
 
-![](images/c6-placebo.png)
+![Placebo test chart comparing Beatles search trends to a control band](images/c6-placebo.png){fig-alt="Placebo test chart comparing Beatles search trends to a control band"}
 
 They came back near zero. All 63 of them clustered around no effect, while the real *Get Back* estimate sat more than nine standard deviations away, alone out in the tail. Not one fake date came close. Then I ran it the other way, pretending a control band was the treated one on the real release date. Near zero again. The effect refused to be faked, from every angle I tried.
 
