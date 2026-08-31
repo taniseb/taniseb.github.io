@@ -1,11 +1,13 @@
 /* ── Fonts ── */
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=JetBrains+Mono:wght@400;500;600;700&family=Source+Serif+4:ital,wght@0,300;0,400;0,600;1,400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400&family=JetBrains+Mono:wght@400;500;600;700&family=Source+Serif+4:ital,wght@0,300;0,400;0,600;0,700;1,400&display=swap');
 
 /* ── Brand tokens ── */
 :root {
   --brand:      #26308f;
   --brand-dark: #171d5c;
   --brand-lt:   #eceafd;
+  --accent:     #b45309;
+  --accent-lt:  #fdf1e3;
   --ink:        #1b1c22;
   --ink-soft:   #454653;
   --muted:      #6b6c78;
@@ -18,6 +20,8 @@ html[data-theme="dark"] {
   --brand:      #4e5bc9;
   --brand-dark: #171d5c;
   --brand-lt:   rgba(78, 91, 201, 0.18);
+  --accent:     #e0973d;
+  --accent-lt:  rgba(224, 151, 61, 0.16);
   --ink:        #f2f3f6;
   --ink-soft:   #c7c9d4;
   --muted:      #9698a6;
@@ -29,7 +33,7 @@ html[data-theme="dark"] {
 html { transition: background 0.2s ease; }
 
 body {
-  font-family: 'Inter', sans-serif;
+  font-family: 'Atkinson Hyperlegible', sans-serif;
   color: var(--ink);
   background: var(--paper);
   font-size: 16.5px;
@@ -69,8 +73,9 @@ body {
 }
 
 h1, h2, h3, h4 {
-  font-family: 'Inter', sans-serif;
-  letter-spacing: -0.015em;
+  font-family: 'Source Serif 4', serif;
+  font-weight: 600;
+  letter-spacing: -0.01em;
 }
 
 p { line-height: 1.7; }
@@ -540,7 +545,7 @@ main img:not(.hero-photo):not(.about-photo) {
 .bn-read {
   font-weight: 700;
   font-size: 0.9rem;
-  color: var(--brand);
+  color: var(--accent);
 }
 
 /* ── Talk card (video link) ── */
