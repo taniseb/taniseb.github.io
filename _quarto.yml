@@ -1,7 +1,9 @@
 project:
   type: website
   output-dir: docs
-  post-render: scripts/add-canonical.py
+  post-render:
+    - scripts/add-canonical.py
+    - scripts/defer-scripts.py
 
 website:
   title: "Tanise Brandão Bussmann"
@@ -42,6 +44,44 @@ format:
       text: |
         <script src="/site.js"></script>
         <link rel="apple-touch-icon" href="/assets/social/apple-touch-icon.png">
+        <script type="application/ld+json">
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "Person",
+              "@id": "https://taniseb.github.io/#person",
+              "name": "Tanise Brandão Bussmann",
+              "url": "https://taniseb.github.io/",
+              "image": "https://taniseb.github.io/assets/social/og-image.png",
+              "jobTitle": "Economist",
+              "worksFor": {
+                "@type": "GovernmentOrganization",
+                "name": "CADE — Administrative Council for Economic Defense"
+              },
+              "alumniOf": [
+                {"@type": "CollegeOrUniversity", "name": "PUCRS"},
+                {"@type": "CollegeOrUniversity", "name": "UFMG"},
+                {"@type": "CollegeOrUniversity", "name": "UFRGS"}
+              ],
+              "sameAs": [
+                "https://www.linkedin.com/in/tanisebussmann/",
+                "https://github.com/taniseb",
+                "https://orcid.org/0000-0003-0658-3422",
+                "https://scholar.google.com/citations?user=YTuig-gAAAAJ",
+                "http://lattes.cnpq.br/8929030311500731"
+              ]
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://taniseb.github.io/#website",
+              "url": "https://taniseb.github.io/",
+              "name": "Tanise Brandão Bussmann",
+              "publisher": {"@id": "https://taniseb.github.io/#person"}
+            }
+          ]
+        }
+        </script>
     include-after-body:
       text: |
         <footer class="tb-footer">

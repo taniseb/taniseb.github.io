@@ -3,6 +3,7 @@ title: "Concentration in Paul McCartney's setlists"
 date: 2026-06-22
 categories: [concentration]
 image: images/04-musicas-mais-tocadas.png
+image-alt: "Chart showing concentration of Paul McCartney's live setlist across 373 songs"
 ---
 
 Paul McCartney has played 373 different songs live. Half of them account for 1% of his stage time.

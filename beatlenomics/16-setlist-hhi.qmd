@@ -4,6 +4,7 @@ subtitle: "HHI and antitrust"
 date: 2026-08-27
 categories: [concentration]
 image: images/16-setlist-hhi.png
+image-alt: "Chart of HHI concentration scores for Paul McCartney's setlist by tour era"
 ---
 
 By day I compute HHIs for merger review. I pointed the same formula at Paul McCartney's live setlist.

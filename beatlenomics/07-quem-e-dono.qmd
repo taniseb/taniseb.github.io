@@ -3,6 +3,7 @@ title: "Who owns the Beatles?"
 date: 2026-06-28
 categories: [intellectual property]
 image: images/07-quem-e-dono.png
+image-alt: "Timeline chart of Beatles song catalogue ownership changes"
 ---
 
 In 1963, Lennon and McCartney signed their songs to a company called Northern Songs. They were 22 and 21. By 1969, they had lost control of the catalogue entirely. By 1985, someone who never wrote a single Beatles song owned it.

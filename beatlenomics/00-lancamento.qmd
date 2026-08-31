@@ -3,6 +3,7 @@ title: "Launching #beatlenomics"
 date: 2026-06-17
 categories: [intro]
 image: images/00-lancamento.png
+image-alt: "Chart introducing the #beatlenomics series"
 ---
 
 I started a side project this weekend, and it has almost nothing to do with my day job. Almost.

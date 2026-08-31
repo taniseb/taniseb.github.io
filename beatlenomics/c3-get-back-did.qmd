@@ -4,6 +4,7 @@ subtitle: "Causal series: diff-in-diff"
 date: 2026-07-06
 categories: [causal inference]
 image: images/c3-get-back-did.png
+image-alt: "Diff-in-diff chart of Google search trends before and after the Get Back documentary"
 ---
 
 In November 2021, searches for a band that broke up in 1970 nearly tripled in a single week. I wanted to know one thing. Was that the documentary, or just Christmas?

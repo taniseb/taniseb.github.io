@@ -3,6 +3,7 @@ title: "Paul at 80+, still touring"
 date: 2026-08-17
 categories: [performance]
 image: images/13-paul80.png
+image-alt: "Chart of Paul McCartney's setlist length by age across 13 shows"
 ---
 
 Paul McCartney turned 80 in 2022 and kept touring. I wondered if that showed up in the one number that's hardest to fake on stage: how many songs he actually plays.

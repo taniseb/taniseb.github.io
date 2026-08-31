@@ -4,6 +4,7 @@ subtitle: "Hierarchical cluster"
 date: 2026-08-20
 categories: [structure]
 image: images/14-setlist-blocos.png
+image-alt: "Cluster chart showing the three fixed blocks of a Paul McCartney setlist"
 ---
 
 A Paul McCartney show feels spontaneous, three hours, decades of catalogue, no visible script. I ran a cluster analysis on the 13 setlists I've seen him play and found the opposite: a stable structure of blocks.

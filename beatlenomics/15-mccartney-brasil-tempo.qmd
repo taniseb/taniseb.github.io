@@ -3,6 +3,7 @@ title: "The McCartney Index, Brazil over time"
 date: 2026-08-24
 categories: [pricing]
 image: images/15-mccartney-brasil-tempo.png
+image-alt: "Chart comparing Paul McCartney ticket prices in Brazil to minimum wage and the Big Mac Index over time"
 ---
 
 Same idea as the Big Mac Index, but pointed at one country over time instead of many countries at once. I priced the same kind of seat, the upper tier, for five Paul McCartney shows in Brazil across 13 years: 2011, 2012, 2017, 2023, 2024. What happened to that price, against minimum wage and against The Economist's own Big Mac price for Brazil?

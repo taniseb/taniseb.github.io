@@ -3,6 +3,7 @@ title: "Lennon-McCartney and the concentration of songwriting"
 date: 2026-06-25
 categories: [concentration]
 image: images/05-lennon-mccartney.png
+image-alt: "Chart of songwriting credit shares among Beatles members"
 ---
 
 There were four Beatles. Two of them wrote 88% of the songs.

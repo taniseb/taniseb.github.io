@@ -3,6 +3,7 @@ title: "It never gets old. But does it never get old?"
 date: 2026-07-01
 categories: [stock vs flow]
 image: images/11-never-gets-old.png
+image-alt: "Chart comparing Beatles streaming numbers to other classic rock acts"
 ---
 
 The Beatles sold 600 million records. The best-selling act in music history, by a wide margin.

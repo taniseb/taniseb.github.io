@@ -3,6 +3,7 @@ title: "Which songs never retire?"
 date: 2026-08-13
 categories: [catalogue]
 image: images/12-sobrevivencia-setlist.png
+image-alt: "Survival curve chart of Beatles vs Wings/solo songs staying in Paul McCartney's live rotation"
 ---
 
 Some songs never leave a setlist. Others get played once and vanish forever. I wanted to know if there is a pattern, so I ran a survival analysis, the technique epidemiologists use to ask "how long until this patient relapses," on Paul McCartney's live rotation instead.
