@@ -24,6 +24,7 @@ listing:
     - 15-mccartney-brasil-tempo.qmd
     - 16-setlist-hhi.qmd
     - 17-mccartney-meu-indice.qmd
+    - 18-ticket-dollar-fx.qmd
   sort: "date desc"
   type: grid
   fields: [image, date, title, description]
@@ -51,12 +52,12 @@ Cada texto parte de uma pergunta — com que frequência Paul toca cada música 
 <p class="bn-label">Destaque</p>
 
 ```{=html}
-<a class="bn-featured" href="17-mccartney-meu-indice.html">
-<div class="bn-feat-img" style="background-image:url('images/17-mccartney-meu-indice.png');"></div>
+<a class="bn-featured" href="18-ticket-dollar-fx.html">
+<div class="bn-feat-img" style="background-image:url('images/18-ticket-dollar-fx.png');"></div>
 <div class="bn-feat-body">
-<span class="bn-date-pill">31 de ago. de 2026</span>
-<h2>My own McCartney Index</h2>
-<p>Four Paul McCartney shows, four countries, four tours, priced at whatever ticket tier I actually bought — twenty one days of minimum wage for one night, in my own country.</p>
+<span class="bn-date-pill">3 de set. de 2026</span>
+<h2>Is the ticket priced in dollars?</h2>
+<p>Using the exchange rate on the actual show date instead of the annual average, a tidy FX story about McCartney's Brazil ticket falls apart.</p>
 <span class="bn-read">Ler post →</span>
 </div>
 </a>
