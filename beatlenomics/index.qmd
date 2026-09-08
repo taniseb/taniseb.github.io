@@ -25,6 +25,7 @@ listing:
     - 16-setlist-hhi.qmd
     - 17-mccartney-meu-indice.qmd
     - 18-ticket-dollar-fx.qmd
+    - 19-catalog-billion.qmd
   sort: "date desc"
   type: grid
   fields: [image, date, title, description]
@@ -49,12 +50,12 @@ Every figure is reproducible. Code, data, and charts live in the [beatlenomics G
 <p class="bn-label">Featured</p>
 
 ```{=html}
-<a class="bn-featured" href="18-ticket-dollar-fx.html">
-<div class="bn-feat-img" style="background-image:url('images/18-ticket-dollar-fx.png');"></div>
+<a class="bn-featured" href="19-catalog-billion.html">
+<div class="bn-feat-img" style="background-image:url('images/19-catalog-billion.png');"></div>
 <div class="bn-feat-body">
-<span class="bn-date-pill">Sep 3, 2026</span>
-<h2>Is the ticket priced in dollars?</h2>
-<p>Using the exchange rate on the actual show date instead of the annual average, a tidy FX story about McCartney's Brazil ticket falls apart.</p>
+<span class="bn-date-pill">Sep 8, 2026</span>
+<h2>Why is a 60-year-old catalog worth a billion?</h2>
+<p>Four legacy music catalog sales, 2020-2024, and why the wave outlived the cheap money that supposedly caused it.</p>
 <span class="bn-read">Read post →</span>
 </div>
 </a>
