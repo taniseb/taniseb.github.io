@@ -1,7 +1,8 @@
 [
   {
-    "listing": "/beatlenomics/index.pt.html",
+    "listing": "/beatlenomics/index.html",
     "items": [
+      "/beatlenomics/oasis-dynamic-pricing.html",
       "/beatlenomics/mccartney-index-eras-tour.html",
       "/beatlenomics/20-hipgnosis-bowie-bonds.html",
       "/beatlenomics/19-catalog-billion.html",
@@ -28,8 +29,9 @@
     ]
   },
   {
-    "listing": "/beatlenomics/index.html",
+    "listing": "/beatlenomics/index.pt.html",
     "items": [
+      "/beatlenomics/oasis-dynamic-pricing.html",
       "/beatlenomics/mccartney-index-eras-tour.html",
       "/beatlenomics/20-hipgnosis-bowie-bonds.html",
       "/beatlenomics/19-catalog-billion.html",

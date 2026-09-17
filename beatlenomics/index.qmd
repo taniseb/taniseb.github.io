@@ -28,6 +28,7 @@ listing:
     - 19-catalog-billion.qmd
     - 20-hipgnosis-bowie-bonds.qmd
     - mccartney-index-eras-tour.qmd
+    - oasis-dynamic-pricing.qmd
   sort: "date desc"
   type: grid
   fields: [image, date, title, description]
@@ -52,12 +53,12 @@ Every figure is reproducible. Code, data, and charts live in the [beatlenomics G
 <p class="bn-label">Featured</p>
 
 ```{=html}
-<a class="bn-featured" href="mccartney-index-eras-tour.html">
-<div class="bn-feat-img" style="background-image:url('images/mccartney-index-eras-tour.png');"></div>
+<a class="bn-featured" href="oasis-dynamic-pricing.html">
+<div class="bn-feat-img" style="background-image:url('images/oasis-dynamic-pricing.png');"></div>
 <div class="bn-feat-body">
-<span class="bn-date-pill">Sep 14, 2026</span>
-<h2>McCartney Index vs Eras Tour</h2>
-<p>Same city, same year, three matching ticket tiers: McCartney and the Eras Tour compared on the same minimum-wage scale.</p>
+<span class="bn-date-pill">Sep 17, 2026</span>
+<h2>Oasis Dynamic pricing</h2>
+<p>A ticket at 148.50 pounds became over 350 by checkout. Why dynamic pricing breaks when the price arrives after you've already committed to buy.</p>
 <span class="bn-read">Read post →</span>
 </div>
 </a>

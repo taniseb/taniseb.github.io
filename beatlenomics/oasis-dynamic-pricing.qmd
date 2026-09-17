@@ -1,0 +1,24 @@
+---
+title: "Oasis Dynamic pricing"
+date: 2026-09-17
+categories: [pricing]
+image: images/oasis-dynamic-pricing.png
+image-alt: "Bar chart comparing the advertised Oasis reunion tour ticket price to the checkout price and the platinum-ticket markup found by the CMA"
+description: "Dynamic pricing only works as a market mechanism if the price is known before you commit to buy — the Oasis sale broke that."
+---
+
+A ticket listed at 148.50 pounds. The same ticket, for the same person, in the same queue, at over 350 pounds by the time they reached checkout. No auction happened. No new seat appeared. Only time passed, and the price moved while the buyer waited.
+
+This is dynamic pricing applied to a good that cannot expand supply. A concert has a fixed number of seats the moment tickets go on sale, full stop. Airlines and ride-hailing apps use the same logic on goods that behave the same way, and it usually works, in the textbook sense, because the buyer sees the price before committing. You watch the fare rise, and you decide whether to book now or wait.
+
+The Oasis sale broke that condition. Fans queued for hours not knowing what they would pay at the front of the line. The price they eventually saw was not information they could act on. It was a number sprung on them after the wait was already sunk.
+
+That is the part hardest to defend on pricing grounds, and it has nothing to do with whether the price itself was fair. Dynamic pricing is supposed to let willingness to pay allocate scarce seats efficiently, in theory capturing value that would otherwise leak to resellers. It only does that if the price is known before the decision to buy. Reveal it after, and you have not built a market mechanism. You have built a surprise.
+
+The CMA, the UK regulator that handles both competition and consumer protection, opened a review of the sale in September 2024 under consumer law, not competition law. It was one piece of a price-transparency push that had already targeted secondary ticketing sites since 2016, and that a consumer-pricing act passed months earlier would make easier to enforce from April 2025 onward.
+
+Months later, the review reported finding little evidence of an automated pricing formula driving the spike. What it did flag was something more mundane: some seats had been labeled "platinum" and priced nearly two and a half times equivalent standard seats, with no extra benefit and often no better location. A labeling problem, sitting right next to a pricing-mechanism problem, easy to confuse as one story when they are two. By March 2025, Ticketmaster had agreed to change how it labels and communicates ticket categories and prices.
+
+Fixed supply plus price-after-commitment is a bad combination anywhere it shows up, concerts or otherwise.
+
+Where else have you seen the price arrive after you had already committed to buy?
