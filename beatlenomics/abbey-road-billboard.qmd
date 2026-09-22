@@ -1,0 +1,18 @@
+---
+title: "If Abbey Road dropped today, would it chart?"
+date: 2026-09-22
+categories: [streaming]
+image: images/abbey-road-billboard.png
+image-alt: "Bar chart comparing streams needed per album-equivalent unit on the Billboard 200, before and after January 2026"
+description: "Testing whether Abbey Road's side-two medley would survive streaming-era chart rules."
+---
+
+Seventeen tracks. Forty-seven minutes. A medley on side two that never got released as a single. Would Abbey Road survive its own release week in 2026?
+
+In April 2024, Taylor Swift's "The Tortured Poets Department" did something no album had done before: over a billion Spotify streams in seven days, more than 310 million on day one alone. The Billboard 200 now counts 1,000 paid streams, or 2,500 ad-supported ones, as equal to a single album sale. A chart position today is a streaming behavior, measured in weighted streams, not a trip to a record store.
+
+Abbey Road was built for a different kind of attention. Side two runs into a long medley, several song fragments stitched into one continuous piece rather than released as separate, unfinished tracks. Nobody skips ahead inside a medley on vinyl, because skipping meant getting up and moving the needle. My guess is that a medley built the same way today gets skipped constantly, since nothing stops a listener mid-stream the way a needle drop once did.
+
+So here is the honest split, and the second half is a guess, not a measurement. "Come Together" and "Something" would almost certainly do fine as standalone streams, on their own strengths, no different from any strong single today. The medley is the real test. My bet is it struggles by the metric that decides chart position now: whether each individual segment can survive being encountered outside its context, with nothing forcing the listener to stay.
+
+None of this says anything about quality. It says the unit that gets measured changed. An album built to be heard start to finish, on a format where skipping cost you getting up and lifting a needle, is not the same product once the unit of success becomes the individual track.
