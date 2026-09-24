@@ -1,0 +1,27 @@
+---
+title: "The effect I could not detect."
+subtitle: "Causal series: power analysis"
+date: 2026-09-24
+categories: [causal inference]
+image: images/geolift-power.png
+image-alt: "Power curve for the Brazil geo-lift design: detection rate rises with injected effect size, crossing 80% power at about 350 index points, while the contaminated original estimate sits at 215"
+description: "A power simulation shows the Brazil geo-lift design could only detect effects above ~350 index points; the 215 estimate never stood a chance."
+---
+
+My geo experiment found nothing. Before blaming the effect, I asked a harder question. Could this design have detected anything at all?
+
+Weeks ago I tested whether Paul McCartney's shows moved local search interest in the host cities. Five cities with a show, five without, two weeks of tour against nine weeks of baseline. The control cities moved almost as much as the treated ones, which killed the result before it started.
+
+But there is a second way that test could fail, and it has nothing to do with contamination. The design itself might be too noisy to ever produce a clean answer, contamination or not.
+
+So I ran a power simulation on the exact same design, same five treated cities and five controls I used before, after dropping Florianopolis, whose show fell outside the window being tested. Take the real week-to-week noise in the data, no true effect assumed, and ask: if I plant a fake effect of a given size and rerun the estimator thousands of times, how often does it actually get caught?
+
+The week-to-week noise in artist search interest turned out to be enormous, a standard deviation of roughly 276 index points with no tour at all. Most of it comes from one city. Brasilia has the lowest raw search volume in the sample, so normalizing by its own tiny average turns small absolute wobbles into huge index swings. That is a measurement artifact as much as it is real noise, and it is a warning worth its own line: normalize by a small denominator and you manufacture variance. Rerunning the simulation with each city's own noise level instead of one shared average barely moves the answer, pushing the threshold up slightly and the minimum detectable effect from 350 to about 360.
+
+The number the original test produced was 215, five percent under the threshold where signal and noise become distinguishable in this design, before contamination even enters the picture.
+
+That reframes the whole result. It was not just a compromised estimate. It was a compromised estimate that the design could not have trusted even if it had been clean.
+
+I almost never see this step reported. A geo test runs, a number comes out, and nobody asks whether the test had the sensitivity to find a real effect in the first place, or to rule one out. Power analysis is not a formality you run after the fact. It is the question that tells you whether running the test was worth doing.
+
+Before you trust a null result, or a small one, ask what the test could see in the first place.

@@ -30,6 +30,7 @@ listing:
     - mccartney-index-eras-tour.qmd
     - oasis-dynamic-pricing.qmd
     - abbey-road-billboard.qmd
+    - geolift-power.qmd
   sort: "date desc"
   type: grid
   fields: [image, date, title, description]
@@ -54,12 +55,12 @@ Every figure is reproducible. Code, data, and charts live in the [beatlenomics G
 <p class="bn-label">Featured</p>
 
 ```{=html}
-<a class="bn-featured" href="abbey-road-billboard.html">
-<div class="bn-feat-img" style="background-image:url('images/abbey-road-billboard.png');"></div>
+<a class="bn-featured" href="geolift-power.html">
+<div class="bn-feat-img" style="background-image:url('images/geolift-power.png');"></div>
 <div class="bn-feat-body">
-<span class="bn-date-pill">Sep 22, 2026</span>
-<h2>If Abbey Road dropped today, would it chart?</h2>
-<p>Testing whether Abbey Road's side-two medley would survive streaming-era chart rules that reward individual tracks, not albums.</p>
+<span class="bn-date-pill">Sep 24, 2026</span>
+<h2>The effect I could not detect.</h2>
+<p>A power simulation on the Brazil geo-lift design: it could only detect effects above ~350 index points, so the 215 estimate never stood a chance.</p>
 <span class="bn-read">Read post →</span>
 </div>
 </a>
