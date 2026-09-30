@@ -1,7 +1,8 @@
 [
   {
-    "listing": "/beatlenomics/index.html",
+    "listing": "/beatlenomics/index.pt.html",
     "items": [
+      "/beatlenomics/25-songs-once.html",
       "/beatlenomics/geolift-power.html",
       "/beatlenomics/abbey-road-billboard.html",
       "/beatlenomics/oasis-dynamic-pricing.html",
@@ -31,8 +32,9 @@
     ]
   },
   {
-    "listing": "/beatlenomics/index.pt.html",
+    "listing": "/beatlenomics/index.html",
     "items": [
+      "/beatlenomics/25-songs-once.html",
       "/beatlenomics/geolift-power.html",
       "/beatlenomics/abbey-road-billboard.html",
       "/beatlenomics/oasis-dynamic-pricing.html",

@@ -31,6 +31,7 @@ listing:
     - oasis-dynamic-pricing.qmd
     - abbey-road-billboard.qmd
     - geolift-power.qmd
+    - 25-songs-once.qmd
   sort: "date desc"
   type: grid
   fields: [image, date, title, description]
@@ -55,12 +56,12 @@ Every figure is reproducible. Code, data, and charts live in the [beatlenomics G
 <p class="bn-label">Featured</p>
 
 ```{=html}
-<a class="bn-featured" href="geolift-power.html">
-<div class="bn-feat-img" style="background-image:url('images/geolift-power.png');"></div>
+<a class="bn-featured" href="25-songs-once.html">
+<div class="bn-feat-img" style="background-image:url('images/25-songs-once.png');"></div>
 <div class="bn-feat-body">
-<span class="bn-date-pill">Sep 24, 2026</span>
-<h2>The effect I could not detect.</h2>
-<p>A power simulation on the Brazil geo-lift design: it could only detect effects above ~350 index points, so the 215 estimate never stood a chance.</p>
+<span class="bn-date-pill">Sep 29, 2026</span>
+<h2>The 25 songs I only heard once.</h2>
+<p>85 different songs across 14 years of Paul McCartney shows: 12 played every time, 25 played exactly once.</p>
 <span class="bn-read">Read post →</span>
 </div>
 </a>
