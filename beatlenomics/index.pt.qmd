@@ -32,6 +32,7 @@ listing:
     - abbey-road-billboard.qmd
     - geolift-power.qmd
     - 25-songs-once.qmd
+    - streams-minimum-wage.qmd
   sort: "date desc"
   type: grid
   fields: [image, date, title, description]
@@ -59,12 +60,12 @@ Cada texto parte de uma pergunta — com que frequência Paul toca cada música 
 <p class="bn-label">Destaque</p>
 
 ```{=html}
-<a class="bn-featured" href="25-songs-once.html">
-<div class="bn-feat-img" style="background-image:url('images/25-songs-once.png');"></div>
+<a class="bn-featured" href="streams-minimum-wage.html">
+<div class="bn-feat-img" style="background-image:url('images/streams-minimum-wage.png');"></div>
 <div class="bn-feat-body">
-<span class="bn-date-pill">29 de set. de 2026</span>
-<h2>The 25 songs I only heard once.</h2>
-<p>85 different songs across 14 years of Paul McCartney shows: 12 played every time, 25 played exactly once.</p>
+<span class="bn-date-pill">14 de out. de 2026</span>
+<h2>How many plays pay a minimum wage?</h2>
+<p>About 81,000 streams earn a Brazilian minimum wage if you own the song and recording. With a label deal it is closer to 540,000.</p>
 <span class="bn-read">Ler post →</span>
 </div>
 </a>

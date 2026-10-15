@@ -1,0 +1,24 @@
+---
+title: "How many plays pay a minimum wage?"
+date: 2026-10-14
+categories: [pricing]
+image: images/streams-minimum-wage.png
+image-alt: "Bar chart of Spotify streams needed to earn one monthly minimum wage in Brazil and the US, for an independent artist versus an artist on a label deal"
+description: "About 81,000 streams earn a Brazilian minimum wage if you own the song and recording. With a label deal it is closer to 540,000."
+---
+
+Every time someone plays a song on Spotify, the artist earns a fraction of a cent. So how many plays does it take to add up to one month of Brazil's minimum wage?
+
+About 81,000, if the artist owns both the recording and the song. Sign with a label and it is closer to 540,000.
+
+Spotify says it does not pay per stream. It splits a pool of subscription and ad revenue among rights holders by their share of total streams in each market. Still, the effective rate people back out of that pool usually lands between US$0.003 and US$0.005 per stream.
+
+So I priced the stream in the unit this series always uses: minimum wage.
+
+Brazil, 2026: R$1,621 a month, about US$324. United States, federal: US$7.25 an hour, about US$1,257 a month. At US$0.004 per stream, an artist who owns both the recording and the song needs about 81,000 streams to earn one Brazilian minimum wage, and 314,000 for the American one. A signed artist who keeps around 15% of that money, the middle of the 10 to 20% range commonly reported, needs about 540,000 and 2.1 million.
+
+Move the rate anywhere inside the US$0.003 to US$0.005 range and every number shifts by 20 to 33%. The contract shifts it by a factor of almost seven.
+
+That applies to a Beatles song too. Hey Jude does not really earn by the stream. It earns by the contract it sits inside, and that contract is not public.
+
+In any volume business the unit price is the number nobody publishes, and the split is the number that decides who gets paid.
