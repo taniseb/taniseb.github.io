@@ -1,0 +1,22 @@
+---
+title: "Same stadium, same seat, opposite directions"
+date: 2026-10-29
+categories: [pricing]
+image: images/same-stadium-same-seat.png
+image-alt: "Bar chart of Paul McCartney's cheapest full-price ticket in days of minimum wage at Couto Pereira in Curitiba and Allianz Parque in São Paulo, 2019 to 2024"
+description: "The same seat rose 22% in real terms in Curitiba and fell 24% in São Paulo between 2019 and 2023."
+---
+
+In the city where I live, the same seat in the same stadium got 22% more expensive in four years. In São Paulo, over the same years, it got 24% cheaper.
+
+The McCartney Index that went viral mixed four cities, and a fair objection came up: maybe the price moved because the city changed. So this time I held the stadium and the seat fixed.
+
+Curitiba, Couto Pereira, upper stands. 2019: R$260, or 8.2 days of minimum wage. 2023: R$440, 10.0 days.
+
+São Paulo, Allianz Parque, upper tier. 2019: R$400, 12.6 days. 2023: R$420, 9.5 days. 2024: R$450, 9.6.
+
+Same artist, same two tours, opposite directions. Between the two sales the minimum wage rose 38%. São Paulo raised its price 5%, so the seat got cheaper in real terms. Curitiba raised it 69%.
+
+The two cities did not drift apart. They met. In 2019 São Paulo's cheapest seat cost four and a half days more than Curitiba's. By 2023 the gap was half a day.
+
+A national price series can sit almost still while the cities inside it move in opposite directions.

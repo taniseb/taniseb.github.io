@@ -1,7 +1,12 @@
 [
   {
-    "listing": "/beatlenomics/index.pt.html",
+    "listing": "/beatlenomics/index.html",
     "items": [
+      "/beatlenomics/same-stadium-same-seat.html",
+      "/beatlenomics/halo-three-years.html",
+      "/beatlenomics/nine-stadium-shows.html",
+      "/beatlenomics/installment-fee.html",
+      "/beatlenomics/half-price-ticket.html",
       "/beatlenomics/streams-minimum-wage.html",
       "/beatlenomics/25-songs-once.html",
       "/beatlenomics/geolift-power.html",
@@ -33,8 +38,13 @@
     ]
   },
   {
-    "listing": "/beatlenomics/index.html",
+    "listing": "/beatlenomics/index.pt.html",
     "items": [
+      "/beatlenomics/same-stadium-same-seat.html",
+      "/beatlenomics/halo-three-years.html",
+      "/beatlenomics/nine-stadium-shows.html",
+      "/beatlenomics/installment-fee.html",
+      "/beatlenomics/half-price-ticket.html",
       "/beatlenomics/streams-minimum-wage.html",
       "/beatlenomics/25-songs-once.html",
       "/beatlenomics/geolift-power.html",

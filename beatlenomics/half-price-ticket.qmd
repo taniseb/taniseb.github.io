@@ -1,0 +1,20 @@
+---
+title: "Who pays for the half-price ticket?"
+date: 2026-10-16
+categories: [pricing]
+image: images/half-price-ticket.png
+image-alt: "Bar chart of Paul McCartney's cheapest full-price ticket in Brazil in days of minimum wage, 2011 to 2024, with the half-price law and 40% cap marked"
+description: "A 40% half-price cap implies a 25% higher full price. Paul's 2017 Brazil ticket jumped right after the rule."
+---
+
+In Brazil, up to 40% of the tickets to a show can be sold at half price.
+
+When my McCartney Index went viral, a reader pointed out that Brazil's half-price rule distorts the index. He has a point, so here is the mechanism.
+
+A federal law from December 2013 guarantees half price to students, people with disabilities and low-income young people, capped at 40% of the tickets for each event. The cap only took effect in December 2015, when the regulation came into force. Seniors get their own half-price right from a 2003 statute, with no cap at all.
+
+Now the arithmetic. This is algebra, not an estimate. Say a promoter needs the same revenue with or without the rule. If 40% of the house pays half, the full price has to rise 25% to close the gap. That holds under two assumptions: the full 40% actually sells at half price, and fans keep buying at the higher full price instead of staying home. Relax either one and the markup shrinks. Add uncapped seniors and it grows.
+
+My ticket series has a gap right where the law lands. Paul's cheapest full-price ticket was R$160 in Recife in 2012, the last show before the law. The next show, Porto Alegre 2017, was the first under the cap: R$350. In days of minimum wage, that went from 7.7 to 11.2, the most expensive year in the series. The 25% rule alone would take 7.7 days to about 9.6, not 11.2.
+
+A gap that lines up is not proof of cause. Five shows, four cities, one law. Testing it properly needs a control group, Brazil against its neighbors, and that gets its own post.

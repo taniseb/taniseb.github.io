@@ -1,0 +1,22 @@
+---
+title: "The installment that cost more than cash"
+date: 2026-10-19
+categories: [pricing]
+image: images/installment-fee.png
+image-alt: "Chart comparing the box office price, the online price with convenience fee, and the discounted value of ten installments for the same Paul McCartney ticket in São Paulo 2024"
+description: "The 20% online fee made a R$450 seat cost R$516 even spread over ten payments. Installments did not make it cheaper."
+---
+
+I paid R$594 for my Paul McCartney ticket in São Paulo, 2024: Pista Premium, half price, online, in a single payment. At the box office the same ticket was R$495. I paid R$99 in convenience fee and used none of the installments it came with.
+
+For the cheapest full-price seat, the same fee turned R$450 at the box office into R$540 online. Even spread over ten payments, the real price was R$516.
+
+Brazilians buy almost everything in installments, so I assumed the ticket story would be the usual one: "12x, no interest," and the hidden discount that comes with paying later. Then I read the sale terms for every Paul show in my series. None of them said 12x.
+
+In 2017, general sale allowed 2 installments. In 2023, 10 installments online, with interest. In 2024, up to 10 installments, online only. And online carried a 20% convenience fee. The box office charged no fee, and also took no installments.
+
+Paying later is worth something. The Selic rate was 10.5% a year on sale day, so ten monthly payments of R$54 are worth about R$516 today. That is R$24 of value from deferring payment, against R$90 of fee. The installments did not make the ticket cheaper. The fee made it 15% more expensive, after discounting.
+
+That assumes the 2024 installments were interest-free. The listing does not say. If they carried interest, like 2023, the gap only grows.
+
+When a ticket only comes in installments through the channel with the fee, who do you think is really paying for the credit?

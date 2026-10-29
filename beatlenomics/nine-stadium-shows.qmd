@@ -1,0 +1,18 @@
+---
+title: "Nine stadium shows, one price band"
+date: 2026-10-22
+categories: [pricing]
+image: images/nine-stadium-shows.png
+image-alt: "Bar chart of the cheapest full-price ticket in days of minimum wage for nine stadium shows in São Paulo, 2022 to 2025"
+description: "Across nine São Paulo stadium shows, the cheapest seat cost 7 to 13 days of minimum wage. Paul sat in the middle."
+---
+
+Nine stadium shows in São Paulo, 2022 to 2025. At every one of them, the cheapest full-price seat cost between 7 and 13 days of minimum wage. Paul McCartney landed almost exactly in the middle.
+
+Same rule as every McCartney Index: cheapest full-price ticket, no partial-view seats, divided by the minimum wage in force when tickets went on sale. Eight of the shows were at the same stadium, Allianz Parque. One was at Morumbis.
+
+At the top, Oasis: 12.5 days for the upper stands in 2025. Coldplay 12.1. Taylor Swift 11.4. Linkin Park 10.2. Then a tight cluster: Imagine Dragons 9.7, Paul 9.6, Guns N' Roses 9.5. Roger Waters 8.6. Iron Maiden was the cheapest at 7.3.
+
+Two things stand out. The band is narrow. Different genres, different years, different promoters, and the cheapest seat never moved outside a range of about five days. And on this list, the oldest catalogues do not charge the most. Paul, Roger Waters and Iron Maiden sit at or below the middle. The most expensive cheap seat belongs to a reunion.
+
+A range that narrow, across genres and promoters, is a good estimate of what the most price-sensitive fan will pay.

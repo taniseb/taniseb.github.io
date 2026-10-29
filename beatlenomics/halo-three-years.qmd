@@ -1,0 +1,19 @@
+---
+title: "Three years later, the halo has company"
+subtitle: "Causal series: difference-in-differences"
+date: 2026-10-27
+categories: [causal inference]
+image: images/halo-three-years.png
+image-alt: "Line chart of Google searches for the Beatles versus control bands from 2023 to 2026, with the Now and Then release and later Beatles releases marked"
+description: "Most of the Now and Then search lift was gone within a year, but a three-year lift remains with at least three parents."
+---
+
+Three years ago a new Beatles song came out, and I measured what it did to searches for everything else they recorded. The answer then: a lift that was still there three months later. I said it stuck. So I went back to check.
+
+Same data source, same three control bands, same estimator, window stretched to this September. First, the original number replicates: +13 index points over the first eight weeks, the same as before.
+
+Then the decay. One quarter after release, the lift was 31% of the old baseline. By the fourth quarter, 12%. Most of the halo was gone within a year, but not all of it.
+
+After that, the test stops being about one song. Beatles '64 arrived in November 2024. The Anthology series and a fourth Anthology album came in November 2025, and Beatles searches stayed higher through 2026 than in the months right after Now and Then. A three-year lift exists. It has at least three parents, and this design cannot tell them apart.
+
+A lift measured at three months needs a second measurement at three years, and by then it rarely belongs to one launch.
