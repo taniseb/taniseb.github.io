@@ -38,6 +38,7 @@ listing:
     - nine-stadium-shows.qmd
     - halo-three-years.qmd
     - same-stadium-same-seat.qmd
+    - shea-1965-ticket.qmd
   sort: "date desc"
   type: grid
   fields: [image, date, title, description]
@@ -62,12 +63,12 @@ Every figure is reproducible. Code, data, and charts live in the [beatlenomics G
 <p class="bn-label">Featured</p>
 
 ```{=html}
-<a class="bn-featured" href="same-stadium-same-seat.html">
-<div class="bn-feat-img" style="background-image:url('images/same-stadium-same-seat.png');"></div>
+<a class="bn-featured" href="shea-1965-ticket.html">
+<div class="bn-feat-img" style="background-image:url('images/shea-1965-ticket.png');"></div>
 <div class="bn-feat-body">
-<span class="bn-date-pill">Oct 29, 2026</span>
-<h2>Same stadium, same seat, opposite directions</h2>
-<p>The same seat rose 22% in real terms in Curitiba and fell 24% in São Paulo between 2019 and 2023.</p>
+<span class="bn-date-pill">Nov 10, 2026</span>
+<h2>The 1965 ticket that costs the same today</h2>
+<p>Shea 1965 and Paul in 2022 both cost 0.6 days of US minimum wage; São Paulo 2024 cost 9.6, fifteen times more.</p>
 <span class="bn-read">Read post →</span>
 </div>
 </a>

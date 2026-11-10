@@ -1,0 +1,20 @@
+---
+title: "The 1965 ticket that costs the same today"
+date: 2026-11-10
+categories: [pricing]
+image: images/shea-1965-ticket.png
+image-alt: "Bar chart of the cheapest full-price ticket in days of minimum wage: Beatles at Shea Stadium 1965 at 0.6, Paul McCartney in the USA 2022 at 0.6, and Paul McCartney in São Paulo 2024 at 9.6"
+description: "Shea 1965 and Paul in 2022 both cost 0.6 days of US minimum wage; São Paulo 2024 cost 9.6, fifteen times more."
+---
+
+In 1965 the cheapest seat to see the Beatles at Shea Stadium cost $4.50, or 3.6 hours of the US minimum wage. In 2022 the cheapest seat to see Paul McCartney in North Carolina cost $26.50, or 3.7 hours.
+
+Fifty-seven years. The price went up almost six times, and so did the minimum wage, from $1.25 to $7.25 an hour. In the McCartney Index unit, both tickets cost 0.6 days of minimum wage.
+
+Shea drew 55,600 people at three prices ($4.50, $5.00 and $5.65) and grossed $304,000, a record at the time. The Beatles took $160,000 of it.
+
+Now the same measure in Brazil. São Paulo, 2024, cheapest full-price seat: R$450, or 9.6 days of minimum wage. Fifteen times the American number.
+
+The fine print: both were stadium shows, the 2022 price is Ticketmaster's base before fees, and it is one show per point.
+
+In fifty-seven years the price of seeing a Beatle barely moved for an American on the minimum wage. The country you buy it in moves it fifteen times.
