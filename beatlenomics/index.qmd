@@ -39,6 +39,7 @@ listing:
     - halo-three-years.qmd
     - same-stadium-same-seat.qmd
     - shea-1965-ticket.qmd
+    - never-played-brazil.qmd
   sort: "date desc"
   type: grid
   fields: [image, date, title, description]
@@ -63,12 +64,12 @@ Every figure is reproducible. Code, data, and charts live in the [beatlenomics G
 <p class="bn-label">Featured</p>
 
 ```{=html}
-<a class="bn-featured" href="shea-1965-ticket.html">
-<div class="bn-feat-img" style="background-image:url('images/shea-1965-ticket.png');"></div>
+<a class="bn-featured" href="never-played-brazil.html">
+<div class="bn-feat-img" style="background-image:url('images/never-played-brazil.png');"></div>
 <div class="bn-feat-body">
-<span class="bn-date-pill">Nov 10, 2026</span>
-<h2>The 1965 ticket that costs the same today</h2>
-<p>Shea 1965 and Paul in 2022 both cost 0.6 days of US minimum wage; São Paulo 2024 cost 9.6, fifteen times more.</p>
+<span class="bn-date-pill">Nov 12, 2026</span>
+<h2>The Beatles never played Brazil</h2>
+<p>The Beatles played about 1,400 shows and none in South America; Paul has played Brazil 39 times, 35 of them since 2010.</p>
 <span class="bn-read">Read post →</span>
 </div>
 </a>
