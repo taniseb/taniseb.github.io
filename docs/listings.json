@@ -2,6 +2,7 @@
   {
     "listing": "/beatlenomics/index.html",
     "items": [
+      "/beatlenomics/show-i-sold.html",
       "/beatlenomics/never-played-brazil.html",
       "/beatlenomics/shea-1965-ticket.html",
       "/beatlenomics/same-stadium-same-seat.html",
@@ -42,6 +43,7 @@
   {
     "listing": "/beatlenomics/index.pt.html",
     "items": [
+      "/beatlenomics/show-i-sold.html",
       "/beatlenomics/never-played-brazil.html",
       "/beatlenomics/shea-1965-ticket.html",
       "/beatlenomics/same-stadium-same-seat.html",
