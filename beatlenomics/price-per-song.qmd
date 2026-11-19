@@ -1,0 +1,24 @@
+---
+title: "Price per song"
+date: 2026-11-19
+categories: [pricing]
+image: images/price-per-song.png
+image-alt: "Bar chart of hours of minimum-wage work per song played, cheapest full-price ticket: Beatles at Shea 1965, 18 minutes (12 songs); Paul McCartney in Rio 2011, 2h08 (34 songs); Recife 2012, 1h29 (38 songs); Porto Alegre 2017, 2h06 (39 songs); São Paulo 2024, 1h54 (37 songs)"
+description: "Per ticket, São Paulo 2024 costs about 20 times more work than Shea 1965. Per song played, the gap falls to about 6 times."
+---
+
+How do you compare a concert ticket from 1965 with one from 2024? It is not the same product at a higher price.
+
+The Beatles played 12 songs at Shea Stadium in 1965, about half an hour on stage. The cheapest seat cost $4.50, or 3.6 hours of the US minimum wage: 18 minutes of work per song. Paul McCartney played 37 songs in São Paulo in October 2024. The cheapest full-price seat was R$450, about 70 hours of the Brazilian minimum wage: 1 hour and 54 minutes per song.
+
+Per ticket, São Paulo asks for about 20 times more work than Shea. Per song, the gap falls to about 6 times.
+
+Economists call this a quality-adjusted price, and the hard part is the quality. Statistical agencies face it with laptops and cars: a 2024 laptop is not a 1995 laptop that got more expensive. They price the features one by one, in what are called hedonic models.
+
+A show has no spec sheet. So I used a proxy: songs played, counted from the setlist of that exact night. It is easy to count and easy to check. It is also crude. In 1965 the songs were short and the screaming drowned most of them. In 2024 they come with screens, pyrotechnics and a sound system people can actually hear. Counting songs treats both as the same unit.
+
+Every proxy measures one part of what you buy and misses the rest. Minutes on stage miss the sound. Songs miss the screens. If a 2024 song is worth more than a 1965 song, the true gap is even smaller than 6 times.
+
+The four Brazilian nights in the chart, all shows I attended, land in the same band: between 1h30 and 2h10 of work per song, from Rio 2011 to São Paulo 2024.
+
+#beatlenomics #TheBeatles #PaulMcCartney #economics

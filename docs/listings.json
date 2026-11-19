@@ -1,7 +1,8 @@
 [
   {
-    "listing": "/beatlenomics/index.html",
+    "listing": "/beatlenomics/index.pt.html",
     "items": [
+      "/beatlenomics/price-per-song.html",
       "/beatlenomics/show-i-sold.html",
       "/beatlenomics/never-played-brazil.html",
       "/beatlenomics/shea-1965-ticket.html",
@@ -41,8 +42,9 @@
     ]
   },
   {
-    "listing": "/beatlenomics/index.pt.html",
+    "listing": "/beatlenomics/index.html",
     "items": [
+      "/beatlenomics/price-per-song.html",
       "/beatlenomics/show-i-sold.html",
       "/beatlenomics/never-played-brazil.html",
       "/beatlenomics/shea-1965-ticket.html",

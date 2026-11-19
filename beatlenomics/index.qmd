@@ -41,6 +41,7 @@ listing:
     - shea-1965-ticket.qmd
     - never-played-brazil.qmd
     - show-i-sold.qmd
+    - price-per-song.qmd
   sort: "date desc"
   type: grid
   fields: [image, date, title, description]
@@ -65,12 +66,12 @@ Every figure is reproducible. Code, data, and charts live in the [beatlenomics G
 <p class="bn-label">Featured</p>
 
 ```{=html}
-<a class="bn-featured" href="show-i-sold.html">
-<div class="bn-feat-img" style="background-image:url('images/show-i-sold.png');"></div>
+<a class="bn-featured" href="price-per-song.html">
+<div class="bn-feat-img" style="background-image:url('images/price-per-song.png');"></div>
 <div class="bn-feat-body">
-<span class="bn-date-pill">Nov 16, 2026</span>
-<h2>The show I sold</h2>
-<p>I sold two Paul McCartney tickets at face value to take an exam. The money came back in full; the cost did not.</p>
+<span class="bn-date-pill">Nov 19, 2026</span>
+<h2>Price per song</h2>
+<p>Per ticket, São Paulo 2024 costs about 20 times more work than Shea 1965. Per song played, the gap falls to about 6 times.</p>
 <span class="bn-read">Read post →</span>
 </div>
 </a>
